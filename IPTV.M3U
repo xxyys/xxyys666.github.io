@@ -1,9 +1,9 @@
 #EXTM3U
+
 #EXTINF:0 tvg-name="ch001"  tvg-logo="http://tv.team/images/chIcons/1.png"  timeshift="4", Пеpвый HD
 #EXTGRP:1. 央视
 http://8.troya.tv:34000/ch001/mono.m3u8?token=snopyboy.SYuDQs-o_5-xFRDdJO-_WvYytR0N0rnl5MqHTKvvFqghP6TaJ_m9Ba3LVXqErn6F
 #EXTINF:0 tvg-name="ch002"  tvg-logo="http://tv.team/images/chIcons/1089.png"  timeshift="0", Первый канал HD (Uncomp)
-#EXTGRP:1.央视
 http://8.troya.tv:34000/ch1089/mono.m3u8?token=snopyboy.SYuDQs-o_5-xFRDdJO-_Wnl-nvTEpNs-hDYfGCZcJbF-ASdzHFw7TV6T4NNYv7Df
 
 #EXTINF:0 tvg-name="ch101"  tvg-logo="http://tv.team/images/chIcons/1089.png"  timeshift="0", Первый канал HD (Uncomp)
