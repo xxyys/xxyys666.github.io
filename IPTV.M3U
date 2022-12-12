@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:0 tvg-name="ch001"  tvg-logo="http://tv.team/images/chIcons/1.png"  timeshift="4", Пеpвый HD
 #EXTGRP:1. 央视
 http://8.troya.tv:34000/ch001/mono.m3u8?token=snopyboy.SYuDQs-o_5-xFRDdJO-_WvYytR0N0rnl5MqHTKvvFqghP6TaJ_m9Ba3LVXqErn6F
