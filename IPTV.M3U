@@ -67,33 +67,286 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485573
 #EXTINF:-1,CCTV1
 group-title="央视"
 http://117.157.25.193:6610/270000001111/1110000301/index.m3u8?
+http://117.157.25.193:6610/270000001128/9900000001/index.m3u8?=
+http://117.157.25.193:6610/270000001111/1110000301/index.m3u8?=
+
 #EXTINF:-1,CCTV2
 group-title="央视"
 http://117.157.25.193:6610/270000001111/1110000302/index.m3u8?
+http://117.157.25.193:6610/270000001128/9900000002/index.m3u8?=
+http://117.157.25.193:6610/270000001111/1110000302/index.m3u8?=
+
 #EXTINF:-1,CCTV3
 group-title="央视"
 http://117.157.25.193:6610/270000001111/1110000303/index.m3u8?
+http://117.157.25.193:6610/270000001128/9900000003/index.m3u8?=
+http://117.157.25.193:6610/270000001111/1110000303/index.m3u8?=
+
+#EXTINF:-1,CCTV4
+group-title="央视"
+CCTV4,http://117.157.25.193:6610/270000001128/9900000004/index.m3u8?=
+
 #EXTINF:-1,CCTV5
 group-title="央视"
 http://117.157.25.193:6610/270000001111/1110000305/index.m3u8?
+http://117.157.25.193:6610/270000001128/9900000005/index.m3u8?=
+http://117.157.25.193:6610/270000001128/9900000020/index.m3u8?=
+http://117.157.25.193:6610/270000001111/1110000321/index.m3u8?=
+http://117.157.25.193:6610/270000001111/1110000305/index.m3u8?=
+
 #EXTINF:-1,CCTV5+
 group-title="央视"
 http://117.157.25.193:6610/270000001111/1110000306/index.m3u8?
+http://117.157.25.193:6610/270000001128/9900000018/index.m3u8?=
+http://117.157.25.193:6610/270000001111/1110000306/index.m3u8?=
+
 #EXTINF:-1,CCTV6
-,http://117.157.25.193:6610/270000001111/1110000307/index.m3u8?
+group-title="央视"
+http://117.157.25.193:6610/270000001111/1110000307/index.m3u8?
+http://117.157.25.193:6610/270000001128/9900000006/index.m3u8?=
+http://117.157.25.193:6610/270000001111/1110000307/index.m3u8?=
+
+#EXTINF:-1,CCTV7
+group-title="央视"
+CCTV7,http://117.157.25.193:6610/270000001128/9900000007/index.m3u8?=
+
 #EXTINF:-1,CCTV8
 group-title="央视"
 http://117.157.25.193:6610/270000001111/1110000309/index.m3u8?
+http://117.157.25.193:6610/270000001128/9900000008/index.m3u8?=
+http://117.157.25.193:6610/270000001111/1110000309/index.m3u8?=
+
+#EXTINF:-1,CCTV9
+group-title="央视"
+CCTV9,http://117.157.25.193:6610/270000001128/9900000009/index.m3u8?=
+
+
+#EXTINF:-1,CCTV10
+group-title="央视"
+CCTV10,http://117.157.25.193:6610/270000001128/9900000010/index.m3u8?=
+
+
+#EXTINF:-1,CCTV11
+group-title="央视"
+CCTV11,http://117.157.25.193:6610/270000001128/9900000011/index.m3u8?=
+
+#EXTINF:-1,CCTV12
+group-title="央视"
+CCTV12,http://117.157.25.193:6610/270000001128/9900000012/index.m3u8?=
+
+#EXTINF:-1,CCTV13
+group-title="央视"
+CCTV13,http://117.157.25.193:6610/270000001128/9900000013/index.m3u8?=
+
+#EXTINF:-1,CCTV14
+group-title="央视"
+CCTV14,http://117.157.25.193:6610/270000001128/9900000014/index.m3u8?=
+
+#EXTINF:-1,CCTV15
+group-title="央视"
+CCTV15,http://117.157.25.193:6610/270000001128/9900000015/index.m3u8?=
+
 #EXTINF:-1,CCTV16
 group-title="央视"
 http://117.157.25.193:6610/270000001128/9900000016/index.m3u8?=
+http://117.157.25.193:6610/270000001128/9900000016/index.m3u8?=
+
 #EXTINF:-1,CCTV17
 group-title="央视"
 http://117.157.25.193:6610/270000001111/1110000391/index.m3u8?
+http://117.157.25.193:6610/270000001111/1110000391/index.m3u8?=
+
+http://117.157.25.193:6610/270000001128/9900000017/index.m3u8?=
+
+
+#EXTINF:-1,CCTV 高尔夫 网球
+group-title="央视"
+http://117.157.25.193:6610/270000001128/9900000094/index.m3u8?=
+
+
 
 #EXTINF:-1,甘肃卫视
 group-title="地方台"
 http://117.157.25.193:6610/270000001111/1110000322/index.m3u8?
+http://117.157.25.193:6610/270000001128/9900000023/index.m3u8?=
+#EXTINF:-1,辽宁卫视 
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000029/index.m3u8?=
+#EXTINF:-1,贵州卫视
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000036/index.m3u8?=
+#EXTINF:-1,海南卫视
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000037/index.m3u8?=
+
+#EXTINF:-1,天津卫视
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000028/index.m3u8?=
+#EXTINF:-1,黑龙江卫视
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000031/index.m3u8?=
+#EXTINF:-1,广东卫视
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000033/index.m3u8?=
+#EXTINF:-1,云南卫视
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000035/index.m3u8?=
+#EXTINF:-1,吉林卫视
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000030/index.m3u8?=
+#EXTINF:-1,重庆卫视
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000024/index.m3u8?=
+#EXTINF:-1,东南卫视
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000032/index.m3u8?=
+#EXTINF:-1,河南卫视
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000027/index.m3u8?=
+#EXTINF:-1,陕西卫视
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000026/index.m3u8?=
+#EXTINF:-1,广西卫视
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000034/index.m3u8?=
+#EXTINF:-1,四川卫视
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000025/index.m3u8?=
+#EXTINF:-1,河北卫视
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000057/index.m3u8?=
+#EXTINF:-1,上海卫视
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000048/index.m3u8?=
+#EXTINF:-1,山西卫视
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000053/index.m3u8?=
+#EXTINF:-1,湖南卫视
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000054/index.m3u8?=
+#EXTINF:-1,江苏卫视
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000049/index.m3u8?=
+#EXTINF:-1,安徽卫视
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000051/index.m3u8?=
+#EXTINF:-1,湖北卫视
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000055/index.m3u8?=
+#EXTINF:-1,青海卫视
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000042/index.m3u8?=
+#EXTINF:-1,深圳卫视
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000041/index.m3u8?=
+#EXTINF:-1,山东卫视 
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000052/index.m3u8?=
+#EXTINF:-1,北京卫视 
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000038/index.m3u8?=
+#EXTINF:-1,浙江卫视 
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000050/index.m3u8?=
+#EXTINF:-1,江西卫视 
+group-title="地方台"
+http://117.157.25.193:6610/270000001128/9900000056/index.m3u8?=
+
+
+#EXTINF:-1,超级电视剧 
+group-title="综艺影视"
+http://117.157.25.193:6610/270000001128/9900000022/index.m3u8?=
+#EXTINF:-1,超级电影 
+group-title="综艺影视"
+http://117.157.25.193:6610/270000001128/9900000021/index.m3u8?=
+#EXTINF:-1,超级综艺 
+group-title="综艺影视"
+http://117.157.25.193:6610/270000001128/9900000019/index.m3u8?=
+#EXTINF:-1,欢乐剧场 
+group-title="综艺影视"
+http://117.157.25.193:6610/270000001128/9900000091/index.m3u8?=
+#EXTINF:-1,东北热剧 
+group-title="综艺影视"
+http://117.157.25.193:6610/270000001128/9900000092/index.m3u8?=
+#EXTINF:-1,潮妈辣婆 
+group-title="综艺影视"
+http://117.157.25.193:6610/270000001128/9900000099/index.m3u8?=
+#EXTINF:-1,动作电影 
+group-title="综艺影视"
+http://117.157.25.193:6610/270000001128/9900000106/index.m3u8?=
+#EXTINF:-1,潮妈辣婆 
+group-title="综艺影视"
+http://117.157.25.193:6610/270000001128/9900000099/index.m3u8?=
+#EXTINF:-1,
+group-title="综艺影视"
+古装剧场 http://117.157.25.193:6610/270000001128/9900000105/index.m3u8?=
+#EXTINF:-1,精品大剧 
+group-title="综艺影视"
+http://117.157.25.193:6610/270000001128/9900000100/index.m3u8?=
+#EXTINF:-1,
+group-title="综艺影视"
+Movie http://117.157.25.193:6610/270000001128/9900000090/index.m3u8?=
+#EXTINF:-1,中国功夫 
+group-title="综艺影视"
+http://117.157.25.193:6610/270000001128/9900000101/index.m3u8?=
+#EXTINF:-1,爱情喜剧
+group-title="综艺影视"
+ http://117.157.25.193:6610/270000001128/9900000104/index.m3u8?=
+#EXTINF:-1,军旅剧场
+group-title="综艺影视"
+ http://117.157.25.193:6610/270000001128/9900000107/index.m3u8?=
+#EXTINF:-1,金牌综艺
+group-title="综艺影视"
+ http://117.157.25.193:6610/270000001128/9900000112/index.m3u8?=
+#EXTINF:-1,精品纪录
+group-title="综艺影视"
+ http://117.157.25.193:6610/270000001128/9900000109/index.m3u8?=
+#EXTINF:-1,军事评论
+group-title="综艺影视"
+ http://117.157.25.193:6610/270000001128/9900000110/index.m3u8?=
+#EXTINF:-1,家庭剧场
+group-title="综艺影视"
+ http://117.157.25.193:6610/270000001128/9900000108/index.m3u8?=
+#EXTINF:-1,魅力潇湘
+group-title="综艺影视"
+ http://117.157.25.193:6610/270000001128/9900000117/index.m3u8?=
+#EXTINF:-1,现代剧场
+group-title="综艺影视"
+ http://117.157.25.193:6610/270000001128/9900000115/index.m3u8?=
+#EXTINF:-1,美食节目
+group-title="综艺影视"
+ http://117.157.25.193:6610/270000001128/9900000116/index.m3u8?=
+#EXTINF:-1,惊悚悬疑 
+group-title="综艺影视"
+http://117.157.25.193:6610/270000001128/9900000113/index.m3u8?=
+#EXTINF:-1,精品萌宠 
+group-title="综艺影视"
+http://117.157.25.193:6610/270000001128/9900000122/index.m3u8?=
+
+
+#EXTINF:-1,咪咕视频足球
+group-title="国内体育"
+ http://117.157.25.193:6610/270000001128/9900000118/index.m3u8?=
+#EXTINF:-1,咪咕视频乒乓
+group-title="国内体育"
+ http://117.157.25.193:6610/270000001128/9900000119/index.m3u8?=
+#EXTINF:-1,武博世界
+group-title="国内体育"
+ http://117.157.25.193:6610/270000001128/9900000114/index.m3u8?=
+#EXTINF:-1,运动健身
+group-title="国内体育"
+ http://117.157.25.193:6610/270000001128/9900000120/index.m3u8?=
+#EXTINF:-1,精品体育
+group-title="国内体育"
+ http://117.157.25.193:6610/270000001128/9900000102/index.m3u8?=
+
+
+#EXTINF:-1,
+group-title="纪录片"
+
+纪实人文 http://117.157.25.193:6610/270000001128/9900000068/index.m3u8?=
+BRTV纪实科教 http://117.157.25.193:6610/270000001128/9900000065/index.m3u8?=
+
 
 #EXTINF:-1,凤凰资讯
 group-title="港台卫视"
@@ -129,7 +382,6 @@ http://120.84.96.161:808/hls/86/index.m3u8
 #EXTINF:-1,天映经典
 group-title="港台卫视"
 http://120.84.96.50:808/hls/85/index.m3u8
-
 #EXTINF:-1,民视台湾台
 group-title="港台卫视"
 http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
@@ -165,313 +417,352 @@ group-title="港台卫视"
 http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 
 #EXTINF:-1,US-720 : ESPN
-group-title="USA体育"
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487995
 #EXTINF:-1,US-720 : ESPN 2
-group-title="体育"
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487996
 #EXTINF:-1,US-720 : ESPN DEPORTES
-group-title="体育"
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487997
 #EXTINF:-1,US-720 : ESPN NEWS
-group-title="体育"
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487998
 #EXTINF:-1,US-720 : ESPN U
-group-title="体育"
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487999
 #EXTINF:-1,US-720 : FOX DEPORTES
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488003
 #EXTINF:-1,US-720 : FOX NEWS CHANNEL
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488004
 #EXTINF:-1,US-720 : FOX SPORTS 1
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488005
 #EXTINF:-1,US-720 : FOX SPORTS 2
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488006
 #EXTINF:-1,US: BallySports Arizona Plus
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418254
 #EXTINF:-1,US: BallySports Arizona Plus 2
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418255
 #EXTINF:-1,US: BallySports Arizona US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418219
 #EXTINF:-1,US: BallySPORTS CAROLINAS US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418226
 #EXTINF:-1,US: BallySports Cincinnati us
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418220
 #EXTINF:-1,US: BallySports Detroit Plus
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418256
 #EXTINF:-1,US: BallySports Detroit US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418221
 #EXTINF:-1,US: BallySports Florida US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418223
 #EXTINF:-1,US: BallySports Great Lakes US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418224
 #EXTINF:-1,US: BallySports Indiana US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418225
 #EXTINF:-1,US: BallySports Kansas City Plus US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418228
 #EXTINF:-1,US: BallySports Kansas City US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418227
 #EXTINF:-1,US: BallySports Midwest Plus US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418230
 #EXTINF:-1,US: BallySports Midwest US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418229
 #EXTINF:-1,US: BallySports New Orleans Plus US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418232
 #EXTINF:-1,US: BallySports New Orleans US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418231
 #EXTINF:-1,US: BallySports North Plus US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418234
 #EXTINF:-1,US: BallySports North US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418233
 #EXTINF:-1,US: BallySports Ohio Plus US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418236
 #EXTINF:-1,US: BallySports Ohio US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418235
 #EXTINF:-1,US: BallySports Oklahoma Plus US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418238
 #EXTINF:-1,US: BallySports Oklahoma US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418237
 #EXTINF:-1,US: BallySports San Diego Plus US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418240
 #EXTINF:-1,US: BallySports San Diego US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418239
 #EXTINF:-1,US: BallySports Socal US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418241
 #EXTINF:-1,US: BallySports South Plus US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418243
 #EXTINF:-1,US: BallySports South US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418242
 #EXTINF:-1,US: BallySports Southeast US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418244
 #EXTINF:-1,US: BallySports Southwest US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418245
 #EXTINF:-1,US: BallySPORTS SUN SOUTH US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418246
 #EXTINF:-1,US: BallySports Sun US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418247
 #EXTINF:-1,US: BallySports Tennessee US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418222
 #EXTINF:-1,US: BallySPORTS WEST
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418251
 #EXTINF:-1,US: BallySports West US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418248
 #EXTINF:-1,US: BallySports Wisconsin Plus
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418257
 #EXTINF:-1,US: BallySports Wisconsin US
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418249
 #EXTINF:-1,US: BallySPORTS XTRA2
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418252
 #EXTINF:-1,US: BallySPORTS XTRA3
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418253
 #EXTINF:-1,US: CBS SPORTS NETWORK
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418177
 #EXTINF:-1,US: EDGE SPORT
+group-title="欧美体育"
 #EXTINF:-1,US: FUBO SPORTS NETWORK
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418199
 #EXTINF:-1,US: NBA TV
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418182
-
 #EXTINF:-1,UK: BOX NATION
 group-title="UK体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428235
 #EXTINF:-1,UK: BT SPORT 1
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428237
 #EXTINF:-1,UK: BT SPORT 2
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428240
 #EXTINF:-1,UK: BT SPORT 3
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428243
 #EXTINF:-1,UK: BT SPORT BOX OFFICE (Live On Events Only)
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428249
 #EXTINF:-1,UK: BT SPORT 4 (ESPN)
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428246
 #EXTINF:-1,UK: BT SPORT 5
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428309
 #EXTINF:-1,UK: BT SPORT 6
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428310
 #EXTINF:-1,UK: BT SPORT 7
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428311
 #EXTINF:-1,UK: BT SPORT 8
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428313
 #EXTINF:-1,UK: BT SPORT 9
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428312
 #EXTINF:-1,UK: Eurosport 1
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428251
 #EXTINF:-1,UK: Eurosport 2
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428253
 #EXTINF:-1,UK: FreeSports
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428255
 #EXTINF:-1,UK: Ginx eSports TV
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428257
 #EXTINF:-1,UK: LFC TV
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428259
 #EXTINF:-1,UK: MUTV
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428261
 #EXTINF:-1,UK: PREMIER SPORTS 1
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428314
 #EXTINF:-1,UK: PREMIER SPORTS 1 FHD
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428316
 #EXTINF:-1,UK: PREMIER SPORTS 2
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428317
 #EXTINF:-1,UK: Racing TV
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428263
 #EXTINF:-1,UK: SKY SPORTS 1
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428266
 #EXTINF:-1,UK: SKY SPORTS 2
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428269
 #EXTINF:-1,UK: SKY SPORTS 4
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428275
 #EXTINF:-1,UK: SKY SPORTS 5
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428278
 #EXTINF:-1,UK: Sky Sports Action
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/431478
 #EXTINF:-1,UK: Sky Sports Arena
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/431479
 #EXTINF:-1,UK: SKY SPORTS BOX OFFICE
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428284
 #EXTINF:-1,UK: SKY SPORTS CRICKET
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428286
 #EXTINF:-1,UK: SKY SPORTS F1
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428289
 #EXTINF:-1,UK: SKY SPORTS FOOTBALL
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428292
 #EXTINF:-1,UK: SKY SPORTS GOLF
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428295
 #EXTINF:-1,UK: SKY SPORTS MAIN EVENT
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428298
 #EXTINF:-1,UK: SKY SPORTS MIX
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428300
 #EXTINF:-1,UK: Sky Sports News
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/431480
 #EXTINF:-1,UK: SKY SPORTS NFL
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428303
 #EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428320
 #EXTINF:-1,UK: SKY SPORTS RACING
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428306
-
 #EXTINF:-1,HK Now Sports 1
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425329
 #EXTINF:-1,HK Now Sports 2
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425328
 #EXTINF:-1,HK Now Sports 3
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425327
 #EXTINF:-1,HK Now Sports 4
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425326
 #EXTINF:-1,HK Now Sports 5
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425325
 #EXTINF:-1,HK Now Sports 6
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425324
 #EXTINF:-1,HK Now Sports 7
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425323
 
 #EXTINF:-1,beIN SPORTS 4 FHD (D)
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/214181
 #EXTINF:-1,beIN SPORTS 5 FHD (D)
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/214180
 #EXTINF:-1,beIN SPORTS 6 FHD (D)
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/214179
 #EXTINF:-1,beIN SPORTS 7 FHD (D)
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/214178
 #EXTINF:-1,beIN SPORTS 8 FHD (D)
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/214177
 
 
-5,http://117.157.25.193:6610/270000001128/9900000005/index.m3u8?=
-1,http://117.157.25.193:6610/270000001128/9900000001/index.m3u8?=
-6,http://117.157.25.193:6610/270000001128/9900000006/index.m3u8?=
-2,http://117.157.25.193:6610/270000001128/9900000002/index.m3u8?=
-3,http://117.157.25.193:6610/270000001128/9900000003/index.m3u8?=
-7,http://117.157.25.193:6610/270000001128/9900000007/index.m3u8?=
-4,http://117.157.25.193:6610/270000001128/9900000004/index.m3u8?=
-18,http://117.157.25.193:6610/270000001128/9900000018/index.m3u8?=
-22,http://117.157.25.193:6610/270000001128/9900000022/index.m3u8?=
-9,http://117.157.25.193:6610/270000001128/9900000009/index.m3u8?=
-8,http://117.157.25.193:6610/270000001128/9900000008/index.m3u8?=
-13,http://117.157.25.193:6610/270000001128/9900000013/index.m3u8?=
-11,http://117.157.25.193:6610/270000001128/9900000011/index.m3u8?=
-12,http://117.157.25.193:6610/270000001128/9900000012/index.m3u8?=
-21,http://117.157.25.193:6610/270000001128/9900000021/index.m3u8?=
-16,http://117.157.25.193:6610/270000001128/9900000016/index.m3u8?=
-15,http://117.157.25.193:6610/270000001128/9900000015/index.m3u8?=
-20,http://117.157.25.193:6610/270000001128/9900000020/index.m3u8?=
 
 
 
- 19,http://117.157.25.193:6610/270000001128/9900000019/index.m3u8?=
-17,http://117.157.25.193:6610/270000001128/9900000017/index.m3u8?=
-10,http://117.157.25.193:6610/270000001128/9900000010/index.m3u8?=
-14,http://117.157.25.193:6610/270000001128/9900000014/index.m3u8?=
-29,http://117.157.25.193:6610/270000001128/9900000029/index.m3u8?=
-23,http://117.157.25.193:6610/270000001128/9900000023/index.m3u8?=
-36,http://117.157.25.193:6610/270000001128/9900000036/index.m3u8?=
-37,http://117.157.25.193:6610/270000001128/9900000037/index.m3u8?=
-28,http://117.157.25.193:6610/270000001128/9900000028/index.m3u8?=
-31,http://117.157.25.193:6610/270000001128/9900000031/index.m3u8?=
-33,http://117.157.25.193:6610/270000001128/9900000033/index.m3u8?=
-35,http://117.157.25.193:6610/270000001128/9900000035/index.m3u8?=
-30,http://117.157.25.193:6610/270000001128/9900000030/index.m3u8?=
-24,http://117.157.25.193:6610/270000001128/9900000024/index.m3u8?=
-32,http://117.157.25.193:6610/270000001128/9900000032/index.m3u8?=
-27,http://117.157.25.193:6610/270000001128/9900000027/index.m3u8?=
-26,http://117.157.25.193:6610/270000001128/9900000026/index.m3u8?=
-34,http://117.157.25.193:6610/270000001128/9900000034/index.m3u8?=
-25,http://117.157.25.193:6610/270000001128/9900000025/index.m3u8?=
-57,http://117.157.25.193:6610/270000001128/9900000057/index.m3u8?=
-48,http://117.157.25.193:6610/270000001128/9900000048/index.m3u8?=
-78,http://117.157.25.193:6610/270000001128/9900000078/index.m3u8?=
-53,http://117.157.25.193:6610/270000001128/9900000053/index.m3u8?=
-40,http://117.157.25.193:6610/270000001128/9900000040/index.m3u8?=
-90,http://117.157.25.193:6610/270000001128/9900000090/index.m3u8?=
-73,http://117.157.25.193:6610/270000001128/9900000073/index.m3u8?=
-60,http://117.157.25.193:6610/270000001128/9900000060/index.m3u8?=
-67,http://117.157.25.193:6610/270000001128/9900000067/index.m3u8?=
+KAKU少儿http://117.157.25.193:6610/270000001128/9900000040/index.m3u8?=
 
 
-84,http://117.157.25.193:6610/270000001128/9900000084/index.m3u8?=
-87,http://117.157.25.193:6610/270000001128/9900000087/index.m3u8?=
-54,http://117.157.25.193:6610/270000001128/9900000054/index.m3u8?=
+山东教育卫视 http://117.157.25.193:6610/270000001128/9900000067/index.m3u8?=
+
+
+央视快乐购 http://117.157.25.193:6610/270000001128/9900000084/index.m3u8?=
+CGTN 法语 http://117.157.25.193:6610/270000001128/9900000087/index.m3u8?=
 64,http://117.157.25.193:6610/270000001128/9900000064/index.m3u8?=
-49,http://117.157.25.193:6610/270000001128/9900000049/index.m3u8?=
 69,http://117.157.25.193:6610/270000001128/9900000069/index.m3u8?=
-51,http://117.157.25.193:6610/270000001128/9900000051/index.m3u8?=
-55,http://117.157.25.193:6610/270000001128/9900000055/index.m3u8?=
-42,http://117.157.25.193:6610/270000001128/9900000042/index.m3u8?=
 83,http://117.157.25.193:6610/270000001128/9900000083/index.m3u8?=
 74,http://117.157.25.193:6610/270000001128/9900000074/index.m3u8?=
 46,http://117.157.25.193:6610/270000001128/9900000046/index.m3u8?=
 43,http://117.157.25.193:6610/270000001128/9900000043/index.m3u8?=
-65,http://117.157.25.193:6610/270000001128/9900000065/index.m3u8?=
 82,http://117.157.25.193:6610/270000001128/9900000082/index.m3u8?=
-91,http://117.157.25.193:6610/270000001128/9900000091/index.m3u8?=
+
 59,http://117.157.25.193:6610/270000001128/9900000059/index.m3u8?=
 
 70,http://117.157.25.193:6610/270000001128/9900000070/index.m3u8?=
-92,http://117.157.25.193:6610/270000001128/9900000092/index.m3u8?=
-52,http://117.157.25.193:6610/270000001128/9900000052/index.m3u8?=
-38,http://117.157.25.193:6610/270000001128/9900000038/index.m3u8?=
-50,http://117.157.25.193:6610/270000001128/9900000050/index.m3u8?=
+
 96,http://117.157.25.193:6610/270000001128/9900000096/index.m3u8?=
 66,http://117.157.25.193:6610/270000001128/9900000066/index.m3u8?=
 86,http://117.157.25.193:6610/270000001128/9900000086/index.m3u8?=
 81,http://117.157.25.193:6610/270000001128/9900000081/index.m3u8?=
 75,http://117.157.25.193:6610/270000001128/9900000075/index.m3u8?=
-68,http://117.157.25.193:6610/270000001128/9900000068/index.m3u8?=
-94,http://117.157.25.193:6610/270000001128/9900000094/index.m3u8?=
 45,http://117.157.25.193:6610/270000001128/9900000045/index.m3u8?=
 95,http://117.157.25.193:6610/270000001128/9900000095/index.m3u8?=
 72,http://117.157.25.193:6610/270000001128/9900000072/index.m3u8?=
 47,http://117.157.25.193:6610/270000001128/9900000047/index.m3u8?=
 
 
-41,http://117.157.25.193:6610/270000001128/9900000041/index.m3u8?=
+
 62,http://117.157.25.193:6610/270000001128/9900000062/index.m3u8?=
 39,http://117.157.25.193:6610/270000001128/9900000039/index.m3u8?=
 85,http://117.157.25.193:6610/270000001128/9900000085/index.m3u8?=
-71,http://117.157.25.193:6610/270000001128/9900000071/index.m3u8?=
+CETV2 http://117.157.25.193:6610/270000001128/9900000071/index.m3u8?=
 80,http://117.157.25.193:6610/270000001128/9900000080/index.m3u8?=
 88,http://117.157.25.193:6610/270000001128/9900000088/index.m3u8?=
 89,http://117.157.25.193:6610/270000001128/9900000089/index.m3u8?=
-56,http://117.157.25.193:6610/270000001128/9900000056/index.m3u8?=
 79,http://117.157.25.193:6610/270000001128/9900000079/index.m3u8?=
 61,http://117.157.25.193:6610/270000001128/9900000061/index.m3u8?=
 93,http://117.157.25.193:6610/270000001128/9900000093/index.m3u8?=
@@ -480,43 +771,18 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/214177
 44,http://117.157.25.193:6610/270000001128/9900000044/index.m3u8?=
 77,http://117.157.25.193:6610/270000001128/9900000077/index.m3u8?=
 58,http://117.157.25.193:6610/270000001128/9900000058/index.m3u8?=
-105,http://117.157.25.193:6610/270000001128/9900000105/index.m3u8?=
 103,http://117.157.25.193:6610/270000001128/9900000103/index.m3u8?=
-99,http://117.157.25.193:6610/270000001128/9900000099/index.m3u8?=
-106,http://117.157.25.193:6610/270000001128/9900000106/index.m3u8?=
-102,http://117.157.25.193:6610/270000001128/9900000102/index.m3u8?=
+
 98,http://117.157.25.193:6610/270000001128/9900000098/index.m3u8?=
-100,http://117.157.25.193:6610/270000001128/9900000100/index.m3u8?=
 97,http://117.157.25.193:6610/270000001128/9900000097/index.m3u8?=
-101,http://117.157.25.193:6610/270000001128/9900000101/index.m3u8?=
-104,http://117.157.25.193:6610/270000001128/9900000104/index.m3u8?=
-107,http://117.157.25.193:6610/270000001128/9900000107/index.m3u8?=
-112,http://117.157.25.193:6610/270000001128/9900000112/index.m3u8?=
-109,http://117.157.25.193:6610/270000001128/9900000109/index.m3u8?=
 111,http://117.157.25.193:6610/270000001128/9900000111/index.m3u8?=
-110,http://117.157.25.193:6610/270000001128/9900000110/index.m3u8?=
-108,http://117.157.25.193:6610/270000001128/9900000108/index.m3u8?=
-117,http://117.157.25.193:6610/270000001128/9900000117/index.m3u8?=
-115,http://117.157.25.193:6610/270000001128/9900000115/index.m3u8?=
-116,http://117.157.25.193:6610/270000001128/9900000116/index.m3u8?=
-113,http://117.157.25.193:6610/270000001128/9900000113/index.m3u8?=
-118,http://117.157.25.193:6610/270000001128/9900000118/index.m3u8?=
-114,http://117.157.25.193:6610/270000001128/9900000114/index.m3u8?=
-120,http://117.157.25.193:6610/270000001128/9900000120/index.m3u8?=
-122,http://117.157.25.193:6610/270000001128/9900000122/index.m3u8?=
+
+
 121,http://117.157.25.193:6610/270000001128/9900000121/index.m3u8?=
 123,http://117.157.25.193:6610/270000001128/9900000123/index.m3u8?=
-119,http://117.157.25.193:6610/270000001128/9900000119/index.m3u8?=
 201,http://117.157.25.193:6610/270000001111/1110000201/index.m3u8?=
-302,http://117.157.25.193:6610/270000001111/1110000302/index.m3u8?=
-306,http://117.157.25.193:6610/270000001111/1110000306/index.m3u8?=
-301,http://117.157.25.193:6610/270000001111/1110000301/index.m3u8?=
-303,http://117.157.25.193:6610/270000001111/1110000303/index.m3u8?=
-305,http://117.157.25.193:6610/270000001111/1110000305/index.m3u8?=
-307,http://117.157.25.193:6610/270000001111/1110000307/index.m3u8?=
-309,http://117.157.25.193:6610/270000001111/1110000309/index.m3u8?=
+
 317,http://117.157.25.193:6610/270000001111/1110000317/index.m3u8?=
-321,http://117.157.25.193:6610/270000001111/1110000321/index.m3u8?=
 319,http://117.157.25.193:6610/270000001111/1110000319/index.m3u8?=
 318,http://117.157.25.193:6610/270000001111/1110000318/index.m3u8?=
 320,http://117.157.25.193:6610/270000001111/1110000320/index.m3u8?=
@@ -533,5 +799,4 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/214177
 333,http://117.157.25.193:6610/270000001111/1110000333/index.m3u8?=
 335,http://117.157.25.193:6610/270000001111/1110000335/index.m3u8?=
 336,http://117.157.25.193:6610/270000001111/1110000336/index.m3u8?=
-391,http://117.157.25.193:6610/270000001111/1110000391/index.m3u8?=
 
