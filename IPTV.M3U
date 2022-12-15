@@ -12,7 +12,7 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/478371
 #EXTINF:-1,FWC2022 04 
 group-title="世界杯专栏" 
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/478372
-#EXTINF:-1,UK (ITVX) World Cup Classics
+#EXTINF:-1,(ITVX) World Cup Classics
 group-title="世界杯专栏"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484691
 #EXTINF:-1,US FOX Sports 1 UHD/4K (F)
@@ -726,7 +726,7 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418199
 group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418182
 #EXTINF:-1,UK: BOX NATION
-group-title="UK体育"
+group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428235
 #EXTINF:-1,UK: BT SPORT 1
 group-title="欧美体育"
