@@ -12,7 +12,7 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/478371
 #EXTINF:-1,FWC2022 04 
 group-title="世界杯专栏" 
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/478372
-#EXTINF:-1,(ITVX) World Cup Classics
+#EXTINF:-1,UK (ITVX) World Cup Classics
 group-title="世界杯专栏"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484691
 #EXTINF:-1,US FOX Sports 1 UHD/4K (F)
@@ -481,6 +481,15 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487984
 #EXTINF:-1,UK: Crime & Investigation
 group-title="纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428135
+#EXTINF:-1,UK: Sky Documentaries
+group-title="纪实科学美食"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428161
+#EXTINF:-1,UK: CGTN Documentary
+group-title="纪实科学美食"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428133
+#EXTINF:-1,UK: CGTN Documentary SD
+group-title="纪实科学美食"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428134
 
 #EXTINF:-1,US: FOOD NETWORK
 group-title="纪实科学美食"
@@ -572,6 +581,168 @@ http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 #EXTINF:-1,华视新闻资讯
 group-title="港台卫视"
 http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
+
+#EXTINF:-1,US: ABC
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/417950
+#EXTINF:-1,US: ABC (West)
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/419373
+#EXTINF:-1,US: ABC NEWS
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418131
+#EXTINF:-1,US: ABC NEWS INTERNATIONAL
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418132
+#EXTINF:-1,US: ABC NEWS LIVE
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418139
+
+#EXTINF:-1,US: BBC AMERICA
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/417877
+#EXTINF:-1,US-720 : BBC AMERICA
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487964
+#EXTINF:-1,US: BBC AMERICA
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418133
+#EXTINF:-1,US: BBC WORLD NEWS
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418112
+#EXTINF:-1,CA: BBC CANADA (E)
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/423699
+#EXTINF:-1,CA: BBC World News
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418416
+
+#EXTINF:-1,UK: BBC NEWS
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/493709
+#EXTINF:-1,UK: BBC One
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428366
+#EXTINF:-1,UK: BBC Three
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428370
+#EXTINF:-1,UK: BBC Two
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428368
+
+#EXTINF:-1,US-720 : CNN
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487979
+#EXTINF:-1,US: CNN
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418118
+#EXTINF:-1,US: CNN INTERNATIONAL
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418117
+#EXTINF:-1,CA: CNN
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418436
+#EXTINF:-1,CA: CNN International
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418435
+#EXTINF:-1,UK: CNN
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/493687
+#EXTINF:-1,UY  CNN en Español
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/422043
+#EXTINF:-1,UY  CNN Internacional
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/422044
+
+#EXTINF:-1,US: CBS 
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/424635
+#EXTINF:-1,US: CBS NEWS
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418126
+#EXTINF:-1,UK: CBS Reality
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428378
+#EXTINF:-1,UK: CBS Reality +1
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428379
+
+#EXTINF:-1,US-720 : CNBC
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487978
+#EXTINF:-1,US: CNBC
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418115
+#EXTINF:-1,US: CNBC WORLD
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418116
+#EXTINF:-1,UK: CNBC
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/493674
+
+
+#EXTINF:-1,US: FOX NEWS CHANNEL
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418111
+#EXTINF:-1,US-720 : FOX NEWS CHANNEL
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488004
+#EXTINF:-1,US: FOX NEWS NOW
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418140
+#EXTINF:-1,US: FOX
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/417988
+#EXTINF:-1,US: FOX (west)
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/424637
+
+#EXTINF:-1,UK: FRANCE 24
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/493679
+#EXTINF:-1,UK: GB News
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/493696
+#EXTINF:-1,UK: NHK World
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/493684
+#EXTINF:-1,UK: Sky News FHD
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/493726
+
+#EXTINF:-1,UK: Bloomberg
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/493677
+#EXTINF:-1,US: BLOOMBERG
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418113
+#EXTINF:-1,US: MSNBC
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418123
+#EXTINF:-1,US: CHEDDAR BUSINESS
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418114
+#EXTINF:-1,US: CHEDDAR NEWS
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418136
+
+#EXTINF:-1,US: BLACK NEWS CHANNEL
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418134
+#EXTINF:-1,US: Black News Channel (West)
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/419269
+#EXTINF:-1,US: C-SPAN
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418124
+#EXTINF:-1,US: C-SPAN 2
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418125
+#EXTINF:-1,US: C-SPAN 3
+group-title="欧美新闻"
+http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418135
+
 
 #EXTINF:-1,US-720 : ESPN
 group-title="欧美体育"
@@ -726,7 +897,7 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418199
 group-title="欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418182
 #EXTINF:-1,UK: BOX NATION
-group-title="欧美体育"
+group-title="UK体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428235
 #EXTINF:-1,UK: BT SPORT 1
 group-title="欧美体育"
