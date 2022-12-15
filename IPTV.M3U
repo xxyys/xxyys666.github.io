@@ -322,7 +322,9 @@ http://117.157.25.193:6610/270000001128/9900000113/index.m3u8?=
 #EXTINF:-1,精品萌宠 
 group-title="综艺影视"
 http://117.157.25.193:6610/270000001128/9900000122/index.m3u8?=
-
+#EXTINF:-1,湖南电影台
+group-title="综艺影视"
+http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f896e9.m3u8
 
 #EXTINF:-1,咪咕视频足球
 group-title="国内体育"
@@ -514,12 +516,18 @@ group-title="纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428483
 
 
+#EXTINF:-1,凤凰中文
+group-title="港台卫视"
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 #EXTINF:-1,凤凰资讯
 group-title="港台卫视"
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+#EXTINF:-1,凤凰资讯1
+group-title="港台卫视"
+http://117.169.120.242:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226274/index.m3u8
 #EXTINF:-1,凤凰香港
 group-title="港台卫视"
-http://171.110.43.88:8181/tsfile/live/1002_1.m3u8 
+http://117.169.120.243:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226251/index.m3u8
 #EXTINF:-1,凤凰电影
 group-title="港台卫视"
 http://111.59.189.40:8445/tsfile/live/1022_1.m3u8 
@@ -539,6 +547,42 @@ http://113.117.74.11:808/hls/25/index.m3u8
 #EXTINF:-1,翡翠台[1920x1080]
 group-title="港台卫视"
 http://113.117.74.37:808/hls/67/index.m3u8
+#EXTINF:-1,翡翠台TVB新闻台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/c8eff4963f336b2f831780fb09a37fb4.m3u8
+#EXTINF:-1,TVB华丽台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
+#EXTINF:-1,TVB翡翠台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
+#EXTINF:-1,TVB明珠台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8
+#EXTINF:-1,TVB财经台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/beb24d452126196227a4c183337d6bfd.m3u8
+#EXTINF:-1,TVB星河台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/d40c919171cfc73cf4de67fc381cbc3e.m3u8
+#EXTINF:-1,now新闻台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/f49db49809a6d8e96047011ee9160bc8.m3u8
+#EXTINF:-1,now财经台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/60b4bda9cef7c62d547a8c2ca1ca9c2c.m3u8
+#EXTINF:-1,now直播台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/fc910419627cee83895e03d74029cbb4.m3u8
+#EXTINF:-1,有线财经台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8
+#EXTINF:-1,有线直播台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8
+#EXTINF:-1,有线新闻台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
 #EXTINF:-1,星河台
 group-title="港台卫视"
 http://113.117.74.11:808/hls/135/index.m3u8
@@ -548,6 +592,102 @@ http://120.84.96.161:808/hls/86/index.m3u8
 #EXTINF:-1,天映经典
 group-title="港台卫视"
 http://120.84.96.50:808/hls/85/index.m3u8
+#EXTINF:-1,中天新闻台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
+#EXTINF:-1,中天综合台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8
+#EXTINF:-1,东森新闻台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
+#EXTINF:-1,台视新闻台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
+#EXTINF:-1,民视新闻台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
+#EXTINF:-1,TVBS新闻台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+#EXTINF:-1,TVBS亚洲台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
+#EXTINF:-1,RT英语新闻，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/01a22d8d466a6ef38b80e2ce6cd323c0.m3u8
+#EXTINF:-1,寰宇新闻台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
+#EXTINF:-1,星卫电影台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/80d54eadb8f343a8b837c22e336155d1.m3u8
+#EXTINF:-1,纬来戏剧台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
+#EXTINF:-1,莲花电影台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/f3caad21816e3bfe2210a692387ab040.m3u8
+#EXTINF:-1,BOO驚悚台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/6ea2b038f2ce633a65f0450895f6679e.m3u8
+#EXTINF:-1,纬来电影台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/6de7ee8878da79aaf393c0f63081cb0c.m3u8
+#EXTINF:-1,美亚电影台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
+#EXTINF:-1,龙华洋片台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/7c4301f3ec1b9c970db0af9d1c07e66f.m3u8
+#EXTINF:-1,好莱坞电影，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
+#EXTINF:-1,高清电影台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/8ef14dc0eb0f812bfa0a1311d0134f8d.m3u8
+#EXTINF:-1,龙祥电影台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/c32278dece9f79334a2a878aaa730e95.m3u8
+#EXTINF:-1,天映电影台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/4480903e93e7bf6ddde637e903c423a0.m3u8
+#EXTINF:-1,东森洋片台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/ed503be0a61dc988e0a7d9e1f57a1885.m3u8
+#EXTINF:-1,东森电影台，
+group-title="港台卫视"
+http://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
+#EXTINF:-1,
+
+#EXTINF:-1,
+group-title="港台卫视"
+Asia N，http://pull-l3-cny.douyincdn.com/live/2ce10c5078ec753f8f50f4c3897e8f76.m3u8
+#EXTINF:-1,
+group-title="港台卫视"
+THE MOVIE，http://pull-l3-cny.douyincdn.com/live/adb7cf254b46d42d58828f590a6137bf.m3u8
+#EXTINF:-1,
+group-title="港台卫视"
+Channel China，http://pull-l3-cny.douyincdn.com/live/05fadffbceabeb97bbf09061a165791b.m3u8
+#EXTINF:-1,
+group-title="港台卫视"
+Channel Seezn，http://pull-l3-cny.douyincdn.com/live/9dbd2556b180db11b62283739297981b.m3u8
+#EXTINF:-1,
+group-title="港台卫视"
+探索频道HD，http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
+#EXTINF:-1,
+group-title="港台卫视"
+HBO HD，http://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
+#EXTINF:-1,
+group-title="港台卫视"
+HBO家庭影院，http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
+#EXTINF:-1,
+group-title="港台卫视"
+HBO原创电影，http://pull-l3-cny.douyincdn.com/live/9bfb4b08fec367ed3850357a853250d5.m3u8
+#EXTINF:-1,
+group-title="港台卫视"
+HBO强档影院，http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
+
 #EXTINF:-1,民视台湾台
 group-title="港台卫视"
 http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
@@ -581,6 +721,28 @@ http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 #EXTINF:-1,华视新闻资讯
 group-title="港台卫视"
 http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
+
+#EXTINF:-1,KBS1 
+group-title="日韩频道"
+HD，http://pull-l3-cny.douyincdn.com/live/da1f0d9f19a7ad52a9675a58e08de24b.m3u8
+#EXTINF:-1,KBS12
+group-title="日韩频道"
+KBS2 HD，http://pull-l3-cny.douyincdn.com/live/9accc1d4ae7e4bfa7350249c05a0e3af.m3u8
+#EXTINF:-1,MBC
+group-title="日韩频道"
+ HD，http://pull-l3-cny.douyincdn.com/live/4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
+#EXTINF:-1,SBS 
+group-title="日韩频道"
+ HD，http://pull-l3-cny.douyincdn.com/live/d10b659225b3738937372b8835b94f1c.m3u8
+#EXTINF:-1,PLAYY웰메이드，
+group-title="日韩频道"
+http://pull-l3-cny.douyincdn.com/live/eac374df3c06e8985d587224a056f483.m3u8
+#EXTINF:-1,PLAYY액션영화，
+group-title="日韩频道"
+http://pull-l3-cny.douyincdn.com/live/41f29bf461ffa99e595f70b9593c61aa.m3u8
+#EXTINF:-1,PLAYY힐링영화，
+group-title="日韩频道"
+http://pull-l3-cny.douyincdn.com/live/ea6907626f7d64aa61e5ebf88180e43d.m3u8
 
 #EXTINF:-1,US: ABC
 group-title="欧美新闻"
@@ -1230,6 +1392,37 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433786
 #EXTINF:-1,US NBA Washington Wizards (HD) (S)
 group-title="NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433788
+
+#EXTINF:-1,US NBA 亚马逊临时1
+group-title="NBA"
+https://jcasmasearti94qi.s3.amazonaws.com/hornets2_1080p30.m3u8
+#EXTINF:-1,US NBA 亚马逊临时2
+group-title="NBA"
+https://jcasmasearti94qi.s3.amazonaws.com/pacers2_1080p30.m3u8
+#EXTINF:-1,US NBA 亚马逊临时3
+group-title="NBA"
+https://jcasmasearti94qi.s3.amazonaws.com/magic2_1080p30.m3u8
+#EXTINF:-1,US NBA 亚马逊临时4
+group-title="NBA"
+https://jcasmasearti94qi.s3.amazonaws.com/raptors2_1080p30.m3u8
+#EXTINF:-1,US NBA 亚马逊临时5
+group-title="NBA"
+https://jcasmasearti94qi.s3.amazonaws.com/espn2_1080p30.m3u8
+#EXTINF:-1,US NBA 亚马逊临时6
+group-title="NBA"
+https://jcasmasearti94qi.s3.amazonaws.com/thunder2_1080p30.m3u8
+#EXTINF:-1,US NBA 亚马逊临时7
+group-title="NBA"
+https://jcasmasearti94qi.s3.amazonaws.com/spurs2_1080p30.m3u8
+#EXTINF:-1,US NBA 亚马逊临时8
+group-title="NBA"
+https://jcasmasearti94qi.s3.amazonaws.com/mavericks2_1080p30.m3u8
+#EXTINF:-1,US NBA 亚马逊临时9
+group-title="NBA"
+https://jcasmasearti94qi.s3.amazonaws.com/nuggets2_1080p30.m3u8
+#EXTINF:-1,US NBA 亚马逊临时
+group-title="NBA"
+https://jcasmasearti94qi.s3.amazonaws.com/espn2_1080p30.m3u8
 
 #EXTINF:-1,4K BTV
 group-title="欧美4K"
