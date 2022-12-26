@@ -1603,36 +1603,7 @@ http://nerdsvpn.nl:8080/trash/8324987586/323511
 #EXTINF:-1,USA | NBA Washington Wizards (SD)
 http://nerdsvpn.nl:8080/trash/8324987586/323512
 
-#EXTINF:-1,US NBA 亚马逊临时1
-group-title="NBA"
-https://jcasmasearti94qi.s3.amazonaws.com/hornets2_1080p30.m3u8
-#EXTINF:-1,US NBA 亚马逊临时2
-group-title="NBA"
-https://jcasmasearti94qi.s3.amazonaws.com/pacers2_1080p30.m3u8
-#EXTINF:-1,US NBA 亚马逊临时3
-group-title="NBA"
-https://jcasmasearti94qi.s3.amazonaws.com/magic2_1080p30.m3u8
-#EXTINF:-1,US NBA 亚马逊临时4
-group-title="NBA"
-https://jcasmasearti94qi.s3.amazonaws.com/raptors2_1080p30.m3u8
-#EXTINF:-1,US NBA 亚马逊临时5
-group-title="NBA"
-https://jcasmasearti94qi.s3.amazonaws.com/espn2_1080p30.m3u8
-#EXTINF:-1,US NBA 亚马逊临时6
-group-title="NBA"
-https://jcasmasearti94qi.s3.amazonaws.com/thunder2_1080p30.m3u8
-#EXTINF:-1,US NBA 亚马逊临时7
-group-title="NBA"
-https://jcasmasearti94qi.s3.amazonaws.com/spurs2_1080p30.m3u8
-#EXTINF:-1,US NBA 亚马逊临时8
-group-title="NBA"
-https://jcasmasearti94qi.s3.amazonaws.com/mavericks2_1080p30.m3u8
-#EXTINF:-1,US NBA 亚马逊临时9
-group-title="NBA"
-https://jcasmasearti94qi.s3.amazonaws.com/nuggets2_1080p30.m3u8
-#EXTINF:-1,US NBA 亚马逊临时
-group-title="NBA"
-https://jcasmasearti94qi.s3.amazonaws.com/espn2_1080p30.m3u8
+
 
 #EXTINF:-1,4K BTV
 group-title="欧美4K"
