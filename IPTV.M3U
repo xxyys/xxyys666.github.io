@@ -137,7 +137,7 @@ http://117.157.25.193:6610/270000001128/9900000030/index.m3u8?=
 #EXTGRP:地方卫视
 http://117.157.25.193:6610/270000001128/9900000024/index.m3u8?=
 #EXTINF:-1,东南卫视
-group-title="地方台"#EXTGRP:地方卫视
+#EXTGRP:地方台"#EXTGRP:地方卫视
 http://117.157.25.193:6610/270000001128/9900000032/index.m3u8?=
 #EXTINF:-1,河南卫视
 #EXTGRP:地方卫视
@@ -193,1231 +193,1231 @@ http://117.157.25.193:6610/270000001128/9900000056/index.m3u8?=
 
 
 #EXTINF:-1,US: DISCOVERY CHANNEL
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418001
 #EXTINF:-1,US: Discovery Channel (West)
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/419326
 #EXTINF:-1,US: DISCOVERY FAMILY CHANNEL
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418000
 #EXTINF:-1,US: DISCOVERY LIFE
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418002
 #EXTINF:-1,US-720 : DISCOVERY CHANNEL
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487986
 #EXTINF:-1,US-720 : DISCOVERY LIFE
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487987
 #EXTINF:-1,Discovery
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/360762
 #EXTINF:-1,UK: Discovery Channel
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428137
 #EXTINF:-1,UK: Discovery Channel SD
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428138
 #EXTINF:-1,UK: Discovery History
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428139
 #EXTINF:-1,UK: Discovery History SD
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428140
 #EXTINF:-1,UK: Discovery Science
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428141
 #EXTINF:-1,UK: Discovery Science SD
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428142
 #EXTINF:-1,UK: Discovery Turbo
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428143
 #EXTINF:-1,UK: Discovery Turbo SD
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428144
 #EXTINF:-1,Discovery History
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/360763
 #EXTINF:-1,Discovery Science
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/360764
 #EXTINF:-1,Discovery Turbo
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/360765
 #EXTINF:-1,US-720 : SCIENCE
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488060
 EXTINF:-1,Animal Planet
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/360761
 #EXTINF:-1,CA: BBC EARTH (E)
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/423700
 
 #EXTINF:-1,US: HGTV
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/417997
 #EXTINF:-1,US-720 : HGTV
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488025
 #EXTINF:-1,HGTV
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/360770
 #EXTINF:-1,US: HGTV (West)
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/419336
 #EXTINF:-1,US: HISTORY
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/417998
 #EXTINF:-1,US-720 : HISTORY
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488026
 #EXTINF:-1,US: History (West)
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/419337
 #EXTINF:-1,US: NAT GEO WILD
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418005
 #EXTINF:-1,US: National Geographic (West)
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/419345
 #EXTINF:-1,US-720 : NAT GEO WILD
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488042
 #EXTINF:-1,US-720 : NATIONAL GEOGRAPHIC CHANNEL
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488043
 #EXTINF:-1,UK: HGTV
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/493729
 #EXTINF:-1,UK: History
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428145
 #EXTINF:-1,UK: History 2
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428148
 #EXTINF:-1,UK: Investigation Discovery
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428151
 #EXTINF:-1,UK: Investigation Discovery SD
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428152
 #EXTINF:-1,UK: Love Nature
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428153
 #EXTINF:-1,UK: Nat Geo Wild
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428155
 #EXTINF:-1,UK: National Geographic
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428158
 #EXTINF:-1,UK: Sky Documentaries
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428161
 #EXTINF:-1,UK: Sky Nature
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428163
 #EXTINF:-1,US-720 : CRIME & INVESTIGATION
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487984
 #EXTINF:-1,UK: Crime & Investigation
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428135
 #EXTINF:-1,UK: Sky Documentaries
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428161
 #EXTINF:-1,UK: CGTN Documentary
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428133
 #EXTINF:-1,UK: CGTN Documentary SD
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428134
 
 #EXTINF:-1,US: FOOD NETWORK
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/417885
 #EXTINF:-1,Food Network
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/360769
 #EXTINF:-1,US: Food Network (West)
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/419327
 #EXTINF:-1,US: OUTDOOR CHANNEL
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418014
 #EXTINF:-1,US: THE OUTDOOR COOKING CHANNEL
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418016
 #EXTINF:-1,US-720 : COOKING CHANNEL
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487983
 #EXTINF:-1,UK: Travel Channel
-group-title="纪实科学美食"
+#EXTGRP:纪实科学美食"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428483
 
 
 #EXTINF:-1,凤凰中文
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 https://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 #EXTINF:-1,凤凰资讯
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 #EXTINF:-1,凤凰资讯1
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://117.169.120.242:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226274/index.m3u8
 #EXTINF:-1,凤凰香港
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://117.169.120.243:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226251/index.m3u8
 #EXTINF:-1,凤凰电影
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://111.59.189.40:8445/tsfile/live/1022_1.m3u8 
 #EXTINF:-1,香港卫视
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
 #EXTINF:-1,香港卫视
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?
 #EXTINF:-1,TVBS Asia[1920x1080],http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVB 财经,https://j3.lhlh.app/mv.m3u8
 #EXTINF:-1,翡翠台高清
-group-title="港台卫视",http://113.117.74.11:808/hls/67/index.m3u8
+#EXTGRP:港台卫视",http://113.117.74.11:808/hls/67/index.m3u8
 #EXTINF:-1,翡翠台
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://113.117.74.11:808/hls/25/index.m3u8
 #EXTINF:-1,翡翠台[1920x1080]
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://113.117.74.37:808/hls/67/index.m3u8
 #EXTINF:-1,翡翠台TVB新闻台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/c8eff4963f336b2f831780fb09a37fb4.m3u8
 #EXTINF:-1,TVB华丽台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
 #EXTINF:-1,TVB翡翠台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
 #EXTINF:-1,TVB明珠台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8
 #EXTINF:-1,TVB财经台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/beb24d452126196227a4c183337d6bfd.m3u8
 #EXTINF:-1,TVB星河台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/d40c919171cfc73cf4de67fc381cbc3e.m3u8
 #EXTINF:-1,now新闻台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/f49db49809a6d8e96047011ee9160bc8.m3u8
 #EXTINF:-1,now财经台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/60b4bda9cef7c62d547a8c2ca1ca9c2c.m3u8
 #EXTINF:-1,now直播台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/fc910419627cee83895e03d74029cbb4.m3u8
 #EXTINF:-1,有线财经台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/6cce73798021d977d916afacf1caba36.m3u8
 #EXTINF:-1,有线直播台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8
 #EXTINF:-1,有线新闻台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
 #EXTINF:-1,星河台
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://113.117.74.11:808/hls/135/index.m3u8
 #EXTINF:-1,財經體育資訊台[1920x1080]
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://120.84.96.161:808/hls/86/index.m3u8
 #EXTINF:-1,天映经典
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://120.84.96.50:808/hls/85/index.m3u8
 #EXTINF:-1,中天新闻台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
 #EXTINF:-1,中天综合台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/5f26752efeee9e0c53cf6b530640ce60.m3u8
 #EXTINF:-1,东森新闻台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
 #EXTINF:-1,台视新闻台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
 #EXTINF:-1,民视新闻台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8
 #EXTINF:-1,TVBS新闻台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
 #EXTINF:-1,TVBS亚洲台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/9f6ea8b662a55d5fa562ebaeb2880bfc.m3u8
 #EXTINF:-1,RT英语新闻，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/01a22d8d466a6ef38b80e2ce6cd323c0.m3u8
 #EXTINF:-1,寰宇新闻台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
 #EXTINF:-1,星卫电影台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/80d54eadb8f343a8b837c22e336155d1.m3u8
 #EXTINF:-1,纬来戏剧台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/cf93b19e055f2800058541033c0c4355.m3u8
 #EXTINF:-1,莲花电影台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/f3caad21816e3bfe2210a692387ab040.m3u8
 #EXTINF:-1,BOO驚悚台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/6ea2b038f2ce633a65f0450895f6679e.m3u8
 #EXTINF:-1,纬来电影台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/6de7ee8878da79aaf393c0f63081cb0c.m3u8
 #EXTINF:-1,美亚电影台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/b16e0049bdda5f54e62d3c9b694d81ff.m3u8
 #EXTINF:-1,龙华洋片台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/7c4301f3ec1b9c970db0af9d1c07e66f.m3u8
 #EXTINF:-1,好莱坞电影，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
 #EXTINF:-1,高清电影台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/8ef14dc0eb0f812bfa0a1311d0134f8d.m3u8
 #EXTINF:-1,龙祥电影台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/c32278dece9f79334a2a878aaa730e95.m3u8
 #EXTINF:-1,天映电影台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/4480903e93e7bf6ddde637e903c423a0.m3u8
 #EXTINF:-1,东森洋片台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/ed503be0a61dc988e0a7d9e1f57a1885.m3u8
 #EXTINF:-1,东森电影台，
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
 #EXTINF:-1,
 
 #EXTINF:-1,
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 Asia N，http://pull-l3-cny.douyincdn.com/live/2ce10c5078ec753f8f50f4c3897e8f76.m3u8
 #EXTINF:-1,
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 THE MOVIE，http://pull-l3-cny.douyincdn.com/live/adb7cf254b46d42d58828f590a6137bf.m3u8
 #EXTINF:-1,
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 Channel China，http://pull-l3-cny.douyincdn.com/live/05fadffbceabeb97bbf09061a165791b.m3u8
 #EXTINF:-1,
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 Channel Seezn，http://pull-l3-cny.douyincdn.com/live/9dbd2556b180db11b62283739297981b.m3u8
 #EXTINF:-1,
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 探索频道HD，http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
 #EXTINF:-1,
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 HBO HD，http://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
 #EXTINF:-1,
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 HBO家庭影院，http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
 #EXTINF:-1,
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 HBO原创电影，http://pull-l3-cny.douyincdn.com/live/9bfb4b08fec367ed3850357a853250d5.m3u8
 #EXTINF:-1,
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 HBO强档影院，http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
 
 #EXTINF:-1,民视台湾台
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
 #EXTINF:-1,民视
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
 #EXTINF:-1,民视第一台
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
 #EXTINF:-1,民视综艺台
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
 #EXTINF:-1,智林体育台
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 #EXTINF:-1,TVBS
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
 #EXTINF:-1,中视新闻
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
 #EXTINF:-1,CHY电影台
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
 #EXTINF:-1,HITS
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 #EXTINF:-1,GinX
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 #EXTINF:-1,华视新闻资讯
-group-title="港台卫视"
+#EXTGRP:港台卫视"
 http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 
 #EXTM3U
-#EXTINF:-1 group-title="",NBATV
+#EXTINF:-1 #EXTGRP:",NBATV
 http://line.premiumpowers.net:80/Manuel/1234567/941562
-#EXTINF:-1 group-title="",SPO TV2
+#EXTINF:-1 #EXTGRP:",SPO TV2
 http://line.premiumpowers.net:80/Manuel/1234567/941563
-#EXTINF:-1 group-title="",SPO TV
+#EXTINF:-1 #EXTGRP:",SPO TV
 http://line.premiumpowers.net:80/Manuel/1234567/941564
-#EXTINF:-1 group-title="",STARHUB
+#EXTINF:-1 #EXTGRP:",STARHUB
 http://line.premiumpowers.net:80/Manuel/1234567/941565
-#EXTINF:-1 group-title="",STARHUB2
+#EXTINF:-1 #EXTGRP:",STARHUB2
 http://line.premiumpowers.net:80/Manuel/1234567/941566
-#EXTINF:-1 group-title="",BEIN SPORTS 3
+#EXTINF:-1 #EXTGRP:",BEIN SPORTS 3
 http://line.premiumpowers.net:80/Manuel/1234567/941567
-#EXTINF:-1 group-title="",BEIN SPORTS 2
+#EXTINF:-1 #EXTGRP:",BEIN SPORTS 2
 http://line.premiumpowers.net:80/Manuel/1234567/941568
-#EXTINF:-1 group-title="",BEIN SPORTS
+#EXTINF:-1 #EXTGRP:",BEIN SPORTS
 http://line.premiumpowers.net:80/Manuel/1234567/941569
-#EXTINF:-1 group-title="",PRENIER SPORTS
+#EXTINF:-1 #EXTGRP:",PRENIER SPORTS
 http://line.premiumpowers.net:80/Manuel/1234567/941570
-#EXTINF:-1 group-title="",HUB SPORTS 4
+#EXTINF:-1 #EXTGRP:",HUB SPORTS 4
 http://line.premiumpowers.net:80/Manuel/1234567/941571
-#EXTINF:-1 group-title="",HUB SPORTS 2
+#EXTINF:-1 #EXTGRP:",HUB SPORTS 2
 http://line.premiumpowers.net:80/Manuel/1234567/941572
-#EXTINF:-1 group-title="",HUB SPORTS 1
+#EXTINF:-1 #EXTGRP:",HUB SPORTS 1
 http://line.premiumpowers.net:80/Manuel/1234567/941573
-#EXTINF:-1 group-title="",MEDIACORP S
+#EXTINF:-1 #EXTGRP:",MEDIACORP S
 http://line.premiumpowers.net:80/Manuel/1234567/941575
-#EXTINF:-1 group-title="",TFC
+#EXTINF:-1 #EXTGRP:",TFC
 http://line.premiumpowers.net:80/Manuel/1234567/941576
-#EXTINF:-1 group-title="",HITS MOVIES
+#EXTINF:-1 #EXTGRP:",HITS MOVIES
 http://line.premiumpowers.net:80/Manuel/1234567/941577
-#EXTINF:-1 group-title="",HITS
+#EXTINF:-1 #EXTGRP:",HITS
 http://line.premiumpowers.net:80/Manuel/1234567/941578
-#EXTINF:-1 group-title="",HUB SPORTS 5
+#EXTINF:-1 #EXTGRP:",HUB SPORTS 5
 http://line.premiumpowers.net:80/Manuel/1234567/941582
-#EXTINF:-1 group-title="",ONE
+#EXTINF:-1 #EXTGRP:",ONE
 http://line.premiumpowers.net:80/Manuel/1234567/941601
-#EXTINF:-1 group-title="",ONE
+#EXTINF:-1 #EXTGRP:",ONE
 http://line.premiumpowers.net:80/Manuel/1234567/941602
-#EXTINF:-1 group-title="",KBS WORLD
+#EXTINF:-1 #EXTGRP:",KBS WORLD
 http://line.premiumpowers.net:80/Manuel/1234567/941604
-#EXTINF:-1 group-title="",HITS MOVIES
+#EXTINF:-1 #EXTGRP:",HITS MOVIES
 http://line.premiumpowers.net:80/Manuel/1234567/941606
-#EXTINF:-1 group-title="",HITS
+#EXTINF:-1 #EXTGRP:",HITS
 http://line.premiumpowers.net:80/Manuel/1234567/941607
-#EXTINF:-1 group-title="",GEM
+#EXTINF:-1 #EXTGRP:",GEM
 http://line.premiumpowers.net:80/Manuel/1234567/941608
-#EXTINF:-1 group-title="",NHK WORLD JAPAN
+#EXTINF:-1 #EXTGRP:",NHK WORLD JAPAN
 http://line.premiumpowers.net:80/Manuel/1234567/941610
-#EXTINF:-1 group-title="",NHK
+#EXTINF:-1 #EXTGRP:",NHK
 http://line.premiumpowers.net:80/Manuel/1234567/941611
-#EXTINF:-1 group-title="",ARIRANG KOREA
+#EXTINF:-1 #EXTGRP:",ARIRANG KOREA
 http://line.premiumpowers.net:80/Manuel/1234567/941614
-#EXTINF:-1 group-title="",MEDIACORP 8
+#EXTINF:-1 #EXTGRP:",MEDIACORP 8
 http://line.premiumpowers.net:80/Manuel/1234567/941616
-#EXTINF:-1 group-title="",MEDIACORP U
+#EXTINF:-1 #EXTGRP:",MEDIACORP U
 http://line.premiumpowers.net:80/Manuel/1234567/941617
-#EXTINF:-1 group-title="",天映频道
+#EXTINF:-1 #EXTGRP:",天映频道
 http://line.premiumpowers.net:80/Manuel/1234567/941618
-#EXTINF:-1 group-title="",TVB翡翠台
+#EXTINF:-1 #EXTGRP:",TVB翡翠台
 http://line.premiumpowers.net:80/Manuel/1234567/941619
-#EXTINF:-1 group-title="",TVB星河频道
+#EXTINF:-1 #EXTGRP:",TVB星河频道
 http://line.premiumpowers.net:80/Manuel/1234567/941620
-#EXTINF:-1 group-title="",TVBS亚洲台
+#EXTINF:-1 #EXTGRP:",TVBS亚洲台
 http://line.premiumpowers.net:80/Manuel/1234567/941621
-#EXTINF:-1 group-title="",TVBS新闻台
+#EXTINF:-1 #EXTGRP:",TVBS新闻台
 http://line.premiumpowers.net:80/Manuel/1234567/941622
-#EXTINF:-1 group-title="",TVN
+#EXTINF:-1 #EXTGRP:",TVN
 http://line.premiumpowers.net:80/Manuel/1234567/941623
-#EXTINF:-1 group-title="",卫视中文台
+#EXTINF:-1 #EXTGRP:",卫视中文台
 http://line.premiumpowers.net:80/Manuel/1234567/941624
-#EXTINF:-1 group-title="",卫视电影台
+#EXTINF:-1 #EXTGRP:",卫视电影台
 http://line.premiumpowers.net:80/Manuel/1234567/941625
-#EXTINF:-1 group-title="",one
+#EXTINF:-1 #EXTGRP:",one
 http://line.premiumpowers.net:80/Manuel/1234567/941628
-#EXTINF:-1 group-title="",NOW紫金国际台
+#EXTINF:-1 #EXTGRP:",NOW紫金国际台
 http://line.premiumpowers.net:80/Manuel/1234567/941630
-#EXTINF:-1 group-title="",*HUB都会
+#EXTINF:-1 #EXTGRP:",*HUB都会
 http://line.premiumpowers.net:80/Manuel/1234567/941632
-#EXTINF:-1 group-title="",HUB都会
+#EXTINF:-1 #EXTGRP:",HUB都会
 http://line.premiumpowers.net:80/Manuel/1234567/941633
-#EXTINF:-1 group-title="",HUB娱家
+#EXTINF:-1 #EXTGRP:",HUB娱家
 http://line.premiumpowers.net:80/Manuel/1234567/941634
-#EXTINF:-1 group-title="",GEM
+#EXTINF:-1 #EXTGRP:",GEM
 http://line.premiumpowers.net:80/Manuel/1234567/941635
-#EXTINF:-1 group-title="",中天亚洲台
+#EXTINF:-1 #EXTGRP:",中天亚洲台
 http://line.premiumpowers.net:80/Manuel/1234567/941638
-#EXTINF:-1 group-title="",天映经典频道
+#EXTINF:-1 #EXTGRP:",天映经典频道
 http://line.premiumpowers.net:80/Manuel/1234567/941639
-#EXTINF:-1 group-title="",亚洲旅游台
+#EXTINF:-1 #EXTGRP:",亚洲旅游台
 http://line.premiumpowers.net:80/Manuel/1234567/941640
-#EXTINF:-1 group-title="",ROCK ENTERTAINMENT
+#EXTINF:-1 #EXTGRP:",ROCK ENTERTAINMENT
 http://line.premiumpowers.net:80/Manuel/1234567/941643
-#EXTINF:-1 group-title="",HBO SIGNATURE
+#EXTINF:-1 #EXTGRP:",HBO SIGNATURE
 http://line.premiumpowers.net:80/Manuel/1234567/941645
-#EXTINF:-1 group-title="",HBO FAMILY
+#EXTINF:-1 #EXTGRP:",HBO FAMILY
 http://line.premiumpowers.net:80/Manuel/1234567/941646
-#EXTINF:-1 group-title="",HBO HITS
+#EXTINF:-1 #EXTGRP:",HBO HITS
 http://line.premiumpowers.net:80/Manuel/1234567/941647
-#EXTINF:-1 group-title="",HBO
+#EXTINF:-1 #EXTGRP:",HBO
 http://line.premiumpowers.net:80/Manuel/1234567/941648
-#EXTINF:-1 group-title="",HUB都会
+#EXTINF:-1 #EXTGRP:",HUB都会
 http://line.premiumpowers.net:80/Manuel/1234567/941649
-#EXTINF:-1 group-title="",HUB都会
+#EXTINF:-1 #EXTGRP:",HUB都会
 http://line.premiumpowers.net:80/Manuel/1234567/941650
-#EXTINF:-1 group-title="",HUB娱家
+#EXTINF:-1 #EXTGRP:",HUB娱家
 http://line.premiumpowers.net:80/Manuel/1234567/941651
-#EXTINF:-1 group-title="",WB TV
+#EXTINF:-1 #EXTGRP:",WB TV
 http://line.premiumpowers.net:80/Manuel/1234567/941652
-#EXTINF:-1 group-title="",PARAMOUNT
+#EXTINF:-1 #EXTGRP:",PARAMOUNT
 http://line.premiumpowers.net:80/Manuel/1234567/941654
-#EXTINF:-1 group-title="",DREAMWORK
+#EXTINF:-1 #EXTGRP:",DREAMWORK
 http://line.premiumpowers.net:80/Manuel/1234567/941656
-#EXTINF:-1 group-title="",CURIOCITY
+#EXTINF:-1 #EXTGRP:",CURIOCITY
 http://line.premiumpowers.net:80/Manuel/1234567/941657
-#EXTINF:-1 group-title="",CINEMA WORLD
+#EXTINF:-1 #EXTGRP:",CINEMA WORLD
 http://line.premiumpowers.net:80/Manuel/1234567/941658
-#EXTINF:-1 group-title="",CINEMAX
+#EXTINF:-1 #EXTGRP:",CINEMAX
 http://line.premiumpowers.net:80/Manuel/1234567/941659
-#EXTINF:-1 group-title="",AXN
+#EXTINF:-1 #EXTGRP:",AXN
 http://line.premiumpowers.net:80/Manuel/1234567/941660
-#EXTINF:-1 group-title="",HISTORY
+#EXTINF:-1 #EXTGRP:",HISTORY
 http://line.premiumpowers.net:80/Manuel/1234567/941661
-#EXTINF:-1 group-title="",TRAVELXP
+#EXTINF:-1 #EXTGRP:",TRAVELXP
 http://line.premiumpowers.net:80/Manuel/1234567/941662
-#EXTINF:-1 group-title="",NATGEO WILD
+#EXTINF:-1 #EXTGRP:",NATGEO WILD
 http://line.premiumpowers.net:80/Manuel/1234567/941664
-#EXTINF:-1 group-title="",NATIONAL GEOGRAPHIC
+#EXTINF:-1 #EXTGRP:",NATIONAL GEOGRAPHIC
 http://line.premiumpowers.net:80/Manuel/1234567/941665
-#EXTINF:-1 group-title="",CRIME+INVESTIGATION
+#EXTINF:-1 #EXTGRP:",CRIME+INVESTIGATION
 http://line.premiumpowers.net:80/Manuel/1234567/941666
-#EXTINF:-1 group-title="",BBC EARTH
+#EXTINF:-1 #EXTGRP:",BBC EARTH
 http://line.premiumpowers.net:80/Manuel/1234567/941667
-#EXTINF:-1 group-title="",BBC LIFESTYLE
+#EXTINF:-1 #EXTGRP:",BBC LIFESTYLE
 http://line.premiumpowers.net:80/Manuel/1234567/941668
-#EXTINF:-1 group-title="",LIFETIME
+#EXTINF:-1 #EXTGRP:",LIFETIME
 http://line.premiumpowers.net:80/Manuel/1234567/941669
-#EXTINF:-1 group-title="",NICK JR
+#EXTINF:-1 #EXTGRP:",NICK JR
 http://line.premiumpowers.net:80/Manuel/1234567/941670
-#EXTINF:-1 group-title="",NICKELODEON
+#EXTINF:-1 #EXTGRP:",NICKELODEON
 http://line.premiumpowers.net:80/Manuel/1234567/941671
-#EXTINF:-1 group-title="",BBC CBEEBIES
+#EXTINF:-1 #EXTGRP:",BBC CBEEBIES
 http://line.premiumpowers.net:80/Manuel/1234567/941672
-#EXTINF:-1 group-title="",CARTOON NETWORK
+#EXTINF:-1 #EXTGRP:",CARTOON NETWORK
 http://line.premiumpowers.net:80/Manuel/1234567/941673
-#EXTINF:-1 group-title="",BOOMERANG
+#EXTINF:-1 #EXTGRP:",BOOMERANG
 http://line.premiumpowers.net:80/Manuel/1234567/941674
-#EXTINF:-1 group-title="",ANIMAX
+#EXTINF:-1 #EXTGRP:",ANIMAX
 http://line.premiumpowers.net:80/Manuel/1234567/941676
-#EXTINF:-1 group-title="",FASHION
+#EXTINF:-1 #EXTGRP:",FASHION
 http://line.premiumpowers.net:80/Manuel/1234567/941677
-#EXTINF:-1 group-title="",MEDIA LIVE 1
+#EXTINF:-1 #EXTGRP:",MEDIA LIVE 1
 http://line.premiumpowers.net:80/Manuel/1234567/941678
-#EXTINF:-1 group-title="",MEDIA LIVE 2
+#EXTINF:-1 #EXTGRP:",MEDIA LIVE 2
 http://line.premiumpowers.net:80/Manuel/1234567/941679
-#EXTINF:-1 group-title="",MEDIA LIVE+1
+#EXTINF:-1 #EXTGRP:",MEDIA LIVE+1
 http://line.premiumpowers.net:80/Manuel/1234567/941680
-#EXTINF:-1 group-title="",HUB SPORTS 4
+#EXTINF:-1 #EXTGRP:",HUB SPORTS 4
 http://line.premiumpowers.net:80/Manuel/1234567/941681
-#EXTINF:-1 group-title="",ABC AUSTRALIA
+#EXTINF:-1 #EXTGRP:",ABC AUSTRALIA
 http://line.premiumpowers.net:80/Manuel/1234567/941682
-#EXTINF:-1 group-title="",TV5 MONDE
+#EXTINF:-1 #EXTGRP:",TV5 MONDE
 http://line.premiumpowers.net:80/Manuel/1234567/941683
-#EXTINF:-1 group-title="",SKY NEWS
+#EXTINF:-1 #EXTGRP:",SKY NEWS
 http://line.premiumpowers.net:80/Manuel/1234567/941684
-#EXTINF:-1 group-title="",FOX NEWS
+#EXTINF:-1 #EXTGRP:",FOX NEWS
 http://line.premiumpowers.net:80/Manuel/1234567/941685
-#EXTINF:-1 group-title="",EURONEWS
+#EXTINF:-1 #EXTGRP:",EURONEWS
 http://line.premiumpowers.net:80/Manuel/1234567/941686
-#EXTINF:-1 group-title="",DW ENGLISH
+#EXTINF:-1 #EXTGRP:",DW ENGLISH
 http://line.premiumpowers.net:80/Manuel/1234567/941687
-#EXTINF:-1 group-title="",CNA
+#EXTINF:-1 #EXTGRP:",CNA
 http://line.premiumpowers.net:80/Manuel/1234567/941688
-#EXTINF:-1 group-title="",CNBC
+#EXTINF:-1 #EXTGRP:",CNBC
 http://line.premiumpowers.net:80/Manuel/1234567/941689
-#EXTINF:-1 group-title="",CNN
+#EXTINF:-1 #EXTGRP:",CNN
 http://line.premiumpowers.net:80/Manuel/1234567/941690
-#EXTINF:-1 group-title="",CGTN
+#EXTINF:-1 #EXTGRP:",CGTN
 http://line.premiumpowers.net:80/Manuel/1234567/941691
-#EXTINF:-1 group-title="",BLOOMBERG
+#EXTINF:-1 #EXTGRP:",BLOOMBERG
 http://line.premiumpowers.net:80/Manuel/1234567/941692
-#EXTINF:-1 group-title="",BBC WORLD NEWS
+#EXTINF:-1 #EXTGRP:",BBC WORLD NEWS
 http://line.premiumpowers.net:80/Manuel/1234567/941693
 
 
 #EXTINF:-1,KBS1 
-group-title="日韩频道"
+#EXTGRP:日韩频道"
 HD，http://pull-l3-cny.douyincdn.com/live/da1f0d9f19a7ad52a9675a58e08de24b.m3u8
 #EXTINF:-1,KBS12
-group-title="日韩频道"
+#EXTGRP:日韩频道"
 KBS2 HD，http://pull-l3-cny.douyincdn.com/live/9accc1d4ae7e4bfa7350249c05a0e3af.m3u8
 #EXTINF:-1,MBC
-group-title="日韩频道"
+#EXTGRP:日韩频道"
  HD，http://pull-l3-cny.douyincdn.com/live/4f444d2b71e8fbab0a8802b9fa23ea5b.m3u8
 #EXTINF:-1,SBS 
-group-title="日韩频道"
+#EXTGRP:日韩频道"
  HD，http://pull-l3-cny.douyincdn.com/live/d10b659225b3738937372b8835b94f1c.m3u8
 #EXTINF:-1,PLAYY웰메이드，
-group-title="日韩频道"
+#EXTGRP:日韩频道"
 http://pull-l3-cny.douyincdn.com/live/eac374df3c06e8985d587224a056f483.m3u8
 #EXTINF:-1,PLAYY액션영화，
-group-title="日韩频道"
+#EXTGRP:日韩频道"
 http://pull-l3-cny.douyincdn.com/live/41f29bf461ffa99e595f70b9593c61aa.m3u8
 #EXTINF:-1,PLAYY힐링영화，
-group-title="日韩频道"
+#EXTGRP:日韩频道"
 http://pull-l3-cny.douyincdn.com/live/ea6907626f7d64aa61e5ebf88180e43d.m3u8
 
 #EXTINF:-1,US: ABC
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/417950
 #EXTINF:-1,US: ABC (West)
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/419373
 #EXTINF:-1,US: ABC NEWS
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418131
 #EXTINF:-1,US: ABC NEWS INTERNATIONAL
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418132
 #EXTINF:-1,US: ABC NEWS LIVE
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418139
 
 #EXTINF:-1,US: BBC AMERICA
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/417877
 #EXTINF:-1,US-720 : BBC AMERICA
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487964
 #EXTINF:-1,US: BBC AMERICA
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418133
 #EXTINF:-1,US: BBC WORLD NEWS
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418112
 #EXTINF:-1,CA: BBC CANADA (E)
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/423699
 #EXTINF:-1,CA: BBC World News
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418416
 
 #EXTINF:-1,UK: BBC NEWS
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/493709
 #EXTINF:-1,UK: BBC One
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428366
 #EXTINF:-1,UK: BBC Three
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428370
 #EXTINF:-1,UK: BBC Two
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428368
 
 #EXTINF:-1,US-720 : CNN
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487979
 #EXTINF:-1,US: CNN
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418118
 #EXTINF:-1,US: CNN INTERNATIONAL
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418117
 #EXTINF:-1,CA: CNN
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418436
 #EXTINF:-1,CA: CNN International
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418435
 #EXTINF:-1,UK: CNN
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/493687
 #EXTINF:-1,UY  CNN en Español
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/422043
 #EXTINF:-1,UY  CNN Internacional
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/422044
 
 #EXTINF:-1,US: CBS 
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/424635
 #EXTINF:-1,US: CBS NEWS
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418126
 #EXTINF:-1,UK: CBS Reality
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428378
 #EXTINF:-1,UK: CBS Reality +1
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428379
 
 #EXTINF:-1,US-720 : CNBC
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487978
 #EXTINF:-1,US: CNBC
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418115
 #EXTINF:-1,US: CNBC WORLD
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418116
 #EXTINF:-1,UK: CNBC
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/493674
 
 
 #EXTINF:-1,US: FOX NEWS CHANNEL
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418111
 #EXTINF:-1,US-720 : FOX NEWS CHANNEL
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488004
 #EXTINF:-1,US: FOX NEWS NOW
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418140
 #EXTINF:-1,US: FOX
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/417988
 #EXTINF:-1,US: FOX (west)
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/424637
 
 #EXTINF:-1,UK: FRANCE 24
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/493679
 #EXTINF:-1,UK: GB News
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/493696
 #EXTINF:-1,UK: NHK World
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/493684
 #EXTINF:-1,UK: Sky News FHD
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/493726
 
 #EXTINF:-1,UK: Bloomberg
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/493677
 #EXTINF:-1,US: BLOOMBERG
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418113
 #EXTINF:-1,US: MSNBC
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418123
 #EXTINF:-1,US: CHEDDAR BUSINESS
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418114
 #EXTINF:-1,US: CHEDDAR NEWS
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418136
 
 #EXTINF:-1,US: BLACK NEWS CHANNEL
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418134
 #EXTINF:-1,US: Black News Channel (West)
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/419269
 #EXTINF:-1,US: C-SPAN
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418124
 #EXTINF:-1,US: C-SPAN 2
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418125
 #EXTINF:-1,US: C-SPAN 3
-group-title="欧美新闻"
+#EXTGRP:欧美新闻"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418135
 
 
 #EXTINF:-1,US-720 : ESPN
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487995
 #EXTINF:-1,US-720 : ESPN 2
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487996
 #EXTINF:-1,US-720 : ESPN DEPORTES
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487997
 #EXTINF:-1,US-720 : ESPN NEWS
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487998
 #EXTINF:-1,US-720 : ESPN U
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487999
 #EXTINF:-1,US-720 : FOX DEPORTES
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488003
 #EXTINF:-1,US-720 : FOX NEWS CHANNEL
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488004
 #EXTINF:-1,US-720 : FOX SPORTS 1
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488005
 #EXTINF:-1,US-720 : FOX SPORTS 2
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488006
 #EXTINF:-1,US: BallySports Arizona Plus
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418254
 #EXTINF:-1,US: BallySports Arizona Plus 2
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418255
 #EXTINF:-1,US: BallySports Arizona US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418219
 #EXTINF:-1,US: BallySPORTS CAROLINAS US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418226
 #EXTINF:-1,US: BallySports Cincinnati us
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418220
 #EXTINF:-1,US: BallySports Detroit Plus
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418256
 #EXTINF:-1,US: BallySports Detroit US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418221
 #EXTINF:-1,US: BallySports Florida US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418223
 #EXTINF:-1,US: BallySports Great Lakes US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418224
 #EXTINF:-1,US: BallySports Indiana US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418225
 #EXTINF:-1,US: BallySports Kansas City Plus US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418228
 #EXTINF:-1,US: BallySports Kansas City US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418227
 #EXTINF:-1,US: BallySports Midwest Plus US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418230
 #EXTINF:-1,US: BallySports Midwest US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418229
 #EXTINF:-1,US: BallySports New Orleans Plus US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418232
 #EXTINF:-1,US: BallySports New Orleans US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418231
 #EXTINF:-1,US: BallySports North Plus US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418234
 #EXTINF:-1,US: BallySports North US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418233
 #EXTINF:-1,US: BallySports Ohio Plus US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418236
 #EXTINF:-1,US: BallySports Ohio US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418235
 #EXTINF:-1,US: BallySports Oklahoma Plus US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418238
 #EXTINF:-1,US: BallySports Oklahoma US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418237
 #EXTINF:-1,US: BallySports San Diego Plus US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418240
 #EXTINF:-1,US: BallySports San Diego US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418239
 #EXTINF:-1,US: BallySports Socal US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418241
 #EXTINF:-1,US: BallySports South Plus US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418243
 #EXTINF:-1,US: BallySports South US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418242
 #EXTINF:-1,US: BallySports Southeast US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418244
 #EXTINF:-1,US: BallySports Southwest US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418245
 #EXTINF:-1,US: BallySPORTS SUN SOUTH US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418246
 #EXTINF:-1,US: BallySports Sun US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418247
 #EXTINF:-1,US: BallySports Tennessee US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418222
 #EXTINF:-1,US: BallySPORTS WEST
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418251
 #EXTINF:-1,US: BallySports West US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418248
 #EXTINF:-1,US: BallySports Wisconsin Plus
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418257
 #EXTINF:-1,US: BallySports Wisconsin US
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418249
 #EXTINF:-1,US: BallySPORTS XTRA2
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418252
 #EXTINF:-1,US: BallySPORTS XTRA3
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418253
 #EXTINF:-1,US: CBS SPORTS NETWORK
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418177
 #EXTINF:-1,US: EDGE SPORT
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 #EXTINF:-1,US: FUBO SPORTS NETWORK
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418199
 #EXTINF:-1,US: NBA TV
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418182
 #EXTINF:-1,UK: BOX NATION
-group-title="UK体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428235
 #EXTINF:-1,UK: BT SPORT 1
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428237
 #EXTINF:-1,UK: BT SPORT 2
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428240
 #EXTINF:-1,UK: BT SPORT 3
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428243
 #EXTINF:-1,UK: BT SPORT BOX OFFICE (Live On Events Only)
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428249
 #EXTINF:-1,UK: BT SPORT 4 (ESPN)
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428246
 #EXTINF:-1,UK: BT SPORT 5
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428309
 #EXTINF:-1,UK: BT SPORT 6
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428310
 #EXTINF:-1,UK: BT SPORT 7
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428311
 #EXTINF:-1,UK: BT SPORT 8
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428313
 #EXTINF:-1,UK: BT SPORT 9
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428312
 #EXTINF:-1,BT Sport 1 FHD 50FPS
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485621
 #EXTINF:-1,BT Sport 2 FHD 50FPS
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485622
 #EXTINF:-1,BT Sport 3 FHD 50FPS
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485623
 #EXTINF:-1,BT Sport 4 FHD 50FPS
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485624
 #EXTINF:-1,BT Sport 5 HD 25FPS
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485625
 #EXTINF:-1,BT Sport 6 HD 25FPS
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485626
 #EXTINF:-1,BT Sport 7 HD 25FPS
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485627
 #EXTINF:-1,BT Sport 8 HD 25FPS
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485628
 #EXTINF:-1,BT Sport 9 HD 25FPS
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485629
 #EXTINF:-1,BT Sport 10 HD 25FPS
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485630
 #EXTINF:-1,UK: Eurosport 1
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428251
 #EXTINF:-1,UK: Eurosport 2
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428253
 #EXTINF:-1,UK: FreeSports
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428255
 #EXTINF:-1,UK: Ginx eSports TV
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428257
 #EXTINF:-1,UK: LFC TV
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428259
 #EXTINF:-1,UK: MUTV
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428261
 #EXTINF:-1,UK: PREMIER SPORTS 1
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428314
 #EXTINF:-1,UK: PREMIER SPORTS 1 FHD
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428316
 #EXTINF:-1,UK: PREMIER SPORTS 2
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428317
 #EXTINF:-1,UK: Racing TV
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428263
 #EXTINF:-1,UK: SKY SPORTS 1
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428266
 #EXTINF:-1,UK: SKY SPORTS 2
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428269
 #EXTINF:-1,UK: SKY SPORTS 4
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428275
 #EXTINF:-1,UK: SKY SPORTS 5
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428278
 #EXTINF:-1,UK: Sky Sports Action
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/431478
 #EXTINF:-1,UK: Sky Sports Arena
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/431479
 #EXTINF:-1,UK: SKY SPORTS BOX OFFICE
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428284
 #EXTINF:-1,UK: SKY SPORTS CRICKET
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428286
 #EXTINF:-1,UK: SKY SPORTS F1
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428289
 #EXTINF:-1,UK: SKY SPORTS FOOTBALL
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428292
 #EXTINF:-1,UK: SKY SPORTS GOLF
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428295
 #EXTINF:-1,UK: SKY SPORTS MAIN EVENT
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428298
 #EXTINF:-1,UK: SKY SPORTS MIX
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428300
 #EXTINF:-1,UK: Sky Sports News
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/431480
 #EXTINF:-1,UK: SKY SPORTS NFL
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428303
 #EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428320
 #EXTINF:-1,UK: SKY SPORTS RACING
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428306
 #EXTINF:-1,HK Now Sports 1
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425329
 #EXTINF:-1,HK Now Sports 2
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425328
 #EXTINF:-1,HK Now Sports 3
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425327
 #EXTINF:-1,HK Now Sports 4
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425326
 #EXTINF:-1,HK Now Sports 5
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425325
 #EXTINF:-1,HK Now Sports 6
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425324
 #EXTINF:-1,HK Now Sports 7
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425323
 
 #EXTINF:-1,beIN SPORTS 4 FHD (D)
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/214181
 #EXTINF:-1,beIN SPORTS 5 FHD (D)
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/214180
 #EXTINF:-1,beIN SPORTS 6 FHD (D)
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/214179
 #EXTINF:-1,beIN SPORTS 7 FHD (D)
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/214178
 #EXTINF:-1,beIN SPORTS 8 FHD (D)
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/214177
-#Egroup-title="欧美体育"
+#E#EXTGRP:欧美体育"
 XTINF:-1,HK Now Sports 1
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425329
 #EXTINF:-1,HK Now Sports 2
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425328
 #EXTINF:-1,HK Now Sports 3
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425327
 #EXTINF:-1,HK Now Sports 4
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425326
 #EXTINF:-1,HK Now Sports 5
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425325
 #EXTINF:-1,HK Now Sports 6
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425324
 #EXTINF:-1,HK Now Sports 7
-group-title="欧美体育"
+#EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425323
 
 #EXTINF:-1,NBA TV
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/237165
 #EXTINF:-1,NBA TV SD
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/367120
 #EXTINF:-1,US  ESPN
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376411
 #EXTINF:-1,US  TNT
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376412
 
 #EXTINF:-1,US NBA Atlanta Hawks (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433730
 
 #EXTINF:-1,US NBA Boston Celtics (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433732
 
 #EXTINF:-1,US NBA Brooklyn Nets (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433734
 
 #EXTINF:-1,US NBA Charlotte Hornets (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433736
 
 #EXTINF:-1,US NBA Chicago Bulls (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433738
 
 #EXTINF:-1,US NBA Cleveland Cavaliers (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433740
 
 #EXTINF:-1,US NBA Dallas Mavericks (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433742
 
 #EXTINF:-1,US NBA Denver Nuggets (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433744
 
 #EXTINF:-1,US NBA Detroit Pistons (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433746
 
 #EXTINF:-1,US NBA Golden State Warriors (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433748
 
 #EXTINF:-1,US NBA Houston Rockets (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433750
 
 #EXTINF:-1,US NBA Indiana Pacers (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433752
 
 #EXTINF:-1,US NBA Los Angeles Clippers (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433754
 #
 #EXTINF:-1,US NBA Los Angeles Lakers (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433756
 #EXTINF:-1,US NBA Memphis Grizzlies (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433758
 
 #EXTINF:-1,US NBA Miami Heat (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433760
 
 #EXTINF:-1,US NBA Milwaukee Bucks (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433762
 
 #EXTINF:-1,US NBA Minnesota Timberwolves (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433764
 
 #EXTINF:-1,US NBA New Orleans Pelicans (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433766
 
 #EXTINF:-1,US NBA New York Knicks (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433768
 
 #EXTINF:-1,US NBA Oklahoma City Thunder (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433770
 
 #EXTINF:-1,US NBA Orlando Magic (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433772
 
 #EXTINF:-1,US NBA Philadelphia 76ers (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433774
 
 #EXTINF:-1,US NBA Phoenix Suns (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433776
 
 #EXTINF:-1,US NBA Portland Trail Blazers (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433778
 
 #EXTINF:-1,US NBA Sacramento Kings (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433780
 
 #EXTINF:-1,US NBA San Antonio Spurs (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433782
 
 #EXTINF:-1,US NBA Toronto Raptors (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433784
 
 #EXTINF:-1,US NBA Utah Jazz (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433786
 
 #EXTINF:-1,US NBA Washington Wizards (HD) (S)
-group-title="NBA"
+#EXTGRP:NBA"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433788
 
 #EXTINF:-1,NBA TV
@@ -1606,147 +1606,147 @@ http://nerdsvpn.nl:8080/trash/8324987586/323512
 
 
 #EXTINF:-1,4K BTV
-group-title="欧美4K"
+#EXTGRP:欧美4K"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/392623
 #EXTINF:-1,4K Clarity
-group-title="欧美4K"
+#EXTGRP:欧美4K"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/392622
 #EXTINF:-1,4K ESPN US
-group-title="欧美4K"
+#EXTGRP:欧美4K"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/392629
 #EXTINF:-1,4K FOX Sports 1 US
-group-title="欧美4K"
+#EXTGRP:欧美4K"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/392630
 #EXTINF:-1,4K FOX Sports 2 US
-group-title="欧美4K"
+#EXTGRP:欧美4K"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/392631
 #EXTINF:-1,4K Golf Channel US
-group-title="欧美4K"
+#EXTGRP:欧美4K"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/392634
 #EXTINF:-1,4K Insight 4K (D)
-group-title="欧美4K"
+#EXTGRP:欧美4K"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/234327
 #EXTINF:-1,4K KINO  (D)
-group-title="欧美4K"
+#EXTGRP:欧美4K"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/234326
 #EXTINF:-1,4K Love Nature
-group-title="欧美4K"
+#EXTGRP:欧美4K"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/392628
 #EXTINF:-1,4K NBC Sports US
-group-title="欧美4K"
+#EXTGRP:欧美4K"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/392632
 #EXTINF:-1,4K Our Siberia  (D)
-group-title="欧美4K"
+#EXTGRP:欧美4K"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/234329
 #EXTINF:-1,4K SERIAL  (D)
-group-title="欧美4K"
+#EXTGRP:欧美4K"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/234325
 #EXTINF:-1,4K Sport TV 1
-group-title="欧美4K"
+#EXTGRP:欧美4K"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/392624
 #EXTINF:-1,4K Ultra Cinema  (D)
-group-title="欧美4K"
+#EXTGRP:欧美4K"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/234331
 #EXTINF:-1,4K HK Now Sports (EPL)
-group-title="欧美4K"
+#EXTGRP:欧美4K"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/332715
 #EXTINF:-1,4K Nasa TV (D)
-group-title="欧美4K"
+#EXTGRP:欧美4K"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/332717
 #EXTINF:-1,4K US Bloomberg+ (D)
-group-title="欧美4K"
+#EXTGRP:欧美4K"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/332718
 #EXTINF:-1,4K Fashion TV (D)
-group-title="欧美4K"
+#EXTGRP:欧美4K"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/332719
 #EXTINF:-1,4K IT Rai (TS)
-group-title="欧美4K"
+#EXTGRP:欧美4K"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/332720
 #EXTINF:-1,4K PL Eleven Sport
-group-title="欧美4K"
+#EXTGRP:欧美4K"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/360494
-#EXTINF:-1 tvg-name="Astro SuperSport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="特别呈现",astro Supersport
+#EXTINF:-1 tvg-name="Astro SuperSport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" #EXTGRP:特别呈现",astro Supersport
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485564
-#EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="特别呈现",astro Supersport 2
+#EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" #EXTGRP:特别呈现",astro Supersport 2
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485565
-#EXTINF:-1 tvg-name="Astro SuperSport 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="特别呈现",astro Supersport 3
+#EXTINF:-1 tvg-name="Astro SuperSport 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" #EXTGRP:特别呈现",astro Supersport 3
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485566
-#EXTINF:-1 tvg-name="Astro SuperSport 4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="特别呈现",astro Supersport 4
+#EXTINF:-1 tvg-name="Astro SuperSport 4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" #EXTGRP:特别呈现",astro Supersport 4
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485567
-#EXTINF:-1 tvg-name="Astro SuperSport 5" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" group-title="特别呈现",astro Supersport 5
+#EXTINF:-1 tvg-name="Astro SuperSport 5" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" #EXTGRP:特别呈现",astro Supersport 5
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485569
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600158/1086.png" group-title="特别呈现",Sky Sports Main Event
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600158/1086.png" #EXTGRP:特别呈现",Sky Sports Main Event
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428298
-#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" group-title="特别呈现",Sky Sports Premier League
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" #EXTGRP:特别呈现",Sky Sports Premier League
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428320
-#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600241/6752.png" group-title="特别呈现",Sky Sports Football
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600241/6752.png" #EXTGRP:特别呈现",Sky Sports Football
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428292
-#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600420/6753.png" group-title="特别呈现",Sky Sports Arena
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600420/6753.png" #EXTGRP:特别呈现",Sky Sports Arena
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/431479
-#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600280/1134.png" group-title="特别呈现",Sky Sports Cricket
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600280/1134.png" #EXTGRP:特别呈现",Sky Sports Cricket
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/377942
-#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1500468425/1514.png" group-title="特别呈现",Sky Sports F1
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1500468425/1514.png" #EXTGRP:特别呈现",Sky Sports F1
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428289
-#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600318/1110.png" group-title="特别呈现",Sky Sports Golf
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600318/1110.png" #EXTGRP:特别呈现",Sky Sports Golf
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/375845
-#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600470/5995.png" group-title="特别呈现",Sky Sports Mix
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600470/5995.png" #EXTGRP:特别呈现",Sky Sports Mix
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428300
-#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1600877510/1087.png" group-title="特别呈现",Sky Sports News
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1600877510/1087.png" #EXTGRP:特别呈现",Sky Sports News
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/483428
-#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1546303327/1161.png" group-title="特别呈现",Sky Sports Racing
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1546303327/1161.png" #EXTGRP:特别呈现",Sky Sports Racing
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428306
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="特别呈现",BT SPORT 1
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" #EXTGRP:特别呈现",BT SPORT 1
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428237
-#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="特别呈现",BT SPORT 2
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" #EXTGRP:特别呈现",BT SPORT 2
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428240
-#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="特别呈现",BT SPORT 3
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" #EXTGRP:特别呈现",BT SPORT 3
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428243
-#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" group-title="特别呈现",BT SPORT 4
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1647384957/5796.png" #EXTGRP:特别呈现",BT SPORT 4
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428246
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a188.png" group-title="特别呈现",TSN 1
+#EXTINF:-1 tvg-name="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a188.png" #EXTGRP:特别呈现",TSN 1
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418553
-#EXTINF:-1 tvg-name="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a189.png" group-title="特别呈现",TSN 2
+#EXTINF:-1 tvg-name="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a189.png" #EXTGRP:特别呈现",TSN 2
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418554
-#EXTINF:-1 tvg-name="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a190.png" group-title="特别呈现",TSN 3
+#EXTINF:-1 tvg-name="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a190.png" #EXTGRP:特别呈现",TSN 3
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418555
-#EXTINF:-1 tvg-name="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a191.png" group-title="特别呈现",TSN 4
+#EXTINF:-1 tvg-name="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a191.png" #EXTGRP:特别呈现",TSN 4
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418534
-#EXTINF:-1 tvg-name="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a192.png" group-title="特别呈现",TSN 5
+#EXTINF:-1 tvg-name="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a192.png" #EXTGRP:特别呈现",TSN 5
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418535
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOW%20SPORTS%204K.png" group-title="特别呈现",Now Sports 4K
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOW%20SPORTS%204K.png" #EXTGRP:特别呈现",Now Sports 4K
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425322
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOW%20SPORTS.png" group-title="特别呈现",Now Sports 1
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOW%20SPORTS.png" #EXTGRP:特别呈现",Now Sports 1
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425329
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOW%20SPORTS.png" group-title="特别呈现",Now Sports 2
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOW%20SPORTS.png" #EXTGRP:特别呈现",Now Sports 2
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425328
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOW%20SPORTS.png" group-title="特别呈现",Now Sports 3
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOW%20SPORTS.png" #EXTGRP:特别呈现",Now Sports 3
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425327
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOW%20SPORTS.png" group-title="特别呈现",Now Sports 4
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOW%20SPORTS.png" #EXTGRP:特别呈现",Now Sports 4
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425326
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOW%20SPORTS.png" group-title="特别呈现",Now Sports 5
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOW%20SPORTS.png" #EXTGRP:特别呈现",Now Sports 5
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425325
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOW%20SPORTS.png" group-title="特别呈现",Now Sports 6
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOW%20SPORTS.png" #EXTGRP:特别呈现",Now Sports 6
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425324
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOW%20SPORTS.png" group-title="特别呈现",Now Sports 7
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOW%20SPORTS.png" #EXTGRP:特别呈现",Now Sports 7
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425323
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOWSPORTSPRIME.png" group-title="特别呈现",Now Premier Sports 1
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOWSPORTSPRIME.png" #EXTGRP:特别呈现",Now Premier Sports 1
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425332
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOWSPORTSPRIME.png" group-title="特别呈现",Now Premier Sports 2
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOWSPORTSPRIME.png" #EXTGRP:特别呈现",Now Premier Sports 2
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425333
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOWSPORTSPRIME.png" group-title="特别呈现",Now Premier Sports 3
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOWSPORTSPRIME.png" #EXTGRP:特别呈现",Now Premier Sports 3
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425334
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOWSPORTSPRIME.png" group-title="特别呈现",Now Premier Sports 4
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOWSPORTSPRIME.png" #EXTGRP:特别呈现",Now Premier Sports 4
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425335
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOWSPORTSPRIME.png" group-title="特别呈现",Now Premier Sports 5
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOWSPORTSPRIME.png" #EXTGRP:特别呈现",Now Premier Sports 5
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425336
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOWSPORTSPRIME.png" group-title="特别呈现",Now Premier Sports 6
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOWSPORTSPRIME.png" #EXTGRP:特别呈现",Now Premier Sports 6
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425337
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOWSPORTSPRIME.png" group-title="特别呈现",Now Premier Sports 7
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOWSPORTSPRIME.png" #EXTGRP:特别呈现",Now Premier Sports 7
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425331
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOWSPORTSPRIME.png" group-title="特别呈现",Now Premier Sports 8
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.112114.xyz/logo/NOWSPORTSPRIME.png" #EXTGRP:特别呈现",Now Premier Sports 8
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425330
 
