@@ -1,172 +1,106 @@
-#EXTM3U
-
-#EXTINF:-1,FWC2022 01   
-group-title="世界杯专栏"
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/478369
-#EXTINF:-1,FWC2022 02 
-group-title="世界杯专栏"
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/478370
-#EXTINF:-1,FWC2022 03 
-group-title="世界杯专栏"
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/478371
-#EXTINF:-1,FWC2022 04 
-group-title="世界杯专栏" 
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/478372
-#EXTINF:-1,UK (ITVX) World Cup Classics
-group-title="世界杯专栏"
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484691
-#EXTINF:-1,US FOX Sports 1 UHD/4K (F)
-group-title="世界杯专栏"
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484692
-#EXTINF:-1,US FOX UHD/4K (F)
-group-title="世界杯专栏"
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484693
-#EXTINF:-1,HK Now HK World CUP UHD/4K
-group-title="世界杯专栏"
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484694
-#EXTINF:-1,HK Now HK World CUP
-group-title="世界杯专栏"
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484695
-#EXTINF:-1,SG (SH) Hub World Cup 1 (D)
-group-title="世界杯专栏"
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484696
-#EXTINF:-1,SG (SH) Hub World Cup 2 (D)
-group-title="世界杯专栏"
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484697
-#EXTINF:-1,MY Astro Supersport UHD/4K
-group-title="世界杯专栏"
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484698
-#EXTINF:-1,FR TF1 UHD/4K (M)
-group-title="世界杯专栏"
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484699
-#EXTINF:-1,TRT (TR) UHD/4K (D)
-group-title="世界杯专栏"
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484700
-#EXTINF:-1,IT Rai UHD/4K (TS)
-group-title="世界杯专栏"
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484701
-#EXTINF:-1,DE (SKYDE) FUSSBALL.TV 1 FIFA World Cup 2022 UHD/4K
-group-title="世界杯专栏"
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484702
-#EXTINF:-1,DE (SKYDE) FUSSBALL.TV 2 FIFA World Cup 2022 UHD/4K
-group-title="世界杯专栏"
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484703
-#EXTINF:-1,DE (SKYDE) FUSSBALL.TV 3 FIFA World Cup 2022 UHD/4K
-group-title="世界杯专栏"
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484704
-#EXTINF:-1,DE (SKYDE) FUSSBALL.TV 1 FIFA World Cup 2022 HD
-group-title="世界杯专栏"
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484705
-#EXTINF:-1,DE (SKYDE) FUSSBALL.TV 3 FIFA World Cup 2022 HD
-group-title="世界杯专栏"
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/484707
-#EXTINF:-1,Astro  | Arena 2
-group-title="世界杯专栏"
-http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485573
-
-#EXTINF:-1,CCTV1
-group-title="央视"
+EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml""
+#EXTINF:0 tvg-name="CCTV1"
+#EXTGRP:央视频道
 http://117.157.25.193:6610/270000001111/1110000301/index.m3u8?
 http://117.157.25.193:6610/270000001128/9900000001/index.m3u8?=
 http://117.157.25.193:6610/270000001111/1110000301/index.m3u8?=
 http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
 
-#EXTINF:-1,CCTV2
-group-title="央视"
+#EXTINF:0 tvg-name="CCTV2"
+#EXTGRP:央视频道
 http://117.157.25.193:6610/270000001111/1110000302/index.m3u8?
 http://117.157.25.193:6610/270000001128/9900000002/index.m3u8?=
 http://117.157.25.193:6610/270000001111/1110000302/index.m3u8?=
 http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
 
-#EXTINF:-1,CCTV3
-group-title="央视"
+#EXTINF:0 tvg-name="CCTV3"
+#EXTGRP:央视频道
 http://117.157.25.193:6610/270000001111/1110000303/index.m3u8?
 http://117.157.25.193:6610/270000001128/9900000003/index.m3u8?=
 http://117.157.25.193:6610/270000001111/1110000303/index.m3u8?=
 
-#EXTINF:-1,CCTV4
-group-title="央视"
+#EXTINF:0 tvg-name="CCTV4"
+#EXTGRP:央视频道
 http://117.157.25.193:6610/270000001128/9900000004/index.m3u8?=
 http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
 
-#EXTINF:-1,CCTV5
-group-title="央视"
+#EXTINF:0 tvg-name="CCTV5"
+#EXTGRP:央视频道
 http://117.157.25.193:6610/270000001111/1110000305/index.m3u8?
 http://117.157.25.193:6610/270000001128/9900000005/index.m3u8?=
 http://117.157.25.193:6610/270000001128/9900000020/index.m3u8?=
 http://117.157.25.193:6610/270000001111/1110000321/index.m3u8?=
 http://117.157.25.193:6610/270000001111/1110000305/index.m3u8?=
 
-#EXTINF:-1,CCTV5+
-group-title="央视"
-http://117.157.25.193:6610/270000001111/1110000306/index.m3u8?
+#EXTINF:0 tvg-name="CCTV5+"
+#EXTGRP:央视频道
 http://117.157.25.193:6610/270000001128/9900000018/index.m3u8?=
 http://117.157.25.193:6610/270000001111/1110000306/index.m3u8?=
 http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
 
-#EXTINF:-1,CCTV6
-group-title="央视"
+#EXTINF:0 tvg-name="CCTV6"
+#EXTGRP:央视频道
 http://117.157.25.193:6610/270000001111/1110000307/index.m3u8?
 http://117.157.25.193:6610/270000001128/9900000006/index.m3u8?=
 http://117.157.25.193:6610/270000001111/1110000307/index.m3u8?=
 
-#EXTINF:-1,CCTV7
-group-title="央视"
+#EXTINF:0 tvg-name="CCTV7"
+#EXTGRP:央视频道
 http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
 
-#EXTINF:-1,CCTV8
-group-title="央视"
+#EXTINF:0 tvg-name="CCTV8"
+#EXTGRP:央视频道
 http://117.157.25.193:6610/270000001111/1110000309/index.m3u8?
 http://117.157.25.193:6610/270000001128/9900000008/index.m3u8?=
 http://117.157.25.193:6610/270000001111/1110000309/index.m3u8?=
 
-#EXTINF:-1,CCTV9
-group-title="央视"
+#EXTINF:0 tvg-name="CCTV9"
+#EXTGRP:央视频道
 http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
 
-#EXTINF:-1,CCTV10
-group-title="央视"
+#EXTINF:0 tvg-name="CCTV10"
+#EXTGRP:央视频道
 http://39.135.138.60:18890/PLTV/88888910/224/3221225636/index.m3u8
 
-#EXTINF:-1,CCTV11
-group-title="央视"
+#EXTINF:0 tvg-name="CCTV11"
+#EXTGRP:央视频道
 http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
 
-#EXTINF:-1,CCTV12
-group-title="央视"
+#EXTINF:0 tvg-name="CCTV12"
+#EXTGRP:央视频道
 http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
 
-#EXTINF:-1,CCTV13
-group-title="央视"
+#EXTINF:0 tvg-name="CCTV13"
+#EXTGRP:央视频道
 http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 
-#EXTINF:-1,CCTV14
-group-title="央视"
+#EXTINF:0 tvg-name="CCTV14"
+#EXTGRP:央视频道
 http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225640/index.m3u8
 
-#EXTINF:-1,CCTV15
-group-title="央视"
+#EXTINF:0 tvg-name="CCTV15"
+#EXTGRP:央视频道
 http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 
-#EXTINF:-1,CCTV16
-group-title="央视"
+#EXTINF:0 tvg-name="CCTV16"
+#EXTGRP:央视频道
 http://117.157.25.193:6610/270000001128/9900000016/index.m3u8?=
 http://117.157.25.193:6610/270000001128/9900000016/index.m3u8?=
 
-#EXTINF:-1,CCTV17
-group-title="央视"
+#EXTINF:0 tvg-name="CCTV17"
+#EXTGRP:央视频道
 http://117.157.25.193:6610/270000001111/1110000391/index.m3u8?
 http://117.157.25.193:6610/270000001111/1110000391/index.m3u8?=
 
 http://117.157.25.193:6610/270000001128/9900000017/index.m3u8?=
 
 
-#EXTINF:-1,CCTV 高尔夫 网球
-group-title="央视"
+#EXTINF:0 tvg-name="高尔夫 网球"
+#EXTGRP:央视频道
 http://117.157.25.193:6610/270000001128/9900000094/index.m3u8?=
 
 
