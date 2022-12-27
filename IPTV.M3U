@@ -104,92 +104,6 @@ http://117.157.25.193:6610/270000001128/9900000094/index.m3u8?=
 
 
 
-#EXTINF:-1,甘肃卫视
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001111/1110000322/index.m3u8?
-http://117.157.25.193:6610/270000001128/9900000023/index.m3u8?=
-#EXTINF:-1,辽宁卫视 
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000029/index.m3u8?=
-#EXTINF:-1,贵州卫视
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000036/index.m3u8?=
-#EXTINF:-1,海南卫视
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000037/index.m3u8?=
-
-#EXTINF:-1,天津卫视
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000028/index.m3u8?=
-#EXTINF:-1,黑龙江卫视
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000031/index.m3u8?=
-#EXTINF:-1,广东卫视
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000033/index.m3u8?=
-#EXTINF:-1,云南卫视
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000035/index.m3u8?=
-#EXTINF:-1,吉林卫视
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000030/index.m3u8?=
-#EXTINF:-1,重庆卫视
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000024/index.m3u8?=
-#EXTINF:-1,东南卫视
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000032/index.m3u8?=
-#EXTINF:-1,河南卫视
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000027/index.m3u8?=
-#EXTINF:-1,陕西卫视
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000026/index.m3u8?=
-#EXTINF:-1,广西卫视
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000034/index.m3u8?=
-#EXTINF:-1,四川卫视
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000025/index.m3u8?=
-#EXTINF:-1,河北卫视
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000057/index.m3u8?=
-#EXTINF:-1,上海卫视
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000048/index.m3u8?=
-#EXTINF:-1,山西卫视
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000053/index.m3u8?=
-#EXTINF:-1,湖南卫视
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000054/index.m3u8?=
-#EXTINF:-1,江苏卫视
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000049/index.m3u8?=
-#EXTINF:-1,安徽卫视
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000051/index.m3u8?=
-#EXTINF:-1,湖北卫视
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000055/index.m3u8?=
-#EXTINF:-1,青海卫视
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000042/index.m3u8?=
-#EXTINF:-1,深圳卫视
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000041/index.m3u8?=
-#EXTINF:-1,山东卫视 
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000052/index.m3u8?=
-#EXTINF:-1,北京卫视 
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000038/index.m3u8?=
-#EXTINF:-1,浙江卫视 
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000050/index.m3u8?=
-#EXTINF:-1,江西卫视 
-#EXTGRP:地方卫视
-http://117.157.25.193:6610/270000001128/9900000056/index.m3u8?=
 
 
 #EXTINF:-1,US: DISCOVERY CHANNEL
@@ -503,33 +417,33 @@ http://pull-l3-cny.douyincdn.com/live/ed503be0a61dc988e0a7d9e1f57a1885.m3u8
 http://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
 #EXTINF:-1,
 
-#EXTINF:-1,
+#EXTINF:-1,Asia N，
 #EXTGRP:港台卫视"
-Asia N，http://pull-l3-cny.douyincdn.com/live/2ce10c5078ec753f8f50f4c3897e8f76.m3u8
-#EXTINF:-1,
+http://pull-l3-cny.douyincdn.com/live/2ce10c5078ec753f8f50f4c3897e8f76.m3u8
+#EXTINF:-1,THE MOVIE，
 #EXTGRP:港台卫视"
-THE MOVIE，http://pull-l3-cny.douyincdn.com/live/adb7cf254b46d42d58828f590a6137bf.m3u8
-#EXTINF:-1,
+http://pull-l3-cny.douyincdn.com/live/adb7cf254b46d42d58828f590a6137bf.m3u8
+#EXTINF:-1,Channel China，
 #EXTGRP:港台卫视"
-Channel China，http://pull-l3-cny.douyincdn.com/live/05fadffbceabeb97bbf09061a165791b.m3u8
-#EXTINF:-1,
+http://pull-l3-cny.douyincdn.com/live/05fadffbceabeb97bbf09061a165791b.m3u8
+#EXTINF:-1,Channel Seezn，
 #EXTGRP:港台卫视"
-Channel Seezn，http://pull-l3-cny.douyincdn.com/live/9dbd2556b180db11b62283739297981b.m3u8
-#EXTINF:-1,
+http://pull-l3-cny.douyincdn.com/live/9dbd2556b180db11b62283739297981b.m3u8
+#EXTINF:-1,探索频道HD，
 #EXTGRP:港台卫视"
-探索频道HD，http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
-#EXTINF:-1,
+http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
+#EXTINF:-1,HBO HD，
 #EXTGRP:港台卫视"
-HBO HD，http://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
-#EXTINF:-1,
+http://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
+#EXTINF:-1,HBO家庭影院，
 #EXTGRP:港台卫视"
-HBO家庭影院，http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
-#EXTINF:-1,
+http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
+#EXTINF:-1,HBO原创电影，
 #EXTGRP:港台卫视"
-HBO原创电影，http://pull-l3-cny.douyincdn.com/live/9bfb4b08fec367ed3850357a853250d5.m3u8
-#EXTINF:-1,
+http://pull-l3-cny.douyincdn.com/live/9bfb4b08fec367ed3850357a853250d5.m3u8
+#EXTINF:-1,HBO强档影院，
 #EXTGRP:港台卫视"
-HBO强档影院，http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
+http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
 
 #EXTINF:-1,民视台湾台
 #EXTGRP:港台卫视"
@@ -566,9 +480,9 @@ http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 
 #EXTM3U
-#EXTINF:-1 #EXTGRP:",NBATV
+#EXTINF:-1,NBATV
 http://line.premiumpowers.net:80/Manuel/1234567/941562
-#EXTINF:-1 #EXTGRP:",SPO TV2
+#EXTINF:-1,SPO TV2
 http://line.premiumpowers.net:80/Manuel/1234567/941563
 #EXTINF:-1 #EXTGRP:",SPO TV
 http://line.premiumpowers.net:80/Manuel/1234567/941564
@@ -935,371 +849,371 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418135
 
 
 #EXTINF:-1,US-720 : ESPN
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487995
 #EXTINF:-1,US-720 : ESPN 2
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487996
 #EXTINF:-1,US-720 : ESPN DEPORTES
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487997
 #EXTINF:-1,US-720 : ESPN NEWS
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487998
 #EXTINF:-1,US-720 : ESPN U
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/487999
 #EXTINF:-1,US-720 : FOX DEPORTES
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488003
 #EXTINF:-1,US-720 : FOX NEWS CHANNEL
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488004
 #EXTINF:-1,US-720 : FOX SPORTS 1
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488005
 #EXTINF:-1,US-720 : FOX SPORTS 2
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488006
 #EXTINF:-1,US: BallySports Arizona Plus
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418254
 #EXTINF:-1,US: BallySports Arizona Plus 2
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418255
 #EXTINF:-1,US: BallySports Arizona US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418219
 #EXTINF:-1,US: BallySPORTS CAROLINAS US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418226
 #EXTINF:-1,US: BallySports Cincinnati us
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418220
 #EXTINF:-1,US: BallySports Detroit Plus
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418256
 #EXTINF:-1,US: BallySports Detroit US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418221
 #EXTINF:-1,US: BallySports Florida US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418223
 #EXTINF:-1,US: BallySports Great Lakes US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418224
 #EXTINF:-1,US: BallySports Indiana US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418225
 #EXTINF:-1,US: BallySports Kansas City Plus US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418228
 #EXTINF:-1,US: BallySports Kansas City US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418227
 #EXTINF:-1,US: BallySports Midwest Plus US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418230
 #EXTINF:-1,US: BallySports Midwest US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418229
 #EXTINF:-1,US: BallySports New Orleans Plus US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418232
 #EXTINF:-1,US: BallySports New Orleans US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418231
 #EXTINF:-1,US: BallySports North Plus US
 #EXTGRP:欧美体育"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418234
 #EXTINF:-1,US: BallySports North US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418233
 #EXTINF:-1,US: BallySports Ohio Plus US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418236
 #EXTINF:-1,US: BallySports Ohio US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418235
 #EXTINF:-1,US: BallySports Oklahoma Plus US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418238
 #EXTINF:-1,US: BallySports Oklahoma US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418237
 #EXTINF:-1,US: BallySports San Diego Plus US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418240
 #EXTINF:-1,US: BallySports San Diego US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418239
 #EXTINF:-1,US: BallySports Socal US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418241
 #EXTINF:-1,US: BallySports South Plus US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418243
 #EXTINF:-1,US: BallySports South US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418242
 #EXTINF:-1,US: BallySports Southeast US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418244
 #EXTINF:-1,US: BallySports Southwest US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418245
 #EXTINF:-1,US: BallySPORTS SUN SOUTH US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418246
 #EXTINF:-1,US: BallySports Sun US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418247
 #EXTINF:-1,US: BallySports Tennessee US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418222
 #EXTINF:-1,US: BallySPORTS WEST
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418251
 #EXTINF:-1,US: BallySports West US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418248
 #EXTINF:-1,US: BallySports Wisconsin Plus
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418257
 #EXTINF:-1,US: BallySports Wisconsin US
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418249
 #EXTINF:-1,US: BallySPORTS XTRA2
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418252
 #EXTINF:-1,US: BallySPORTS XTRA3
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418253
 #EXTINF:-1,US: CBS SPORTS NETWORK
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418177
 #EXTINF:-1,US: EDGE SPORT
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 #EXTINF:-1,US: FUBO SPORTS NETWORK
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418199
 #EXTINF:-1,US: NBA TV
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418182
 #EXTINF:-1,UK: BOX NATION
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428235
 #EXTINF:-1,UK: BT SPORT 1
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428237
 #EXTINF:-1,UK: BT SPORT 2
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428240
 #EXTINF:-1,UK: BT SPORT 3
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428243
 #EXTINF:-1,UK: BT SPORT BOX OFFICE (Live On Events Only)
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428249
 #EXTINF:-1,UK: BT SPORT 4 (ESPN)
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428246
 #EXTINF:-1,UK: BT SPORT 5
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428309
 #EXTINF:-1,UK: BT SPORT 6
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428310
 #EXTINF:-1,UK: BT SPORT 7
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428311
 #EXTINF:-1,UK: BT SPORT 8
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428313
 #EXTINF:-1,UK: BT SPORT 9
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428312
 #EXTINF:-1,BT Sport 1 FHD 50FPS
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485621
 #EXTINF:-1,BT Sport 2 FHD 50FPS
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485622
 #EXTINF:-1,BT Sport 3 FHD 50FPS
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485623
 #EXTINF:-1,BT Sport 4 FHD 50FPS
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485624
 #EXTINF:-1,BT Sport 5 HD 25FPS
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485625
 #EXTINF:-1,BT Sport 6 HD 25FPS
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485626
 #EXTINF:-1,BT Sport 7 HD 25FPS
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485627
 #EXTINF:-1,BT Sport 8 HD 25FPS
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485628
 #EXTINF:-1,BT Sport 9 HD 25FPS
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485629
 #EXTINF:-1,BT Sport 10 HD 25FPS
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485630
 #EXTINF:-1,UK: Eurosport 1
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428251
 #EXTINF:-1,UK: Eurosport 2
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428253
 #EXTINF:-1,UK: FreeSports
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428255
 #EXTINF:-1,UK: Ginx eSports TV
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428257
 #EXTINF:-1,UK: LFC TV
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428259
 #EXTINF:-1,UK: MUTV
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428261
 #EXTINF:-1,UK: PREMIER SPORTS 1
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428314
 #EXTINF:-1,UK: PREMIER SPORTS 1 FHD
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428316
 #EXTINF:-1,UK: PREMIER SPORTS 2
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428317
 #EXTINF:-1,UK: Racing TV
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428263
 #EXTINF:-1,UK: SKY SPORTS 1
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428266
 #EXTINF:-1,UK: SKY SPORTS 2
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428269
 #EXTINF:-1,UK: SKY SPORTS 4
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428275
 #EXTINF:-1,UK: SKY SPORTS 5
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428278
 #EXTINF:-1,UK: Sky Sports Action
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/431478
 #EXTINF:-1,UK: Sky Sports Arena
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/431479
 #EXTINF:-1,UK: SKY SPORTS BOX OFFICE
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428284
 #EXTINF:-1,UK: SKY SPORTS CRICKET
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428286
 #EXTINF:-1,UK: SKY SPORTS F1
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428289
 #EXTINF:-1,UK: SKY SPORTS FOOTBALL
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428292
 #EXTINF:-1,UK: SKY SPORTS GOLF
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428295
 #EXTINF:-1,UK: SKY SPORTS MAIN EVENT
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428298
 #EXTINF:-1,UK: SKY SPORTS MIX
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428300
 #EXTINF:-1,UK: Sky Sports News
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/431480
 #EXTINF:-1,UK: SKY SPORTS NFL
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428303
 #EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428320
 #EXTINF:-1,UK: SKY SPORTS RACING
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428306
 #EXTINF:-1,HK Now Sports 1
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425329
 #EXTINF:-1,HK Now Sports 2
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425328
 #EXTINF:-1,HK Now Sports 3
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425327
 #EXTINF:-1,HK Now Sports 4
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425326
 #EXTINF:-1,HK Now Sports 5
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425325
 #EXTINF:-1,HK Now Sports 6
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425324
 #EXTINF:-1,HK Now Sports 7
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425323
 
 #EXTINF:-1,beIN SPORTS 4 FHD (D)
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/214181
 #EXTINF:-1,beIN SPORTS 5 FHD (D)
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/214180
 #EXTINF:-1,beIN SPORTS 6 FHD (D)
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/214179
 #EXTINF:-1,beIN SPORTS 7 FHD (D)
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/214178
 #EXTINF:-1,beIN SPORTS 8 FHD (D)
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/214177
-#E#EXTGRP:欧美体育"
+#E#EXTGRP:欧美体育
 XTINF:-1,HK Now Sports 1
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425329
 #EXTINF:-1,HK Now Sports 2
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425328
 #EXTINF:-1,HK Now Sports 3
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425327
 #EXTINF:-1,HK Now Sports 4
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425326
 #EXTINF:-1,HK Now Sports 5
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425325
 #EXTINF:-1,HK Now Sports 6
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425324
 #EXTINF:-1,HK Now Sports 7
-#EXTGRP:欧美体育"
+#EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425323
 
 #EXTINF:-1,NBA TV
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/237165
 #EXTINF:-1,NBA TV SD
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/367120
 #EXTINF:-1,US  ESPN
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376411
 #EXTINF:-1,US  TNT
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376412
 
 #EXTINF:-1,US NBA Atlanta Hawks (HD) (S)
@@ -1307,225 +1221,278 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376412
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433730
 
 #EXTINF:-1,US NBA Boston Celtics (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433732
 
 #EXTINF:-1,US NBA Brooklyn Nets (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433734
 
 #EXTINF:-1,US NBA Charlotte Hornets (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433736
 
 #EXTINF:-1,US NBA Chicago Bulls (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433738
 
 #EXTINF:-1,US NBA Cleveland Cavaliers (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433740
 
 #EXTINF:-1,US NBA Dallas Mavericks (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433742
 
 #EXTINF:-1,US NBA Denver Nuggets (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433744
 
 #EXTINF:-1,US NBA Detroit Pistons (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433746
 
 #EXTINF:-1,US NBA Golden State Warriors (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433748
 
 #EXTINF:-1,US NBA Houston Rockets (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433750
 
 #EXTINF:-1,US NBA Indiana Pacers (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433752
 
 #EXTINF:-1,US NBA Los Angeles Clippers (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433754
 #
 #EXTINF:-1,US NBA Los Angeles Lakers (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433756
 #EXTINF:-1,US NBA Memphis Grizzlies (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433758
 
 #EXTINF:-1,US NBA Miami Heat (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433760
 
 #EXTINF:-1,US NBA Milwaukee Bucks (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433762
 
 #EXTINF:-1,US NBA Minnesota Timberwolves (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433764
 
 #EXTINF:-1,US NBA New Orleans Pelicans (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433766
 
 #EXTINF:-1,US NBA New York Knicks (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433768
 
 #EXTINF:-1,US NBA Oklahoma City Thunder (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433770
 
 #EXTINF:-1,US NBA Orlando Magic (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433772
 
 #EXTINF:-1,US NBA Philadelphia 76ers (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433774
 
 #EXTINF:-1,US NBA Phoenix Suns (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433776
 
 #EXTINF:-1,US NBA Portland Trail Blazers (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433778
 
 #EXTINF:-1,US NBA Sacramento Kings (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433780
 
 #EXTINF:-1,US NBA San Antonio Spurs (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433782
 
 #EXTINF:-1,US NBA Toronto Raptors (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433784
 
 #EXTINF:-1,US NBA Utah Jazz (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433786
 
 #EXTINF:-1,US NBA Washington Wizards (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433788
 
 #EXTINF:-1,NBA TV
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/335396
 #EXTINF:-1,USA | NBA Atlanta Hawks (ATL)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323516
 #EXTINF:-1,USA | NBA Atlanta Hawks (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323453
 #EXTINF:-1,USA | NBA Atlanta Hawks (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323454
 #EXTINF:-1,USA | NBA Boston Celtics (BOS)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323537
 #EXTINF:-1,USA | NBA Boston Celtics (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323455
 #EXTINF:-1,USA | NBA Boston Celtics (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323456
 #EXTINF:-1,USA | NBA Brooklyn Nets (BKN)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323536
 #EXTINF:-1,USA | NBA Brooklyn Nets (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323457
 #EXTINF:-1,USA | NBA Brooklyn Nets (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323458
 #EXTINF:-1,USA | NBA Charlotte Hornets (CHA)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323539
 #EXTINF:-1,USA | NBA Charlotte Hornets (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323459
 #EXTINF:-1,USA | NBA Charlotte Hornets (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323460
 #EXTINF:-1,USA | NBA Chicago Bulls (CHI)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323529
 #EXTINF:-1,USA | NBA Chicago Bulls (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323461
 #EXTINF:-1,USA | NBA Chicago Bulls (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323462
 #EXTINF:-1,USA | NBA Cleveland Cavaliers (CLE)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323526
 #EXTINF:-1,USA | NBA Cleveland Cavaliers (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323463
 #EXTINF:-1,USA | NBA Cleveland Cavaliers (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323464
 #EXTINF:-1,USA | NBA Dallas Mavericks (DAL)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323534
 #EXTINF:-1,USA | NBA Dallas Mavericks (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323465
 #EXTINF:-1,USA | NBA Dallas Mavericks (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323466
 #EXTINF:-1,USA | NBA Denver Nuggets (DEN)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323533
 #EXTINF:-1,USA | NBA Denver Nuggets (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323467
 #EXTINF:-1,USA | NBA Denver Nuggets (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323468
 #EXTINF:-1,USA | NBA Detroit Pistons (DET)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323517
 #EXTINF:-1,USA | NBA Detroit Pistons (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323469
 #EXTINF:-1,USA | NBA Detroit Pistons (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323470
 #EXTINF:-1,USA | NBA Golden State Warriors (GSW
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323527
 #EXTINF:-1,USA | NBA Golden State Warriors (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323471
 #EXTINF:-1,USA | NBA Golden State Warriors (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323472
 #EXTINF:-1,USA | NBA Houston Rockets (HOU)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323530
 #EXTINF:-1,USA | NBA Houston Rockets (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323473
 #EXTINF:-1,USA | NBA Houston Rockets (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323474
 #EXTINF:-1,USA | NBA Indiana Pacers (IND)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323523
 #EXTINF:-1,USA | NBA Indiana Pacers (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323475
 #EXTINF:-1,USA | NBA Indiana Pacers (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323476
 #EXTINF:-1,USA | NBA Los Angeles Clippers (LAC)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323540
 #EXTINF:-1,USA | NBA Los Angeles Clippers (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323477
 #EXTINF:-1,USA | NBA Los Angeles Clippers (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323478
 #EXTINF:-1,USA | NBA Los Angeles Lakers (LAL)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323525
 #EXTINF:-1,USA | NBA Los Angeles Lakers (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323479
 #EXTINF:-1,USA | NBA Los Angeles Lakers (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323480
 #EXTINF:-1,USA | NBA Memphis Grizzlies (MEM)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323524
 #EXTINF:-1,USA | NBA Memphis Grizzlies (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323481
 #EXTINF:-1,USA | NBA Memphis Grizzlies (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323482
 #EXTINF:-1,USA | NBA Miami Heat (MIA)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323541
 #EXTINF:-1,USA | NBA Miami Heat (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323483
 #EXTINF:-1,USA | NBA Miami Heat (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323484
 #EXTINF:-1,USA | NBA Milwaukee Bucks (MIL)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323522
 #EXTINF:-1,USA | NBA Milwaukee Bucks (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323485
 #EXTINF:-1,USA | NBA Milwaukee Bucks (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323486
 #EXTINF:-1,USA | NBA Minnesota Timerwolves  (MIN)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323528
 #EXTINF:-1,USA | NBA Minnesota Timberwolves (HD)
 http://nerdsvpn.nl:8080/trash/8324987586/323487
