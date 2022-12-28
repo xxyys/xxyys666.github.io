@@ -1694,6 +1694,31 @@ http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/294362.ts
 #EXTINF:-1,DE: Collection Fast and Furious 4K #EXTGRP:欧美4K"
 http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/294363.ts
 
+#EXTINF:-1,N1 Play ULTRA UHD SE #EXTGRP:欧美4K"
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/213219
+#EXTINF:-1,N1 Play Comedy UHD SE #EXTGRP:欧美4K"
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/222225
+#EXTINF:-1,Fashion TV UHD SE #EXTGRP:欧美4K"
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/110504
+#EXTINF:-1,Telia Liiga UHD FI #EXTGRP:欧美4K"
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/341479
+#EXTINF:-1,Bein 4K UHD/HDR AR #EXTGRP:欧美4K"
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/453954
+#EXTINF:-1,Sport 5 UHD 4K IL #EXTGRP:欧美4K"
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/59033
+#EXTINF:-1,Digi 4K UHD RO #EXTGRP:欧美4K"
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/90814
+#EXTINF:-1,One By Music UHD 4K #EXTGRP:欧美4K"
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/39162
+#EXTINF:-1,MY Astro Supersport 4K UHD 1 #EXTGRP:欧美4K"
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/348094
+#EXTINF:-1,HubPremier 4K UHD #EXTGRP:欧美4K"
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/348096
+#EXTINF:-1,HK Now Sports (EPL) 4K UHD #EXTGRP:欧美4K"
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/117957
+#EXTINF:-1,V Sport Ultra 4K SE #EXTGRP:欧美4K"
+http://ultratv.one:2095/xMsGHAzQ/kYuckAK/31644
+
 #EXTINF:-1 tvg-name="Astro SuperSport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="特别呈现",astro Supersport
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485564
 #EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="特别呈现",astro Supersport 2
