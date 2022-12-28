@@ -1549,18 +1549,23 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/360494
 
 
 #EXTINF:-1 tvg-name="Astro SuperSport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png"
-#EXTGRP:特别呈现",astro Supersport
+#EXTGRP:特别呈现
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485564
-#EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" #EXTGRP:特别呈现",astro Supersport 2
+#EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" 
+#EXTGRP:特别呈现
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485565
-#EXTINF:-1 tvg-name="Astro SuperSport 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" #EXTGRP:特别呈现",astro Supersport 3
+#EXTINF:-1 tvg-name="Astro SuperSport 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" 
+#EXTGRP:特别呈现
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485566
-#EXTINF:-1 tvg-name="Astro SuperSport 4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" #EXTGRP:特别呈现",astro Supersport 4
+#EXTINF:-1 tvg-name="Astro SuperSport 4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" 
+#EXTGRP:特别呈现
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485567
-#EXTINF:-1 tvg-name="Astro SuperSport 5" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" #EXTGRP:特别呈现",astro Supersport 5
+#EXTINF:-1 tvg-name="Astro SuperSport 5" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png" 
+#EXTGRP:特别呈现
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485569
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600158/1086.png" #EXTGRP:特别呈现",Sky Sports Main Event
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600158/1086.png" 
+#EXTGRP:特别呈现",Sky Sports Main Event
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428298
 #EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" #EXTGRP:特别呈现",Sky Sports Premier League
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/428320
