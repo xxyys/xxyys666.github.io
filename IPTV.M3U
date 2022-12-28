@@ -1548,7 +1548,8 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/332720
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/360494
 
 
-#EXTINF:-1 tvg-name="Astro SuperSport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" #EXTGRP:特别呈现",astro Supersport
+#EXTINF:-1 tvg-name="Astro SuperSport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png"
+#EXTGRP:特别呈现",astro Supersport
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485564
 #EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" #EXTGRP:特别呈现",astro Supersport 2
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485565
