@@ -1276,7 +1276,7 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376411
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376412
 
 #EXTINF:-1,US NBA Atlanta Hawks (HD) (S)
-#EXTGRP:NBA"
+#EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/433730
 
 #EXTINF:-1,US NBA Boston Celtics (HD) (S)
@@ -1554,80 +1554,118 @@ http://nerdsvpn.nl:8080/trash/8324987586/323486
 #EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323528
 #EXTINF:-1,USA | NBA Minnesota Timberwolves (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323487
 #EXTINF:-1,USA | NBA Minnesota Timberwolves (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323488
 #EXTINF:-1,USA | NBA New Orleans Pelicans (NOP)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323519
 #EXTINF:-1,USA | NBA New Orleans Pelicans (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323489
 #EXTINF:-1,USA | NBA New Orleans Pelicans (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323490
 #EXTINF:-1,USA | NBA New York Knicks (NYK)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323532
 #EXTINF:-1,USA | NBA New York Knicks (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323491
 #EXTINF:-1,USA | NBA New York Knicks (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323492
 #EXTINF:-1,USA | NBA Oklahoma City Thunder (OKC)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323518
 #EXTINF:-1,USA | NBA Oklahoma City Thunder (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323493
 #EXTINF:-1,USA | NBA Oklahoma City Thunder (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323494
 #EXTINF:-1,USA | NBA Orlando Magic (ORL)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323521
 #EXTINF:-1,USA | NBA Orlando Magic (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323495
 #EXTINF:-1,USA | NBA Orlando Magic (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323496
 #EXTINF:-1,USA | NBA Philadelphia 76ers (PHI)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323535
 #EXTINF:-1,USA | NBA Philadelphia 76ers (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323497
 #EXTINF:-1,USA | NBA Philadelphia 76ers (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323498
 #EXTINF:-1,USA | NBA Phoenıx Sun (PHX)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323538
 #EXTINF:-1,USA | NBA Phoenix Suns (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323499
 #EXTINF:-1,USA | NBA Phoenix Suns (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323500
 #EXTINF:-1,USA | NBA Portland Trail Blazers (POR)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323531
 #EXTINF:-1,USA | NBA Portland Trail Blazers (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323501
 #EXTINF:-1,USA | NBA Portland Trail Blazers (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323502
 #EXTINF:-1,USA | NBA Sacramento Kings (SAC)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323542
 #EXTINF:-1,USA | NBA Sacramento Kings (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323503
 #EXTINF:-1,USA | NBA Sacramento Kings (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323504
 #EXTINF:-1,USA | NBA San Antonio Spurs (SAS)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323513
 #EXTINF:-1,USA | NBA San Antonio Spurs (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323505
 #EXTINF:-1,USA | NBA San Antonio Spurs (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323506
 #EXTINF:-1,USA | NBA Toronto Raptors (TOR)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323514
 #EXTINF:-1,USA | NBA Toronto Raptors (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323507
 #EXTINF:-1,USA | NBA Toronto Raptors (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323508
 #EXTINF:-1,USA | NBA Utah Jazz (UTA)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323515
 #EXTINF:-1,USA | NBA Utah Jazz (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323509
 #EXTINF:-1,USA | NBA Utah Jazz (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323510
 #EXTINF:-1,USA | NBA Washington Wizards (WAS)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323520
 #EXTINF:-1,USA | NBA Washington Wizards (HD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323511
 #EXTINF:-1,USA | NBA Washington Wizards (SD)
+#EXTGRP:NBA
 http://nerdsvpn.nl:8080/trash/8324987586/323512
 
 
@@ -1692,6 +1730,8 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/332720
 #EXTINF:-1,4K PL Eleven Sport
 #EXTGRP:欧美4K"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/360494
+
+
 #EXTINF:-1 tvg-name="Astro SuperSport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" #EXTGRP:特别呈现",astro Supersport
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485564
 #EXTINF:-1 tvg-name="Astro SuperSport 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" #EXTGRP:特别呈现",astro Supersport 2
