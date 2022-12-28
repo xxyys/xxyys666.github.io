@@ -538,6 +538,21 @@ http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 #EXTGRP:港台卫视"
 http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://upload.112114.xyz/logo/WUXIANXINWEN.png" group-title="港台卫视"",无线新闻台
+http://315600.xyz/a/smt.php?playurl=http://50.7.168.234:8278/inews_twn/playlist.m3u8
+#EXTINF:-1 tvg-name="无线财经" tvg-logo="https://upload.112114.xyz/logo/WUXIANCAIJING.png" group-title="港台卫视"",无线财经资讯台
+http://315600.xyz/a/smt.php?playurl=http://50.7.168.234:8278/j5_twn/playlist.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://upload.112114.xyz/logo/feicui.png" group-title="港台卫视"",翡翠台
+http://315600.xyz/a/smt.php?playurl=http://50.7.168.234:8278/jade_twn/playlist.m3u8
+#EXTINF:-1 tvg-name="J2" tvg-logo="https://upload.112114.xyz/logo/J2.png" group-title="港台卫视"",J2
+http://315600.xyz/a/smt.php?playurl=http://50.7.168.234:8278/j2_twn/playlist.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://upload.112114.xyz/logo/mingzhu.png" group-title="港台卫视"",明珠台
+http://315600.xyz/a/smt.php?playurl=http://50.7.168.234:8278/pearl_twn/playlist.m3u8
+#EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://upload.112114.xyz/logo/viutv.png" group-title="港台卫视"",VIU TV
+http://315600.xyz/a/smt.php?playurl=http://50.7.168.234:8278/viu_twn/playlist.m3u8
+#EXTINF:-1 tvg-name="VIUTVSIX" tvg-logo="https://upload.112114.xyz/logo/viutv6.png" group-title="港台卫视"",VIU 6
+http://315600.xyz/a/smt.php?playurl=http://50.7.168.234:8278/viusix_twn/playlist.m3u8
+
 
 #EXTINF:-1,KBS1 
 #EXTGRP:日韩频道"
@@ -1078,6 +1093,77 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425324
 #EXTGRP:欧美体育
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/425323
 
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1641766200/1083.png" group-title="UK-SKY",Sky News
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/195619
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600126/1140.png" group-title="UK-SKY",Sky Arts
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/548884
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1593556722/1500.png" group-title="UK-SKY",Sky Atlantic
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/548881
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1593556643/7351.png" group-title="UK-SKY",Sky Nature
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/548934
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1580094867/1136.png" group-title="UK-SKY",Sky Comedy
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/548883
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1592346849/1348.png" group-title="UK-SKY",Sky Crime
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/548931
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1592346801/1073.png" group-title="UK-SKY",Sky Witness
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/548880
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1590584669/7352.png" group-title="UK-SKY",Sky Documentaries
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/548930
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1590582252/1069.png" group-title="UK-SKY",Sky History
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/548932
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1590582088/1528.png" group-title="UK-SKY",Sky History 2
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/548933
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1629070458/7481.png" group-title="UK-SKY",Sky Max
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/548882
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1598489886/1177.png" group-title="UK-SKY",Sky Replay
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/548885
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1630491051/1084.png" group-title="UK-SKY",Sky Showcase
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/548879
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1592347700/1438.png" group-title="UK-SKY",Sky Cinema Hits
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/548983
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1592347770/1081.png" group-title="UK-SKY",Sky Cinema Premiere
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/548982
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1592347630/1424.png" group-title="UK-SKY",Sky Cinema Greats
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/548984
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1592347069/1419.png" group-title="UK-SKY",Sky Cinema Action
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/548987
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1598063422/7361.png" group-title="UK-SKY",Sky Cinema Animation
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/548985
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1592347504/1425.png" group-title="UK-SKY",Sky Cinema Drama
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/548989
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1592347338/1085.png" group-title="UK-SKY",Sky Cinema Comedy
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/548988
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1592347581/1420.png" group-title="UK-SKY",Sky Cinema Family
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/548986
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1592347836/1421.png" group-title="UK-SKY",Sky Cinema Sci-Fi & Horror
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/548990
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1592347428/1439.png" group-title="UK-SKY",Sky Cinema Thriller
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/548991
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1592347895/1423.png" group-title="UK-SKY",Sky Cinema Select
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1600877510/1087.png" group-title="UK-SKY",Sky Sports News
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/586757
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600158/1086.png" group-title="UK-SKY",Sky Sports Main Event
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/586759
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600205/1554.png" group-title="UK-SKY",Sky Sports Premier League
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/586761
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600241/6752.png" group-title="UK-SKY",Sky Sports Football
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/586763
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600470/5995.png" group-title="UK-SKY",Sky Sports Mix
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/586780
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600420/6753.png" group-title="UK-SKY",Sky Sports Arena
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/586773
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600280/1134.png" group-title="UK-SKY",Sky Sports Cricket
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/586766
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1500468425/1514.png" group-title="UK-SKY",Sky Sports F1
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/586775
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1507600318/1110.png" group-title="UK-SKY",Sky Sports Golf
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/586768
+#EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1546303327/1161.png" group-title="UK-SKY",Sky Sports Racing
+http://fuzzyunicorns.net:80/laquitaevans3@gmail.com/laquitaevans3/586777
+
+
 #EXTINF:-1,NBA TV
 #EXTGRP:NBA
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/237165
@@ -1546,6 +1632,67 @@ http://abc123.digital:8080/Deacon68/uFHfwNRuHH/332720
 #EXTINF:-1,4K PL Eleven Sport
 #EXTGRP:欧美4K"
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/360494
+
+#EXTINF:-1,DE:RTL UHD
+#EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/29821.ts
+#EXTINF:-1,DE:Pro7Sat.1 UHD
+#EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/259722.ts
+#EXTINF:-1,DE: Sky Sport UHD
+#EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/289276.ts
+#EXTINF:-1,DE: Disney+ 4K 
+#EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/294369.ts
+#EXTINF:-1,DE: Amazon Prime Video 1 UHD
+#EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/294294.ts
+#EXTINF:-1,DE: Amazon Prime Video 2 UHD
+#EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/294295.ts
+#EXTINF:-1,DE: Sky Store Select 1 4K 
+#EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/231922.ts
+#EXTINF:-1,DE: Sky Store Select 2 4K 
+#EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/231923.ts
+#EXTINF:-1,DE: Sky Store Select 3 4K #EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/231924.ts
+#EXTINF:-1,DE: Sky Store Select 4 4K #EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/231925.ts
+#EXTINF:-1,DE: Sky Store Select 5 4K #EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/231926.ts
+#EXTINF:-1,DE: Sky Store Select 6 4K #EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/231927.ts
+#EXTINF:-1,DE: Sky Store Select 7 4K #EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/231928.ts
+#EXTINF:-1,DE: Sky Store Select 8 4K #EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/231929.ts
+#EXTINF:-1,DE: Sky Store Select 9 4K #EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/231930.ts
+#EXTINF:-1,DE: Sky Store Select 10 4K #EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/231931.ts
+#EXTINF:-1,DE: Sky Store Select 11 4K #EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/231932.ts
+#EXTINF:-1,DE: Sky Store Select 12 4K #EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/231933.ts
+#EXTINF:-1,DE: Sky Store Select 13 4K #EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/231934.ts
+#EXTINF:-1,DE: Sky Store Select 14 4K #EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/231935.ts
+#EXTINF:-1,DE: Sky Store Select 15 4K #EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/231936.ts
+#EXTINF:-1,DE: Sky Store Select 16 4K #EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/231937.ts
+#EXTINF:-1,DE: Sky Store Select 17 4K #EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/231938.ts
+#EXTINF:-1,DE: Sky Store Select 18 4K #EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/231939.ts
+#EXTINF:-1,DE: Marvel DC Collection 4K #EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/294362.ts
+#EXTINF:-1,DE: Collection Fast and Furious 4K #EXTGRP:欧美4K"
+http://live.darkside-iptv.co:8080/pMDWkZ3Uff7S/g98astfctveh/294363.ts
 
 #EXTINF:-1 tvg-name="Astro SuperSport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="特别呈现",astro Supersport
 http://abc123.digital:8080/Deacon68/uFHfwNRuHH/485564
