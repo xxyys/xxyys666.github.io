@@ -553,6 +553,11 @@ http://315600.xyz/a/smt.php?playurl=http://50.7.168.234:8278/viu_twn/playlist.m3
 #EXTINF:-1 tvg-name="VIUTVSIX" tvg-logo="https://upload.112114.xyz/logo/viutv6.png" group-title="港台卫视"",VIU 6
 http://315600.xyz/a/smt.php?playurl=http://50.7.168.234:8278/viusix_twn/playlist.m3u8
 
+CATCHPLAY电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
+TRACE音乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
+数位电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv011.stream/playlist.m3u8
+智林体育台,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+峨眉电影超高清,http://222.186.181.157/livehkkp.chinamcache.com/live/emdy4k.m3u8
 
 #EXTINF:-1,KBS1 
 #EXTGRP:日韩频道"
