@@ -707,3 +707,12 @@ http://123.30.146.172:21585/529/mpegts
 
 #EXTINF:-1 group-title="日本"tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sports-live-plus-jp.png",Sports Live+
 http://123.30.146.172:21585/627/mpegts
+
+#EXTINF:-1 group-title="临时",ASTRO SUPERSPORT 1
+http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/12395.ts
+#EXTINF:-1 group-title="临时",ASTRO SUPERSPORT 2
+http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/12396.ts
+#EXTINF:-1 group-title="临时",ASTRO SUPERSPORT 3
+http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/12397.ts
+#EXTINF:-1 group-title="临时",ASTRO SUPERSPORT 4
+http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/12398.ts
