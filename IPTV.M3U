@@ -712,7 +712,7 @@ http://123.30.146.172:21585/627/mpegts
 http://abc123.digital:8080/andrealiberto@verizon.net/y7BqBQGMYZ/418152
 #EXTINF:-1,US: AT&T Sportsnet Rocky Mountain group-title="US SPORT" 
 http://abc123.digital:8080/andrealiberto@verizon.net/y7BqBQGMYZ/418172
-#EXTINF:-1,US: AT&T SPORTSNET SOUTHWEST
+#EXTINF:-1,US: AT&T SPORTSNET SOUTHWEST,group-title="US SPORT" 
 http://abc123.digital:8080/andrealiberto@verizon.net/y7BqBQGMYZ/418153
 #EXTINF:-1,US: ATT SPORTSNET PITTSBURGH
 http://abc123.digital:8080/andrealiberto@verizon.net/y7BqBQGMYZ/418143
