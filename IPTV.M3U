@@ -1658,15 +1658,14 @@ http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
 http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BB VIP ALBANIA 1" tvg-logo="https://logos.emiretv.com/bbal.png" group-title="REALITY SHOWS ",BB VIP ALBANIA 1
+#EXTM3U#EXTINF:-1 tvg-id="" tvg-name="BB VIP ALBANIA 1" tvg-logo="https://logos.emiretv.com/bbal.png" group-title="REALITY SHOWS ",BB VIP ALBANIA
 http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/26887.ts
 #EXTINF:-1 tvg-id="" tvg-name="BB VIP ALBANIA 2" tvg-logo="https://logos.emiretv.com/bbal.png" group-title="REALITY SHOWS ",BB VIP ALBANIA 2
 http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/26888.ts
 #EXTINF:-1 tvg-id="" tvg-name="BB VIP KOSOVA 1" tvg-logo="https://logos.emiretv.com/bb2.png" group-title="REALITY SHOWS ",BB VIP KOSOVA 1
 http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/26519.ts
 #EXTINF:-1 tvg-id="" tvg-name="BB VIP KOSOVA 2" tvg-logo="https://logos.emiretv.com/bb1.png" group-title="REALITY SHOWS ",BB VIP KOSOVA 2
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/26520.ts
+http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/265
 #EXTINF:-1 tvg-id="" tvg-name="BB VIP KOSOVA 1 - - - " tvg-logo="https://logos.emiretv.com/bb2.png" group-title="REALITY SHOWS ",BB VIP KOSOVA 1 - - - 
 http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/26872.ts
 #EXTINF:-1 tvg-id="" tvg-name="BB VIP KOSOVA 2 - - - " tvg-logo="https://logos.emiretv.com/bb1.png" group-title="REALITY SHOWS ",BB VIP KOSOVA 2 - - - 
@@ -1723,7 +1722,7 @@ http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/26795.ts
 http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/26796.ts
 #EXTINF:-1 tvg-id="" tvg-name="RTSH Satelit" tvg-logo="" group-title="LOKALE & KOMBËTARE ",RTSH Satelit
 http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/3308.ts
-#EXTINF:-1 tvg-id="RTSH 1" tvg-name="RTSH 1" tvg-logo="http://platinumxmedia.xyz:8080/images/ad4710770cc187a5d03253761e8178ae.png" group-title="LOKALE & KOMBËTARE ",RTSH 1
+#EXTINF:-1 tvg-id="RTSH 1" tvg-name="RTSH 1" tvg-logo="http://platinumxmedia.xyz:8080/images/ad4710770cc187a5d03253761e8178ae.png" group-title="LOKALE & KOMBËTARE ",RTSH 
 http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/13.ts
 #EXTINF:-1 tvg-id="" tvg-name="RTSH 2" tvg-logo="http://platinumxmedia.xyz:8080/images/44178a967d14d95e6158d10635fa759d.png" group-title="LOKALE & KOMBËTARE ",RTSH 2
 http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/14.ts
