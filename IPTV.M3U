@@ -227,7 +227,7 @@ http://pull-l3-cny.douyincdn.com/live/3d50d525417f450fdbc3fbbf5ac32960.m3u8
 #EXTINF:-1,tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://epg.112114.xyz/logo/HBO HD.png" group-title="电影",HBO HD
 http://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
 #EXTINF:-1,tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://epg.112114.xyz/logo/HBO HD.png" group-title="电影",HBO HD1
-https://hboasialive.akamaized.net/hls/live/2007800/HBO/index.m3u8?hdnts=exp=1673179622-hmac=edeeb179f259b00d35db218dedbfab47952ff43e5b754820ba39eabe5261b482
+https://hboasialive.akamaized.net/hls/live/2007800/HBO/index.m3u8?hdnts=exp=1673179622~hmac=edeeb179f259b00d35db218dedbfab47952ff43e5b754820ba39eabe5261b482
 #EXTINF:-1,tvg-id="HBO家庭影院" tvg-name="HBO家庭影院" tvg-logo="https://epg.112114.xyz/logo/HBO家庭影院.png" group-title="电影",HBO家庭影院
 http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
 #EXTINF:-1,tvg-id="HBO原创电影" tvg-name="HBO原创电影" tvg-logo="https://epg.112114.xyz/logo/HBO原创电影.png" group-title="电影",HBO原创电影
