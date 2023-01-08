@@ -704,18 +704,7 @@ http://123.30.146.172:21585/529/mpegts
 #EXTINF:-1 group-title="日本"tvg-id="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sports-live-plus-jp.png",Sports Live+
 http://123.30.146.172:21585/627/mpegts
 
-#EXTINF:-1,ASTRO SUPERSPORT 1
-#EXTGRP:泰星
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/12395.ts
-#EXTINF:-1,ASTRO SUPERSPORT 2
-#EXTGRP:泰星
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/12396.ts
-#EXTINF:-1,ASTRO SUPERSPORT 3
-#EXTGRP:泰星
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/12397.ts
-#EXTINF:-1,ASTRO SUPERSPORT 4
-#EXTGRP:泰星
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/12398.ts
+
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/308_144.png" group-title="新加坡",ASTRO SUPERSPORTS 1 4K
 http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1016544
@@ -1016,9 +1005,7 @@ http://ultratv.one:2095/xMsGHAzQ/kYuckAK/460914
 #EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1452789529/1446.png" group-title="英国",Sony Sab
 http://ultratv.one:2095/xMsGHAzQ/kYuckAK/460904
 
-#EXTINF:-1,US: BallySPORTS XTRA2 group-title="US SPORT" 
-http://abc123.digital:8080/langley.es@gmail.com/5mjLL7evXh/418252
-#EXTINF:-1,US: BallySPORTS XTRA3 group-title="US SPORT" 
+
 #EXTINF:-1 tvg-name="" tvg-logo="https://sportshub.cbsistatic.com/i/2022/12/08/6db7d648-5f35-4503-a02f-d506b1f8d01c/nbc-new-logo-2022.jpg" group-title="美国",USA| NBC
 http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/325451
 #EXTINF:-1 tvg-name="" tvg-logo="https://res.cloudinary.com/zenbusiness/image/upload/v1670445040/logaster/logaster-2020-03-the-2nd-logo-11-1024x290.jpg" group-title="美国",USA| CBS
@@ -2878,46 +2865,7 @@ http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/11004.ts
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 EXTRA HD" tvg-logo="" group-title="️⚽️ SPORTI INTERNACIONAL",EUROSPORT 2 EXTRA HD
 http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/11005.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 1" tvg-logo="" group-title="Filma TV 18+ ",Kanal 1
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/17168.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 2" tvg-logo="" group-title="Filma TV 18+ ",Kanal 2
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/17169.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 3" tvg-logo="" group-title="Filma TV 18+ ",Kanal 3
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/17170.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 4" tvg-logo="" group-title="Filma TV 18+ ",Kanal 4
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/17171.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 5" tvg-logo="" group-title="Filma TV 18+ ",Kanal 5
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/17172.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 6" tvg-logo="" group-title="Filma TV 18+ ",Kanal 6
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/17173.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 7" tvg-logo="" group-title="Filma TV 18+ ",Kanal 7
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/17174.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 8" tvg-logo="" group-title="Filma TV 18+ ",Kanal 8
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/17175.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 9" tvg-logo="" group-title="Filma TV 18+ ",Kanal 9
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/17176.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 10" tvg-logo="" group-title="Filma TV 18+ ",Kanal 10
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/17177.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 11" tvg-logo="" group-title="Filma TV 18+ ",Kanal 11
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/17178.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 12" tvg-logo="" group-title="Filma TV 18+ ",Kanal 12
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/17179.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 13" tvg-logo="" group-title="Filma TV 18+ ",Kanal 13
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/17180.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 14" tvg-logo="" group-title="Filma TV 18+ ",Kanal 14
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/17181.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 15" tvg-logo="" group-title="Filma TV 18+ ",Kanal 15
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/17182.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 16" tvg-logo="" group-title="Filma TV 18+ ",Kanal 16
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/17183.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 17" tvg-logo="" group-title="Filma TV 18+ ",Kanal 17
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/17184.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 18" tvg-logo="" group-title="Filma TV 18+ ",Kanal 18
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/17185.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 19" tvg-logo="" group-title="Filma TV 18+ ",Kanal 19
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/17186.ts
-#EXTINF:-1 tvg-id="" tvg-name="Kanal 20" tvg-logo="" group-title="Filma TV 18+ ",Kanal 20
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/17187.ts
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Tivibu Spor 1 TR" tvg-logo="" group-title="️⚽️ SPORTI INTERNACIONAL",Tivibu Spor 1 TR
 http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/20536.ts
@@ -2943,7 +2891,6 @@ http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/8466.ts
 http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/1108.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tring Sport 2 - " tvg-logo="" group-title="️⚽️ SPORTI SHQIP",Tring Sport 2 - 
 http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/1109.ts
-#EXTINF:-1 tvg-id="" tvg-name="Klan Kosova res" tvg-logo="" group-title="LOKALE & KOMBËTARE ",Klan Kosova res
-http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/3183.ts
+
 
 
