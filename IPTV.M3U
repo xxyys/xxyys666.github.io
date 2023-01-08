@@ -230,10 +230,18 @@ http://pull-l3-cny.douyincdn.com/live/b2478a833f3e8b439b680048fcbf7786.m3u8
 https://hboasialive.akamaized.net/hls/live/2007800/HBO/index.m3u8?hdnts=exp=1673179622~hmac=edeeb179f259b00d35db218dedbfab47952ff43e5b754820ba39eabe5261b482
 #EXTINF:-1,tvg-id="HBO家庭影院" tvg-name="HBO家庭影院" tvg-logo="https://epg.112114.xyz/logo/HBO家庭影院.png" group-title="电影",HBO家庭影院
 http://pull-l3-cny.douyincdn.com/live/1279e1fd458348b32fd60381b1017c09.m3u8
+#EXTINF:-1,tvg-id="HBO家庭影院" tvg-name="HBO家庭影院" tvg-logo="https://epg.112114.xyz/logo/HBO家庭影院.png" group-title="电影",HBO家庭影院1
+https://hboasialive.akamaized.net/hls/live/2007799/FAMILY/index.m3u8?hdnts=exp=1673179633~hmac=ad92e1c619f6667695310d161fb10348441aaeb9467b99f1d19ab7d3a254c4d3
 #EXTINF:-1,tvg-id="HBO原创电影" tvg-name="HBO原创电影" tvg-logo="https://epg.112114.xyz/logo/HBO原创电影.png" group-title="电影",HBO原创电影
 http://pull-l3-cny.douyincdn.com/live/9bfb4b08fec367ed3850357a853250d5.m3u8
+#EXTINF:-1,tvg-id="HBO原创电影" tvg-name="HBO原创电影" tvg-logo="https://epg.112114.xyz/logo/HBO原创电影.png" group-title="电影",HBO原创电影1
+https://hboasialive.akamaized.net/hls/live/2007805/SIG/index.m3u8?hdnts=exp=1673179625~hmac=5d6a61ae9c1a440259eaa861be7f1de7c06b6c656b71ea8fbaa0ce17c5e57424
 #EXTINF:-1,tvg-id="HBO强档影院" tvg-name="HBO强档影院" tvg-logo="https://epg.112114.xyz/logo/HBO强档影院.png" group-title="电影",HBO强档影院
 http://pull-l3-cny.douyincdn.com/live/162f0111fdd134e929d72640e6c4ea56.m3u8
+#EXTINF:-1,tvg-id="HBO强档影院" tvg-name="HBO强档影院" tvg-logo="https://epg.112114.xyz/logo/HBO强档影院.png" group-title="电影",HBO强档影院1
+https://hboasialive.akamaized.net/hls/live/2007801/HITS/index.m3u8?hdnts=exp=1673179629~hmac=d537cbd6ba8aa8c2a2097a53eed0878c7c9f241395ffdb6e7fac06417bf938df
+#EXTINF:-1,tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo=" group-title="电影",CINEMAX
+https://hboasialive.akamaized.net/hls/live/2007802/MAX/index.m3u8?hdnts=exp=1673179638~hmac=d6ab59b672ebe03807c48ff8a9516a4e1c56bd035db6f78b7284d72c4e54706d
 #EXTINF:-1,tvg-id="探索频道HD" tvg-name="探索频道HD" tvg-logo="https://epg.112114.xyz/logo/探索频道HD.png" group-title="电影",探索频道HD
 http://pull-l3-cny.douyincdn.com/live/34633761735b6c677356a7c551f89888.m3u8
 #EXTINF:-1,tvg-id="哔哩卡式台" tvg-name="哔哩卡式台" tvg-logo="https://epg.112114.xyz/logo/哔哩卡式台.png" group-title="电影",哔哩卡式台
