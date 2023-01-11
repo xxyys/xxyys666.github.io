@@ -355,6 +355,153 @@ http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 #EXTGRP:港台卫视"
 http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",新时代电视1台
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=90350
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",新时代电视2台
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=90352
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",TVB J1
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153395
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",TVB1
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153396
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",TVB2
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153397
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",TVB DRAMA
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153400
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",TVB PEARL
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153399
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",TVB E
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153398
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",TVB CHINESE
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153401
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",TVB CLASSIC
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153503
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",TVB E NEWS
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153504
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",TVB JADE
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153505
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",TVB XING HE
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153506
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",TVBS ASIA
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153507
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",PHOENIX HK CHANNEL
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153402
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",PHOENIX CHINESE
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=114695
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",ASTRO 爱奇艺
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571198
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",ASTRO 小太阳
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571230
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",ASTRO 全佳
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571192
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",ASTRO 双星
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571191
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",ASTRO AEC
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571228
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",ASTRO AOD 351
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571226
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",ASTRO AOD 352
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571225
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",ASTRO AOD 353
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571229
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",ASTRO AOD HD 355
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571223
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",TVB CLASSIC
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571197
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",TVB E-NEWS
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571188
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",TVB JADE
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571187
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",TVB XING HE
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571186
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",中天亚洲台
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571212
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",TVBS 亚洲台
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571185
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",HBO
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571204
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",CELESTIAL MOVIES
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571218
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",CELESTIAL CLASSIC MOVIES
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571182
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",KIX HD
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571196
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",ASTRO SUPERSPORTS 1 4K
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1016544
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",ASTRO SUPERSPORTS 2 4K
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1016545
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",ASTRO SPORTS 1
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=918986
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",ASTRO SPORTS 2
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=918985
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",ASTRO SPORTS 3
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=918984
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",ASTRO SPORTS 4
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=918983
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",ASTRO SPORTS 5
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=918982
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",NOW HK NOW SPORTS 4K 616
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032489
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",NOW HK NOW SPORTS 4K 617
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032488
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",NOW HK PREMIER SPORTS 1
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554953
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",NOW HK PREMIER SPORTS 2
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032486
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",NOW HK PREMIER SPORTS 3
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032485
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",NOW HK PREMIER SPORTS 4
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032484
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",NOW HK PREMIER SPORTS 5
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032483
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",NOW HK PREMIER SPORTS 6
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032482
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",NOW HK PREMIER SPORTS 7
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032481
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",NOW HK PREMIER SPORTS 8
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032480
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",NOW SPORTS 1
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554949
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",NOW SPORTS 2
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554948
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",NOW SPORTS 3
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554947
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",NOW SPORTS 4
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554946
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",NOW SPORTS 5
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554945
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",NOW SPORTS 6
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554944
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",NOW SPORTS 7
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554943
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",HUB PREMIER 1
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032529
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",HUB PREMIER 2
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032528
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",HUB PREMIER 3
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032527
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",HUB PREMIER 4
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032526
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",HUB PREMIER 5
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032525
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",HUB PREMIER 6
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032524
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",HUB PREMIER 7
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032523
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",HUB PREMIER 8
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032522
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",HUB PREMIER 9
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032521
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",HUB PREMIER 10
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032520
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",HUB PREMIER 11
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032519
 
 #EXTINF:-1,N1 Play ULTRA UHD SE 
 #EXTGRP:欧美4K"
