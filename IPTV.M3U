@@ -317,6 +317,59 @@ http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 #EXTGRP:港台卫视"
 http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="90350" tvg-name="HK| FAIRCHILD EAST" tvg-logo="http://logo.protv.cc/picons/logos/FAIRCHILD-WEST.png" group-title="CHINA / HONGKONG",HK| FAIRCHILD EAST
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=90350&extension=ts&play_token=w4panUqY4F
+#EXTINF:-1 tvg-id="90351" tvg-name="HK| FAIRCHILD WEST" tvg-logo="http://logo.protv.cc/picons/logos/FAIRCHILD-WEST.png" group-title="CHINA / HONGKONG",HK| FAIRCHILD WEST
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=90351&extension=ts&play_token=PgSS8rcLNN
+#EXTINF:-1 tvg-id="90352" tvg-name="HK| FAIRCHILD 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/FAIRCHILD-2-HD.png" group-title="CHINA / HONGKONG",HK| FAIRCHILD 2 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=90352&extension=ts&play_token=7QUQvrpycU
+#EXTINF:-1 tvg-id="153395" tvg-name="HK| TVB HD" tvg-logo="http://logo.protv.cc/picons/logos/TVB-.png" group-title="CHINA / HONGKONG",HK| TVB HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153395&extension=ts&play_token=tdSmXOsMqf
+#EXTINF:-1 tvg-id="153396" tvg-name="HK| TVB1" tvg-logo="http://logo.protv.cc/picons/logos/TVB-1.png" group-title="CHINA / HONGKONG",HK| TVB1
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153396&extension=ts&play_token=qd42npLkoB
+#EXTINF:-1 tvg-id="153397" tvg-name="HK| TVB2" tvg-logo="http://logo.protv.cc/picons/logos/TVB-2.png" group-title="CHINA / HONGKONG",HK| TVB2
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153397&extension=ts&play_token=mpwdCCQONG
+#EXTINF:-1 tvg-id="153400" tvg-name="HK| TVB DRAMA" tvg-logo="http://logo.protv.cc/picons/logos/TVB-DRAMA.jpeg" group-title="CHINA / HONGKONG",HK| TVB DRAMA
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153400&extension=ts&play_token=l1PpLPHRTQ
+#EXTINF:-1 tvg-id="153399" tvg-name="HK| TVB PEARL" tvg-logo="http://logo.protv.cc/picons/logos/TVB-PEARL.png" group-title="CHINA / HONGKONG",HK| TVB PEARL
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153399&extension=ts&play_token=mad8wXPonE
+#EXTINF:-1 tvg-id="153398" tvg-name="HK| TVBE" tvg-logo="http://logo.protv.cc/picons/logos/TVBE.png" group-title="CHINA / HONGKONG",HK| TVBE
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153398&extension=ts&play_token=0ib2fAt9jW
+#EXTINF:-1 tvg-id="153401" tvg-name="HK| TVB CHINESE" tvg-logo="http://logo.protv.cc/picons/logos/TVB-CHINESE.jpeg" group-title="CHINA / HONGKONG",HK| TVB CHINESE
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153401&extension=ts&play_token=wxx9BccHxp
+#EXTINF:-1 tvg-id="153503" tvg-name="HK| TVB CLASSIC" tvg-logo="http://logo.protv.cc/picons/logos/TVB-CLASSIC.jpeg" group-title="CHINA / HONGKONG",HK| TVB CLASSIC
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153503&extension=ts&play_token=XgkUlCEKCM
+#EXTINF:-1 tvg-id="153504" tvg-name="HK| TVB E NEWS" tvg-logo="http://logo.protv.cc/picons/logos/TVB-E-NEWS.jpeg" group-title="CHINA / HONGKONG",HK| TVB E NEWS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153504&extension=ts&play_token=9urlq5p625
+#EXTINF:-1 tvg-id="153505" tvg-name="HK| TVB JADE" tvg-logo="http://logo.protv.cc/picons/logos/TVB-JADE.jpeg" group-title="CHINA / HONGKONG",HK| TVB JADE
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153505&extension=ts&play_token=u4yRheiuaw
+#EXTINF:-1 tvg-id="153507" tvg-name="HK| TVBS ASIA" tvg-logo="http://logo.protv.cc/picons/logos/TVBS-ASIA .png" group-title="CHINA / HONGKONG",HK| TVBS ASIA
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153507&extension=ts&play_token=Pun5nieBxs
+#EXTINF:-1 tvg-id="153506" tvg-name="HK| TVB XING HE" tvg-logo="http://logo.protv.cc/picons/logos/TVB-XING-HE.png" group-title="CHINA / HONGKONG",HK| TVB XING HE
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153506&extension=ts&play_token=oBUI7V2RM0
+#EXTINF:-1 tvg-id="153402" tvg-name="HK| PHOENIX HK CHANNEL" tvg-logo="http://logo.protv.cc/picons/logos/PHOENIX-HK-CHANNEL.png" group-title="CHINA / HONGKONG",HK| PHOENIX HK CHANNEL
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153402&extension=ts&play_token=IAGXESvLLM
+#EXTINF:-1 tvg-id="114695" tvg-name="HK| PHOENIX CHINESE" tvg-logo="http://logo.protv.cc/picons/logos/PHOENIX-TV.jpeg" group-title="CHINA / HONGKONG",HK| PHOENIX CHINESE
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=114695&extension=ts&play_token=p2cS9YxmDH
+#EXTINF:-1 tvg-id="554949" tvg-name="HK| NOW SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="CHINA / HONGKONG",HK| NOW SPORTS 1 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554949&extension=ts&play_token=XWRY8eYrZY
+#EXTINF:-1 tvg-id="554948" tvg-name="HK| NOW SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="CHINA / HONGKONG",HK| NOW SPORTS 2 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554948&extension=ts&play_token=rL3rerdHEH
+#EXTINF:-1 tvg-id="554947" tvg-name="HK| NOW SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="CHINA / HONGKONG",HK| NOW SPORTS 3 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554947&extension=ts&play_token=iE1GPQatpB
+#EXTINF:-1 tvg-id="554946" tvg-name="HK| NOW SPORTS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="CHINA / HONGKONG",HK| NOW SPORTS 4 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554946&extension=ts&play_token=YM7THcUXoh
+#EXTINF:-1 tvg-id="554945" tvg-name="HK| NOW SPORTS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="CHINA / HONGKONG",HK| NOW SPORTS 5 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554945&extension=ts&play_token=XjyQS2Hx7M
+#EXTINF:-1 tvg-id="554944" tvg-name="HK| NOW SPORTS 6 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="CHINA / HONGKONG",HK| NOW SPORTS 6 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554944&extension=ts&play_token=nDSbaJ2YUs
+#EXTINF:-1 tvg-id="554943" tvg-name="HK| NOW SPORTS 7 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="CHINA / HONGKONG",HK| NOW SPORTS 7 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554943&extension=ts&play_token=JyOiBTPc33
+#EXTINF:-1 tvg-id="554953" tvg-name="HK| NOW PREMIER SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="CHINA / HONGKONG",HK| NOW PREMIER SPORTS 1 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554953&extension=ts&play_token=GOrtHpTYly
+
+
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",新时代电视1台
 http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=90350
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",新时代电视2台
@@ -999,6 +1052,273 @@ http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_tok
 http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032520
 #EXTINF:-1 tvg-name="" tvg-name="" tvg-logo="https://assets.hardwarezone.com/img/2022/06/epl1.jpg" group-title="新加坡",HUB PREMIER 11
 http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032519
+
+#EXTM3U
+#EXTINF:-1 tvg-id="941693" tvg-name="SG| BBC WORLD NEWS HD" tvg-logo="http://logo.protv.cc/picons/logos/BBC-WORLD-NEWS.png" group-title="SINGAPORE",SG| BBC WORLD NEWS HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941693&extension=ts&play_token=ka9qHIEYRS
+#EXTINF:-1 tvg-id="941692" tvg-name="SG| BLOOMBERG TELEVISION HD" tvg-logo="http://logo.protv.cc/picons/logos/BLOOMBERG-HD.png" group-title="SINGAPORE",SG| BLOOMBERG TELEVISION HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941692&extension=ts&play_token=rMoGyBG5iM
+#EXTINF:-1 tvg-id="941691" tvg-name="SG| CGTN HD" tvg-logo="http://logo.protv.cc/picons/logos/cgtn.png" group-title="SINGAPORE",SG| CGTN HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941691&extension=ts&play_token=l8hnqVOQIz
+#EXTINF:-1 tvg-id="941690" tvg-name="SG| CNN HD" tvg-logo="http://logo.protv.cc/picons/logos/cnn.png" group-title="SINGAPORE",SG| CNN HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941690&extension=ts&play_token=WHzfmDO9Ak
+#EXTINF:-1 tvg-id="941689" tvg-name="SG| CNBC HD" tvg-logo="http://logo.protv.cc/picons/logos/cnbchd.png" group-title="SINGAPORE",SG| CNBC HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941689&extension=ts&play_token=7kNyMGuSvD
+#EXTINF:-1 tvg-id="941688" tvg-name="SG| CNA HD" tvg-logo="http://logo.protv.cc/picons/logos/CNA.jpg" group-title="SINGAPORE",SG| CNA HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941688&extension=ts&play_token=EJSTVqi28F
+#EXTINF:-1 tvg-id="941687" tvg-name="SG| DW (DEUTSCH) HD" tvg-logo="http://logo.protv.cc/picons/logos/DW-TV.png" group-title="SINGAPORE",SG| DW (DEUTSCH) HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941687&extension=ts&play_token=wNcKFr6sRz
+#EXTINF:-1 tvg-id="941686" tvg-name="SG| EURONEWS HD" tvg-logo="http://logo.protv.cc/picons/logos/euronews.png" group-title="SINGAPORE",SG| EURONEWS HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941686&extension=ts&play_token=ZOtUHXE9yX
+#EXTINF:-1 tvg-id="941685" tvg-name="SG| FOX NEWS CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/FOX-NEWS-NP.png" group-title="SINGAPORE",SG| FOX NEWS CHANNEL HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941685&extension=ts&play_token=YIJ4hz4nSQ
+#EXTINF:-1 tvg-id="941684" tvg-name="SG| SKY NEWS HD" tvg-logo="http://logo.protv.cc/picons/logos/skynews.png" group-title="SINGAPORE",SG| SKY NEWS HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941684&extension=ts&play_token=z40oSLGKCd
+#EXTINF:-1 tvg-id="941683" tvg-name="SG| TV5MONDE HD" tvg-logo="http://logo.protv.cc/picons/logos/tv5monde.png" group-title="SINGAPORE",SG| TV5MONDE HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941683&extension=ts&play_token=EnVpA3VX9V
+#EXTINF:-1 tvg-id="941682" tvg-name="SG| ABC AUSTRALIA HD" tvg-logo="http://logo.protv.cc/picons/logos/ABC-AUSTRALIA.png" group-title="SINGAPORE",SG| ABC AUSTRALIA HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941682&extension=ts&play_token=VuwT9XiJpv
+#EXTINF:-1 tvg-id="941681" tvg-name="SG| RUSSIA TODAY HD" tvg-logo="http://logo.protv.cc/picons/logos/russiatoday.png" group-title="SINGAPORE",SG| RUSSIA TODAY HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941681&extension=ts&play_token=EYVVmnWprJ
+#EXTINF:-1 tvg-id="941680" tvg-name="SG| LIVE+ HD" tvg-logo="http://logo.protv.cc/picons/logos/LIVE+.png" group-title="SINGAPORE",SG| LIVE+ HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941680&extension=ts&play_token=Md77OkfFUT
+#EXTINF:-1 tvg-id="941679" tvg-name="SG| LIVE 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/LIVE-TV.jpeg" group-title="SINGAPORE",SG| LIVE 2 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941679&extension=ts&play_token=TutV4BNmWn
+#EXTINF:-1 tvg-id="941678" tvg-name="SG| LIVE 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/LIVE-TV.jpeg" group-title="SINGAPORE",SG| LIVE 1 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941678&extension=ts&play_token=nLPMgPpkR9
+#EXTINF:-1 tvg-id="941677" tvg-name="SG| FASHIONTV HD" tvg-logo="http://logo.protv.cc/picons/logos/fashiontv.png" group-title="SINGAPORE",SG| FASHIONTV HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941677&extension=ts&play_token=K7kaWr3fYP
+#EXTINF:-1 tvg-id="941676" tvg-name="SG| ANIMAX HD" tvg-logo="http://logo.protv.cc/picons/logos/Animax.png" group-title="SINGAPORE",SG| ANIMAX HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941676&extension=ts&play_token=TDzh5uXvQq
+#EXTINF:-1 tvg-id="941675" tvg-name="SG| BABY FIRST TV HD" tvg-logo="http://logo.protv.cc/picons/logos/babyfirsttv.png" group-title="SINGAPORE",SG| BABY FIRST TV HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941675&extension=ts&play_token=trxhuYFOO6
+#EXTINF:-1 tvg-id="941674" tvg-name="SG| BOOMERANG HD" tvg-logo="http://logo.protv.cc/picons/logos/boomerang.png" group-title="SINGAPORE",SG| BOOMERANG HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941674&extension=ts&play_token=JzPoiUE11R
+#EXTINF:-1 tvg-id="941673" tvg-name="SG| CARTOON NETWORK  HD" tvg-logo="http://logo.protv.cc/picons/logos/CARTOON-NETWORK-HD.png" group-title="SINGAPORE",SG| CARTOON NETWORK  HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941673&extension=ts&play_token=ezRIJExxKQ
+#EXTINF:-1 tvg-id="941672" tvg-name="SG| CBEEBIES HD" tvg-logo="http://logo.protv.cc/picons/logos/cbeebies.png" group-title="SINGAPORE",SG| CBEEBIES HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941672&extension=ts&play_token=wWRoMob5OA
+#EXTINF:-1 tvg-id="941671" tvg-name="SG| NICKELODEON HD" tvg-logo="http://logo.protv.cc/picons/logos/NICKELODEON-HD.png" group-title="SINGAPORE",SG| NICKELODEON HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941671&extension=ts&play_token=pMD3VfJFam
+#EXTINF:-1 tvg-id="941670" tvg-name="SG| NICK JR HD" tvg-logo="http://logo.protv.cc/picons/logos/NICK-JR-HD.png" group-title="SINGAPORE",SG| NICK JR HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941670&extension=ts&play_token=vL7eX7Vj1d
+#EXTINF:-1 tvg-id="941669" tvg-name="SG| LIFETIME HD" tvg-logo="http://logo.protv.cc/picons/logos/lifetime.png" group-title="SINGAPORE",SG| LIFETIME HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941669&extension=ts&play_token=gXcRzyOy6O
+#EXTINF:-1 tvg-id="941668" tvg-name="SG| BBC LIFESTYLE HD" tvg-logo="http://logo.protv.cc/picons/logos/bbclifestyle.png" group-title="SINGAPORE",SG| BBC LIFESTYLE HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941668&extension=ts&play_token=bWqZEaLFZU
+#EXTINF:-1 tvg-id="941667" tvg-name="SG| BBC EARTH HD" tvg-logo="http://logo.protv.cc/picons/logos/bbcearth.png" group-title="SINGAPORE",SG| BBC EARTH HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941667&extension=ts&play_token=2qKEvK9Pft
+#EXTINF:-1 tvg-id="941666" tvg-name="SG| CRIME + INVESTIGATION HD" tvg-logo="http://logo.protv.cc/picons/logos/CRIME&INVESTIGATION-HD.png" group-title="SINGAPORE",SG| CRIME + INVESTIGATION HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941666&extension=ts&play_token=10G6KsdeXj
+#EXTINF:-1 tvg-id="941665" tvg-name="SG| NATIONAL GEOGRAPHIC HD" tvg-logo="http://logo.protv.cc/picons/logos/nationalgeographic.png" group-title="SINGAPORE",SG| NATIONAL GEOGRAPHIC HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941665&extension=ts&play_token=84vvoV1s3Q
+#EXTINF:-1 tvg-id="941664" tvg-name="SG| NAT GEO WILD HD" tvg-logo="http://logo.protv.cc/picons/logos/natgeowild.png" group-title="SINGAPORE",SG| NAT GEO WILD HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941664&extension=ts&play_token=vkexpfSeDs
+#EXTINF:-1 tvg-id="941663" tvg-name="SG| LOVE NATURE HD" tvg-logo="http://logo.protv.cc/picons/logos/lovenature.png" group-title="SINGAPORE",SG| LOVE NATURE HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941663&extension=ts&play_token=roIFmDc5ld
+#EXTINF:-1 tvg-id="941662" tvg-name="SG| TRAVELXP HD" tvg-logo="http://logo.protv.cc/picons/logos/travelxp.png" group-title="SINGAPORE",SG| TRAVELXP HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941662&extension=ts&play_token=ZPr8IX6TOw
+#EXTINF:-1 tvg-id="941661" tvg-name="SG| HISTORY HD" tvg-logo="http://logo.protv.cc/picons/logos/HISTORY-HD.jpg" group-title="SINGAPORE",SG| HISTORY HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941661&extension=ts&play_token=Ai5UJpY2XU
+#EXTINF:-1 tvg-id="941660" tvg-name="SG| AXN HD" tvg-logo="http://logo.protv.cc/picons/logos/axn.png" group-title="SINGAPORE",SG| AXN HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941660&extension=ts&play_token=zcbbrnWiXA
+#EXTINF:-1 tvg-id="941659" tvg-name="SG| CINEMAX HD" tvg-logo="http://logo.protv.cc/picons/logos/CINEMAX-HD.png" group-title="SINGAPORE",SG| CINEMAX HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941659&extension=ts&play_token=4XNNSRDmDw
+#EXTINF:-1 tvg-id="941658" tvg-name="SG| CINEMAWORLD HD" tvg-logo="http://logo.protv.cc/picons/logos/CINEMA-WORLD-HD.png" group-title="SINGAPORE",SG| CINEMAWORLD HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941658&extension=ts&play_token=DQ3r5pwDZG
+#EXTINF:-1 tvg-id="941657" tvg-name="SG| CURIOSITYSTREAM HD" tvg-logo="http://logo.protv.cc/picons/logos/CURIOSITY-TV.png" group-title="SINGAPORE",SG| CURIOSITYSTREAM HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941657&extension=ts&play_token=V4t1ZPNezl
+#EXTINF:-1 tvg-id="941656" tvg-name="SG| DREAMWORKS CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/DREAMWORKS.png" group-title="SINGAPORE",SG| DREAMWORKS CHANNEL HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941656&extension=ts&play_token=qhleUjLjzf
+#EXTINF:-1 tvg-id="941655" tvg-name="SG| MAKEFUL HD" tvg-logo="http://logo.protv.cc/picons/logos/makeful.png" group-title="SINGAPORE",SG| MAKEFUL HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941655&extension=ts&play_token=9bl3jCv1JJ
+#EXTINF:-1 tvg-id="941654" tvg-name="SG| PARAMOUNT NETWORK HD" tvg-logo="http://logo.protv.cc/picons/logos/paramountnetwork.png" group-title="SINGAPORE",SG| PARAMOUNT NETWORK HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941654&extension=ts&play_token=YGB0fWnnO6
+#EXTINF:-1 tvg-id="941653" tvg-name="SG| SMITHSONIAN CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/smithsonianchannel.png" group-title="SINGAPORE",SG| SMITHSONIAN CHANNEL HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941653&extension=ts&play_token=KehNCS4VO6
+#EXTINF:-1 tvg-id="941652" tvg-name="SG| WARNERTV HD" tvg-logo="http://logo.protv.cc/picons/logos/warnertv.png" group-title="SINGAPORE",SG| WARNERTV HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941652&extension=ts&play_token=2LDQ3kDuDr
+#EXTINF:-1 tvg-id="941651" tvg-name="SG| HUB VVDRAMA HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-V.jpeg" group-title="SINGAPORE",SG| HUB VVDRAMA HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941651&extension=ts&play_token=QhHKlojK9E
+#EXTINF:-1 tvg-id="941650" tvg-name="SG| HUB E CITY HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-V.jpeg" group-title="SINGAPORE",SG| HUB E CITY HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941650&extension=ts&play_token=rJx1Y9DEpf
+#EXTINF:-1 tvg-id="941649" tvg-name="SG| HUB E CITY HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-V.jpeg" group-title="SINGAPORE",SG| HUB E CITY HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941649&extension=ts&play_token=2Q4NQQpOqQ
+#EXTINF:-1 tvg-id="941648" tvg-name="SG| HBO HD" tvg-logo="http://logo.protv.cc/picons/logos/hbo.png" group-title="SINGAPORE",SG| HBO HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941648&extension=ts&play_token=ugINSWFpwQ
+#EXTINF:-1 tvg-id="941647" tvg-name="SG| HBO HITS HD" tvg-logo="http://logo.protv.cc/picons/logos/HBO-HITS.png" group-title="SINGAPORE",SG| HBO HITS HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941647&extension=ts&play_token=LZ8BJ2cyF1
+#EXTINF:-1 tvg-id="941646" tvg-name="SG| HBO FAMILY HD" tvg-logo="http://logo.protv.cc/picons/logos/HBO-FAMILY-HD.png" group-title="SINGAPORE",SG| HBO FAMILY HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941646&extension=ts&play_token=Q0OcWG0Mqf
+#EXTINF:-1 tvg-id="941645" tvg-name="SG| HBO SIGNATURE HD" tvg-logo="http://logo.protv.cc/picons/logos/HBO-SIGNATURE-HD.png" group-title="SINGAPORE",SG| HBO SIGNATURE HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941645&extension=ts&play_token=fryc1bPbgo
+#EXTINF:-1 tvg-id="941644" tvg-name="#### SG ASIAN+ ####" group-title="SINGAPORE",#### SG ASIAN+ ####
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941644&extension=ts&play_token=izLirvHADA
+#EXTINF:-1 tvg-id="941643" tvg-name="SG| BLUE ANT ENTERTAINMENT HD" tvg-logo="http://logo.protv.cc/picons/logos/blueantentertainment.png" group-title="SINGAPORE",SG| BLUE ANT ENTERTAINMENT HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941643&extension=ts&play_token=q1aaH9Adrd
+#EXTINF:-1 tvg-id="941642" tvg-name="SG| PREVIEW CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/PREVIEW-CHANNEL.jpeg" group-title="SINGAPORE",SG| PREVIEW CHANNEL HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941642&extension=ts&play_token=9x82qw2OL5
+#EXTINF:-1 tvg-id="941641" tvg-name="SG| CCTV-4 HD" tvg-logo="http://logo.protv.cc/picons/logos/cctv4.png" group-title="SINGAPORE",SG| CCTV-4 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941641&extension=ts&play_token=EP5L77VlDY
+#EXTINF:-1 tvg-id="941640" tvg-name="SG| ASIA TRAVEL HD" tvg-logo="http://logo.protv.cc/picons/logos/ASIA-TRAVEL.jpeg" group-title="SINGAPORE",SG| ASIA TRAVEL HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941640&extension=ts&play_token=uuhboOC59h
+#EXTINF:-1 tvg-id="941639" tvg-name="SG| CCM HD" tvg-logo="http://logo.protv.cc/picons/logos/CCM.jpeg" group-title="SINGAPORE",SG| CCM HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941639&extension=ts&play_token=zvAMmopuUW
+#EXTINF:-1 tvg-id="941638" tvg-name="SG| CTI TV HD" tvg-logo="http://logo.protv.cc/picons/logos/CTI-ASIA.jpg" group-title="SINGAPORE",SG| CTI TV HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941638&extension=ts&play_token=2VkOpFUeFD
+#EXTINF:-1 tvg-id="941637" tvg-name="SG| DRAGON TV HD" tvg-logo="http://logo.protv.cc/picons/logos/DRAGON-TV.png" group-title="SINGAPORE",SG| DRAGON TV HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941637&extension=ts&play_token=LkhLWxcetf
+#EXTINF:-1 tvg-id="941636" tvg-name="SG| SEA TODAY INDONESIA HD" tvg-logo="http://logo.protv.cc/picons/logos/SEA-TODAY.png" group-title="SINGAPORE",SG| SEA TODAY INDONESIA HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941636&extension=ts&play_token=LxZEKzwvWQ
+#EXTINF:-1 tvg-id="941635" tvg-name="SG| GEM HD" tvg-logo="http://logo.protv.cc/picons/logos/gemtv.png" group-title="SINGAPORE",SG| GEM HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941635&extension=ts&play_token=5OxaPsLYQe
+#EXTINF:-1 tvg-id="941634" tvg-name="SG| HUB VVDRAMA HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-V-DRAMA.png" group-title="SINGAPORE",SG| HUB VVDRAMA HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941634&extension=ts&play_token=gxUtmYh8xd
+#EXTINF:-1 tvg-id="941633" tvg-name="SG| HUB E CITY HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-V.jpeg" group-title="SINGAPORE",SG| HUB E CITY HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941633&extension=ts&play_token=ego9LlVwlu
+#EXTINF:-1 tvg-id="941632" tvg-name="SG| HUB E CITY HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-V.jpeg" group-title="SINGAPORE",SG| HUB E CITY HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941632&extension=ts&play_token=vy5Zdc0pOI
+#EXTINF:-1 tvg-id="941631" tvg-name="SG| KBS WORLD HD" tvg-logo="http://logo.protv.cc/picons/logos/kbsworldhd.png" group-title="SINGAPORE",SG| KBS WORLD HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941631&extension=ts&play_token=45OXuClqTB
+#EXTINF:-1 tvg-id="941630" tvg-name="SG| NOW JELLI HD" tvg-logo="http://logo.protv.cc/picons/logos/NOW-JELLi.png" group-title="SINGAPORE",SG| NOW JELLI HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941630&extension=ts&play_token=gW5AQhF0SV
+#EXTINF:-1 tvg-id="941629" tvg-name="SG| OH!K HD" tvg-logo="http://logo.protv.cc/picons/logos/ASTRO-OH!K.jpg" group-title="SINGAPORE",SG| OH!K HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941629&extension=ts&play_token=JRtUPB0gn3
+#EXTINF:-1 tvg-id="941628" tvg-name="SG| ONE HD" tvg-logo="http://logo.protv.cc/picons/logos/TV-ONE-HD.png" group-title="SINGAPORE",SG| ONE HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941628&extension=ts&play_token=wRHIzFEvWN
+#EXTINF:-1 tvg-id="941627" tvg-name="SG| PHOENIX INFONEWS CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/phoenixinfonewschannel.png" group-title="SINGAPORE",SG| PHOENIX INFONEWS CHANNEL HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941627&extension=ts&play_token=qO9oeDd1rG
+#EXTINF:-1 tvg-id="941626" tvg-name="SG| PHOENIX CHINESE CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/phoenixcne.png" group-title="SINGAPORE",SG| PHOENIX CHINESE CHANNEL HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941626&extension=ts&play_token=umVNVPilbG
+#EXTINF:-1 tvg-id="941625" tvg-name="SG| SCM HD" tvg-logo="http://logo.protv.cc/picons/logos/SCM-.jpeg" group-title="SINGAPORE",SG| SCM HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941625&extension=ts&play_token=I3v7QmeN1A
+#EXTINF:-1 tvg-id="941624" tvg-name="SG| STAR CHINESE CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/STAR-CHINESE-CHANNE.jpeg" group-title="SINGAPORE",SG| STAR CHINESE CHANNEL HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941624&extension=ts&play_token=alvatRFuga
+#EXTINF:-1 tvg-id="941623" tvg-name="SG| TVN HD" tvg-logo="http://logo.protv.cc/picons/logos/TVN.png" group-title="SINGAPORE",SG| TVN HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941623&extension=ts&play_token=xuiR0ODlLO
+#EXTINF:-1 tvg-id="941622" tvg-name="SG| TVBS-NEWS HD" tvg-logo="http://logo.protv.cc/picons/logos/TVBS-NEWS.png" group-title="SINGAPORE",SG| TVBS-NEWS HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941622&extension=ts&play_token=AylfeOpm2Q
+#EXTINF:-1 tvg-id="941621" tvg-name="SG| TVBS ASIA HD" tvg-logo="http://logo.protv.cc/picons/logos/TVBS-ASIA .png" group-title="SINGAPORE",SG| TVBS ASIA HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941621&extension=ts&play_token=2hqnKs5eE1
+#EXTINF:-1 tvg-id="941620" tvg-name="SG| TVB XING HE HD" tvg-logo="http://logo.protv.cc/picons/logos/TVB-XING-HE.png" group-title="SINGAPORE",SG| TVB XING HE HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941620&extension=ts&play_token=UmYusGHPLe
+#EXTINF:-1 tvg-id="941619" tvg-name="SG| TVB JADE HD" tvg-logo="http://logo.protv.cc/picons/logos/TVB-JADE.jpeg" group-title="SINGAPORE",SG| TVB JADE HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941619&extension=ts&play_token=kuF0Qd8u4K
+#EXTINF:-1 tvg-id="941618" tvg-name="SG| CELESTIAL MOVIES HD" tvg-logo="http://logo.protv.cc/picons/logos/CELESTIAL-CLASSIC-MOVIES.png" group-title="SINGAPORE",SG| CELESTIAL MOVIES HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941618&extension=ts&play_token=2NQjxIizVy
+#EXTINF:-1 tvg-id="941617" tvg-name="SG| CHANNEL U HD" tvg-logo="http://logo.protv.cc/picons/logos/CHANNEL-U.png" group-title="SINGAPORE",SG| CHANNEL U HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941617&extension=ts&play_token=P858rdNwUc
+#EXTINF:-1 tvg-id="941616" tvg-name="SG| CHANNEL 8 HD" tvg-logo="http://logo.protv.cc/picons/logos/CHANNEL-8.jpg" group-title="SINGAPORE",SG| CHANNEL 8 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941616&extension=ts&play_token=n2Rzqy3YdR
+#EXTINF:-1 tvg-id="941615" tvg-name="SG| CHANNEL 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/CHANNEL-5.png" group-title="SINGAPORE",SG| CHANNEL 5 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941615&extension=ts&play_token=kQEbzDJSXT
+#EXTINF:-1 tvg-id="941614" tvg-name="SG| ARIRANG TV HD" tvg-logo="http://logo.protv.cc/picons/logos/ARIRANG.png" group-title="SINGAPORE",SG| ARIRANG TV HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941614&extension=ts&play_token=X6D1ylYxiQ
+#EXTINF:-1 tvg-id="941613" tvg-name="#### SG MALAYSIA ####" group-title="SINGAPORE",#### SG MALAYSIA ####
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941613&extension=ts&play_token=lJk57OiOVa
+#EXTINF:-1 tvg-id="941612" tvg-name="SG| CITRA ENTERTAINMENT HD" tvg-logo="http://logo.protv.cc/picons/logos/CITRA-TV.jpeg" group-title="SINGAPORE",SG| CITRA ENTERTAINMENT HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941612&extension=ts&play_token=0OcDws2B34
+#EXTINF:-1 tvg-id="941611" tvg-name="SG| NHK WORLD PREMIUM HD" tvg-logo="http://logo.protv.cc/picons/logos/NHK-WORLD-PREMIUM.png" group-title="SINGAPORE",SG| NHK WORLD PREMIUM HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941611&extension=ts&play_token=eKlVjKgqFv
+#EXTINF:-1 tvg-id="941610" tvg-name="SG| NHK WORLD  JAPAN HD" tvg-logo="http://logo.protv.cc/picons/logos/nhkworldjapan.png" group-title="SINGAPORE",SG| NHK WORLD  JAPAN HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941610&extension=ts&play_token=UsFL0iTQZr
+#EXTINF:-1 tvg-id="941609" tvg-name="SG| ASTRO WARNA HD" tvg-logo="http://logo.protv.cc/picons/logos/ASTRO-WARNA-HD.png" group-title="SINGAPORE",SG| ASTRO WARNA HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941609&extension=ts&play_token=UrcfQKYpBD
+#EXTINF:-1 tvg-id="941608" tvg-name="SG| GEM HD" tvg-logo="http://logo.protv.cc/picons/logos/GEM-TV.jpeg" group-title="SINGAPORE",SG| GEM HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941608&extension=ts&play_token=KshfaJIx9W
+#EXTINF:-1 tvg-id="941607" tvg-name="SG| HITS HD" tvg-logo="http://logo.protv.cc/picons/logos/HITS.png" group-title="SINGAPORE",SG| HITS HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941607&extension=ts&play_token=Cl2NDOzqAU
+#EXTINF:-1 tvg-id="941606" tvg-name="SG| HITS MOVIES HD" tvg-logo="http://logo.protv.cc/picons/logos/HITS-MOVIES.jpeg" group-title="SINGAPORE",SG| HITS MOVIES HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941606&extension=ts&play_token=QB7TbEFNTZ
+#EXTINF:-1 tvg-id="941605" tvg-name="SG| KARISMA HD" tvg-logo="http://logo.protv.cc/picons/logos/KARISMA-TV.jpeg" group-title="SINGAPORE",SG| KARISMA HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941605&extension=ts&play_token=S5wl7uZ2iP
+#EXTINF:-1 tvg-id="941604" tvg-name="SG| KBS WORLD HD" tvg-logo="http://logo.protv.cc/picons/logos/kbsworldhd.png" group-title="SINGAPORE",SG| KBS WORLD HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941604&extension=ts&play_token=4L9yjelLly
+#EXTINF:-1 tvg-id="941603" tvg-name="SG| OH!K HD" tvg-logo="http://logo.protv.cc/picons/logos/ASTRO-OH!K.jpg" group-title="SINGAPORE",SG| OH!K HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941603&extension=ts&play_token=fXSjcdC3we
+#EXTINF:-1 tvg-id="941602" tvg-name="SG| ONE HD" tvg-logo="http://logo.protv.cc/picons/logos/TV-ONE-HD.png" group-title="SINGAPORE",SG| ONE HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941602&extension=ts&play_token=vCsB2mnW69
+#EXTINF:-1 tvg-id="941601" tvg-name="SG| ONE (MALAY) HD" tvg-logo="http://logo.protv.cc/picons/logos/TV-ONE-HD.png" group-title="SINGAPORE",SG| ONE (MALAY) HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941601&extension=ts&play_token=yQT3OnTxJC
+#EXTINF:-1 tvg-id="941600" tvg-name="#### SG INDIA+ ####" group-title="SINGAPORE",#### SG INDIA+ ####
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941600&extension=ts&play_token=PKAgfX8859
+#EXTINF:-1 tvg-id="941599" tvg-name="SG| ADITHYA TV HD" tvg-logo="http://logo.protv.cc/picons/logos/ADITHYA-TV.jpeg" group-title="SINGAPORE",SG| ADITHYA TV HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941599&extension=ts&play_token=mc9kXu3Kib
+#EXTINF:-1 tvg-id="941598" tvg-name="SG| COLORS TAMIL HD" tvg-logo="http://logo.protv.cc/picons/logos/colorstamil.png" group-title="SINGAPORE",SG| COLORS TAMIL HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941598&extension=ts&play_token=tRYivMLB9Q
+#EXTINF:-1 tvg-id="941597" tvg-name="SG| COLORS  HD" tvg-logo="http://logo.protv.cc/picons/logos/colorstv.png" group-title="SINGAPORE",SG| COLORS  HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941597&extension=ts&play_token=7V4GLBmuNx
+#EXTINF:-1 tvg-id="941596" tvg-name="SG| KALAIGNAR TV HD" tvg-logo="http://logo.protv.cc/picons/logos/KALAINGAR-TV.jpg" group-title="SINGAPORE",SG| KALAIGNAR TV HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941596&extension=ts&play_token=YMCOf2Scch
+#EXTINF:-1 tvg-id="941595" tvg-name="SG| KTV HD" tvg-logo="http://logo.protv.cc/picons/logos/ktv.png" group-title="SINGAPORE",SG| KTV HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941595&extension=ts&play_token=nZmig0OTix
+#EXTINF:-1 tvg-id="941594" tvg-name="SG| NDTV 24X7 HD" tvg-logo="http://logo.protv.cc/picons/logos/ndtv24x7.png" group-title="SINGAPORE",SG| NDTV 24X7 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941594&extension=ts&play_token=uVoSUYA5ly
+#EXTINF:-1 tvg-id="941593" tvg-name="SG| SONY ENTERTAINMENT HD" tvg-logo="http://logo.protv.cc/picons/logos/SONY-ENTERTAINMENT-TV-HD.jpg" group-title="SINGAPORE",SG| SONY ENTERTAINMENT HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941593&extension=ts&play_token=vVsoQlxJ71
+#EXTINF:-1 tvg-id="941592" tvg-name="SG| SONY MAX HD" tvg-logo="http://logo.protv.cc/picons/logos/SONY-MAX-HD.png" group-title="SINGAPORE",SG| SONY MAX HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941592&extension=ts&play_token=g3tPk94rvl
+#EXTINF:-1 tvg-id="941591" tvg-name="SG| SUN TV HD" tvg-logo="http://logo.protv.cc/picons/logos/suntv.jpg" group-title="SINGAPORE",SG| SUN TV HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941591&extension=ts&play_token=7zGPaf9OxU
+#EXTINF:-1 tvg-id="941590" tvg-name="SG| SUN MUSIC HD" tvg-logo="http://logo.protv.cc/picons/logos/sunmusic.png" group-title="SINGAPORE",SG| SUN MUSIC HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941590&extension=ts&play_token=33ll7KDA5k
+#EXTINF:-1 tvg-id="941589" tvg-name="SG| VANNATHIRAI HD" tvg-logo="http://logo.protv.cc/picons/logos/VANNATHIRAI-TV.jpeg" group-title="SINGAPORE",SG| VANNATHIRAI HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941589&extension=ts&play_token=oHXuGOpm82
+#EXTINF:-1 tvg-id="941588" tvg-name="SG| VASANTHAM HD" tvg-logo="http://logo.protv.cc/picons/logos/VASANTHAM-TV.jpeg" group-title="SINGAPORE",SG| VASANTHAM HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941588&extension=ts&play_token=N6NlY0V5DG
+#EXTINF:-1 tvg-id="941587" tvg-name="SG| ZEE THIRAI HD" tvg-logo="http://logo.protv.cc/picons/logos/ZEE-THIRAI.png" group-title="SINGAPORE",SG| ZEE THIRAI HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941587&extension=ts&play_token=oOPicFfGrH
+#EXTINF:-1 tvg-id="941586" tvg-name="SG| ZEE TAMIL HD" tvg-logo="http://logo.protv.cc/picons/logos/zeetamilhd.jpg" group-title="SINGAPORE",SG| ZEE TAMIL HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941586&extension=ts&play_token=VvIA68DWDZ
+#EXTINF:-1 tvg-id="941585" tvg-name="SG| ZEE TV HD" tvg-logo="http://logo.protv.cc/picons/logos/zeetvhd.png" group-title="SINGAPORE",SG| ZEE TV HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941585&extension=ts&play_token=rkVtoQCvUA
+#EXTINF:-1 tvg-id="941584" tvg-name="SG| ZEE CINEMA HD" tvg-logo="http://logo.protv.cc/picons/logos/zeecinemahd.png" group-title="SINGAPORE",SG| ZEE CINEMA HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941584&extension=ts&play_token=XFAQarsFDV
+#EXTINF:-1 tvg-id="941583" tvg-name="#### SG FILIPINO+ ####" group-title="SINGAPORE",#### SG FILIPINO+ ####
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941583&extension=ts&play_token=vfrMmFMrVh
+#EXTINF:-1 tvg-id="941582" tvg-name="SG| ANC HD" tvg-logo="http://logo.protv.cc/picons/logos/ANC.png" group-title="SINGAPORE",SG| ANC HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941582&extension=ts&play_token=oYcrEGbVRI
+#EXTINF:-1 tvg-id="941581" tvg-name="SG| CINEMA ONE GLOBAL HD" tvg-logo="http://logo.protv.cc/picons/logos/CINEMA-ONE-GLOBAL.jpg" group-title="SINGAPORE",SG| CINEMA ONE GLOBAL HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941581&extension=ts&play_token=gKXgAFD1Im
+#EXTINF:-1 tvg-id="941580" tvg-name="SG| GMA PINOY TV HD" tvg-logo="http://logo.protv.cc/picons/logos/gma_pinoytv.png" group-title="SINGAPORE",SG| GMA PINOY TV HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941580&extension=ts&play_token=73MYj6IfcU
+#EXTINF:-1 tvg-id="941579" tvg-name="SG| GMA LIFE TV HD" tvg-logo="http://logo.protv.cc/picons/logos/Gma_life_tv.png" group-title="SINGAPORE",SG| GMA LIFE TV HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941579&extension=ts&play_token=hKPKt78qJq
+#EXTINF:-1 tvg-id="941578" tvg-name="SG| HITS HD" tvg-logo="http://logo.protv.cc/picons/logos/HITS.png" group-title="SINGAPORE",SG| HITS HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941578&extension=ts&play_token=o5FnGLFjil
+#EXTINF:-1 tvg-id="941577" tvg-name="SG| HITS MOVIES HD" tvg-logo="http://logo.protv.cc/picons/logos/HITS-MOVIES.jpeg" group-title="SINGAPORE",SG| HITS MOVIES HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941577&extension=ts&play_token=2qoVHSh3hm
+#EXTINF:-1 tvg-id="941576" tvg-name="SG| THE FILIPINO CHANNEL HD" tvg-logo="http://logo.protv.cc/picons/logos/FILIPINO-TV.png" group-title="SINGAPORE",SG| THE FILIPINO CHANNEL HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941576&extension=ts&play_token=7CqCu9dkfr
+#EXTINF:-1 tvg-id="941575" tvg-name="SG| SURIA HD" tvg-logo="http://logo.protv.cc/picons/logos/SURIA-TV.png" group-title="SINGAPORE",SG| SURIA HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941575&extension=ts&play_token=KtPwxpbmX3
+#EXTINF:-1 tvg-id="941574" tvg-name="#### SG SPORTS+ ####" group-title="SINGAPORE",#### SG SPORTS+ ####
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941574&extension=ts&play_token=MOB93FgCPQ
+#EXTINF:-1 tvg-id="941573" tvg-name="SG| HUB SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-SPORTS-1.png" group-title="SINGAPORE",SG| HUB SPORTS 1 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941573&extension=ts&play_token=aroeQJzHBm
+#EXTINF:-1 tvg-id="941572" tvg-name="SG| HUB SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-SPORTS-2.png" group-title="SINGAPORE",SG| HUB SPORTS 2 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941572&extension=ts&play_token=ZuctwxuJjr
+#EXTINF:-1 tvg-id="941571" tvg-name="SG| HUB SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/HUB-SPORTS-3.png" group-title="SINGAPORE",SG| HUB SPORTS 3 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941571&extension=ts&play_token=YxQXazdc1O
+#EXTINF:-1 tvg-id="941570" tvg-name="SG| PREMIER SPORTS HD" tvg-logo="http://logo.protv.cc/picons/logos/premiersports.png" group-title="SINGAPORE",SG| PREMIER SPORTS HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941570&extension=ts&play_token=RzTy6Q8YOq
+#EXTINF:-1 tvg-id="941569" tvg-name="SG| BEIN SPORTS HD" tvg-logo="http://logo.protv.cc/picons/logos/BEIN--SPORTS-SNGAPOR.png" group-title="SINGAPORE",SG| BEIN SPORTS HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941569&extension=ts&play_token=74XPiDel6T
+#EXTINF:-1 tvg-id="941568" tvg-name="SG| BEIN SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-2-NP.png" group-title="SINGAPORE",SG| BEIN SPORTS 2 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941568&extension=ts&play_token=684Vc40zO2
+#EXTINF:-1 tvg-id="941567" tvg-name="SG| BEIN SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-3-NP.jpg" group-title="SINGAPORE",SG| BEIN SPORTS 3 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941567&extension=ts&play_token=OqCajQgOST
+#EXTINF:-1 tvg-id="941566" tvg-name="SG| BEIN SPORTS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-4-NP.png" group-title="SINGAPORE",SG| BEIN SPORTS 4 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941566&extension=ts&play_token=m5nyE7qHmw
+#EXTINF:-1 tvg-id="941565" tvg-name="SG| BEIN SPORTS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/BEIN-SPORT-5-NP.png" group-title="SINGAPORE",SG| BEIN SPORTS 5 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941565&extension=ts&play_token=tpyxuWkfP3
+#EXTINF:-1 tvg-id="941564" tvg-name="SG| SPOTV HD" tvg-logo="http://logo.protv.cc/picons/logos/SPOTV.png" group-title="SINGAPORE",SG| SPOTV HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941564&extension=ts&play_token=A2BY2KhOYO
+#EXTINF:-1 tvg-id="941563" tvg-name="SG| SPOTV2 HD" tvg-logo="http://logo.protv.cc/picons/logos/SPOTV-2.jpeg" group-title="SINGAPORE",SG| SPOTV2 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941563&extension=ts&play_token=URB0FJvcy5
+#EXTINF:-1 tvg-id="941562" tvg-name="SG| NBA TV HD" tvg-logo="http://logo.protv.cc/picons/logos/NBA_TV.png" group-title="SINGAPORE",SG| NBA TV HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=941562&extension=ts&play_token=Qw5yDYRP7q
+
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://media.info/i/lf/300/1665353056/1043.png" group-title="英国",BBC NEWS
 http://ultratv.one:2095/xMsGHAzQ/kYuckAK/24775
@@ -3055,71 +3375,139 @@ http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/1108.ts
 http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/1109.ts
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA TV
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/237165
-#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="NBA",#EXTINF-1US ABC
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/376410
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US  ESPN
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/376411
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US  TNT
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/376412
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Atlanta H
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433730
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Boston Ce
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433732
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Brooklyn 
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433734
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Charlotte
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433736
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Chicago B
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433738
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Cleveland
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433740
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Dallas Ma
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433742
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Denver Nu
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433744
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Detroit P
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433746
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Golden St
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433748
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Houston R
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433750
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Indiana P
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433752
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Los Angel
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433756
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Memphis G
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433758
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Miami Hea
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433760
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Milwaukee
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433762
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Minnesota
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433764
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA New Orlea
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433766
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA New York 
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433768
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Oklahoma 
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433770
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Orlando M
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433772
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Philadelp
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433774
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Phoenix S
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433776
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Portland 
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433778
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Sacrament
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433780
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA San Anton
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433782
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Toronto R
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433784
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Utah Jazz
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433786
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA Washingto
-http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/433788
-
+#EXTINF:-1 tvg-id="836374" tvg-name="##### NBA LIVE EVENTS #####" tvg-logo="http://logo.protv.cc/picons/logos/NBA-TV.png" group-title="US| NBA PACKAGE",##### NBA LIVE EVENTS #####
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836374&extension=ts&play_token=9u4ZO53mh7
+#EXTINF:-1 tvg-id="749756" tvg-name="US| NBA TV HD" tvg-logo="http://logo.protv.cc/picons/logos/NBA-TV.png" group-title="US| NBA PACKAGE",US| NBA TV HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=749756&extension=ts&play_token=JIWqJQ7OkJ
+#EXTINF:-1 tvg-id="836373" tvg-name="NBA LIVE| 01 - 7:00p Timberwolves – Pistons" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 01 - 7:00p Timberwolves – Pistons
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836373&extension=ts&play_token=ibVvq2wpQw
+#EXTINF:-1 tvg-id="836372" tvg-name="NBA LIVE| 02 - 7:00p Bulls – Wizards" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 02 - 7:00p Bulls – Wizards
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836372&extension=ts&play_token=Uk0DPHMu0G
+#EXTINF:-1 tvg-id="836371" tvg-name="NBA LIVE| 03 - 7:30p Bucks – Hawks" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 03 - 7:30p Bucks – Hawks
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836371&extension=ts&play_token=XgkM3SVxli
+#EXTINF:-1 tvg-id="836370" tvg-name="NBA LIVE| 04 - 7:30p Pelicans – Celtics" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 04 - 7:30p Pelicans – Celtics
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836370&extension=ts&play_token=IVrp3Yo2CW
+#EXTINF:-1 tvg-id="836369" tvg-name="NBA LIVE| 05 - 7:30p Pacers – Knicks" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 05 - 7:30p Pacers – Knicks
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836369&extension=ts&play_token=qagCZv9IPP
+#EXTINF:-1 tvg-id="836368" tvg-name="NBA LIVE| 06 - 8:00p Spurs – Grizzlies" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 06 - 8:00p Spurs – Grizzlies
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836368&extension=ts&play_token=UejvHKLzVT
+#EXTINF:-1 tvg-id="836367" tvg-name="NBA LIVE| 07 - 10:00p Suns – Nuggets" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 07 - 10:00p Suns – Nuggets
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836367&extension=ts&play_token=BjuqzoAjNj
+#EXTINF:-1 tvg-id="836366" tvg-name="NBA LIVE| 08 - 10:00p Rockets – Kings" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 08 - 10:00p Rockets – Kings
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836366&extension=ts&play_token=BP5Vwfs6VE
+#EXTINF:-1 tvg-id="836365" tvg-name="NBA LIVE| 09 -" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 09 -
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836365&extension=ts&play_token=QaRjbjkwcQ
+#EXTINF:-1 tvg-id="836364" tvg-name="NBA LIVE| 10 -" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 10 -
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836364&extension=ts&play_token=KBWeMk9mTS
+#EXTINF:-1 tvg-id="836363" tvg-name="NBA LIVE| 11 -" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 11 -
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836363&extension=ts&play_token=TCnJYLjsr3
+#EXTINF:-1 tvg-id="836362" tvg-name="NBA LIVE| 12 -" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 12 -
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836362&extension=ts&play_token=qdHrWpRX9P
+#EXTINF:-1 tvg-id="836360" tvg-name="NBA LIVE| 14 -" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 14 -
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836360&extension=ts&play_token=ExjlpUj7rp
+#EXTINF:-1 tvg-id="836361" tvg-name="NBA LIVE| 13 -" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE| 13 -
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836361&extension=ts&play_token=bEjeyRNdhj
+#EXTINF:-1 tvg-id="836359" tvg-name="NBA LIVE|15 -" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PASS.png" group-title="US| NBA PACKAGE",NBA LIVE|15 -
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836359&extension=ts&play_token=KrjJXy9S6g
+#EXTINF:-1 tvg-id="1040607" tvg-name="###  NBA LEAGUE REPLAY  ###" group-title="US| NBA PACKAGE",###  NBA LEAGUE REPLAY  ###
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040607&extension=ts&play_token=mjHIQRZDjZ
+#EXTINF:-1 tvg-id="1040606" tvg-name="NBA REPLAY INFO HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY INFO HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040606&extension=ts&play_token=fbrzKZd9vB
+#EXTINF:-1 tvg-id="1040605" tvg-name="NBA REPLAY HIGHLIGHTS HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY HIGHLIGHTS HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040605&extension=ts&play_token=XxYEJKDD2S
+#EXTINF:-1 tvg-id="1040604" tvg-name="NBA REPLAY 1 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 1 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040604&extension=ts&play_token=dxnXKDsfWp
+#EXTINF:-1 tvg-id="1040603" tvg-name="NBA REPLAY 2 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 2 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040603&extension=ts&play_token=CRlgVFHgjP
+#EXTINF:-1 tvg-id="1040602" tvg-name="NBA REPLAY 3 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 3 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040602&extension=ts&play_token=ZYQRTQiv4I
+#EXTINF:-1 tvg-id="1040601" tvg-name="NBA REPLAY 4 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 4 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040601&extension=ts&play_token=jKqfdisMWe
+#EXTINF:-1 tvg-id="1040600" tvg-name="NBA REPLAY 5 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 5 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040600&extension=ts&play_token=tZArEPnA1Q
+#EXTINF:-1 tvg-id="1040599" tvg-name="NBA REPLAY 6 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 6 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040599&extension=ts&play_token=ZwArQJFDsB
+#EXTINF:-1 tvg-id="1040598" tvg-name="NBA REPLAY 7 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 7 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040598&extension=ts&play_token=9zMKggDWPE
+#EXTINF:-1 tvg-id="1040597" tvg-name="NBA REPLAY 8 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 8 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040597&extension=ts&play_token=6p23MthQ85
+#EXTINF:-1 tvg-id="1040596" tvg-name="NBA REPLAY 9 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 9 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040596&extension=ts&play_token=DM8nwKDSeE
+#EXTINF:-1 tvg-id="1040595" tvg-name="NBA REPLAY 10 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 10 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040595&extension=ts&play_token=PnX07q1qh5
+#EXTINF:-1 tvg-id="1040594" tvg-name="NBA REPLAY 11 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 11 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040594&extension=ts&play_token=BiDB0xskCW
+#EXTINF:-1 tvg-id="1040593" tvg-name="NBA REPLAY 12 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 12 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040593&extension=ts&play_token=tVpBwyCMHx
+#EXTINF:-1 tvg-id="1040592" tvg-name="NBA REPLAY 13 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 13 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040592&extension=ts&play_token=Bc3S2c7XUg
+#EXTINF:-1 tvg-id="1040591" tvg-name="NBA REPLAY 14 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 14 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040591&extension=ts&play_token=rEb2Edyx68
+#EXTINF:-1 tvg-id="1040590" tvg-name="NBA REPLAY 15 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 15 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040590&extension=ts&play_token=Eeuidf35ow
+#EXTINF:-1 tvg-id="1040589" tvg-name="NBA REPLAY 16 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 16 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040589&extension=ts&play_token=2V9Ob6KTp9
+#EXTINF:-1 tvg-id="1040588" tvg-name="NBA REPLAY 17 HD" tvg-logo="https://iili.io/t1Z1Lv.md.png" group-title="US| NBA PACKAGE",NBA REPLAY 17 HD
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=1040588&extension=ts&play_token=TYHEKiVIDj
+#EXTINF:-1 tvg-id="836358" tvg-name="##### NBA TEAMS #####" tvg-logo="https://cdn.freebiesupply.com/images/large/2x/nba-logo-transparent.png" group-title="US| NBA PACKAGE",##### NBA TEAMS #####
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836358&extension=ts&play_token=YKhYr9iP9F
+#EXTINF:-1 tvg-id="836357" tvg-name="NBA TEAM| ATLANTA HAWKS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-ATLANTA-HAWKS.png" group-title="US| NBA PACKAGE",NBA TEAM| ATLANTA HAWKS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836357&extension=ts&play_token=YXVeWmLIuD
+#EXTINF:-1 tvg-id="836356" tvg-name="NBA TEAM| BOSTON CELTICS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-BOSTON-CELTICS.png" group-title="US| NBA PACKAGE",NBA TEAM| BOSTON CELTICS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836356&extension=ts&play_token=5wPhRODgt4
+#EXTINF:-1 tvg-id="836355" tvg-name="NBA TEAM| BROOKLYN NETS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-BROOKLYN-NETS.jpeg" group-title="US| NBA PACKAGE",NBA TEAM| BROOKLYN NETS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836355&extension=ts&play_token=ARo5YXykqI
+#EXTINF:-1 tvg-id="836354" tvg-name="NBA TEAM| CHARLOTTE HORNETS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-CHARLOTTE-HORNETS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| CHARLOTTE HORNETS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836354&extension=ts&play_token=shvT8zw0m8
+#EXTINF:-1 tvg-id="836353" tvg-name="NBA TEAM| CHICAGO BULLS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-CHICAGO-BULLS.jpeg" group-title="US| NBA PACKAGE",NBA TEAM| CHICAGO BULLS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836353&extension=ts&play_token=5yiNNwhBn2
+#EXTINF:-1 tvg-id="836352" tvg-name="NBA TEAM| CLEVELAND CAVALIERS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-CLEVELAND-CAVALIERS.png" group-title="US| NBA PACKAGE",NBA TEAM| CLEVELAND CAVALIERS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836352&extension=ts&play_token=JSZU9bf3el
+#EXTINF:-1 tvg-id="836351" tvg-name="NBA TEAM| DALLAS MAVERICKS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-DALLAS-MAVERICKS.png" group-title="US| NBA PACKAGE",NBA TEAM| DALLAS MAVERICKS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836351&extension=ts&play_token=CTKAanw9B2
+#EXTINF:-1 tvg-id="836350" tvg-name="NBA TEAM| DENVER NUGGETS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-DENVER-NUGGETS.jpeg" group-title="US| NBA PACKAGE",NBA TEAM| DENVER NUGGETS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836350&extension=ts&play_token=EjwVUNtCzc
+#EXTINF:-1 tvg-id="836349" tvg-name="NBA TEAM| DETROIT PISTONS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-DETROIT-PISTONS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| DETROIT PISTONS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836349&extension=ts&play_token=a5uRjQeyMA
+#EXTINF:-1 tvg-id="836348" tvg-name="NBA TEAM| GOLDEN STATE WARRIORS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-GOLDEN-STATE-WARRIORS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| GOLDEN STATE WARRIORS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836348&extension=ts&play_token=BVYL2Wvnar
+#EXTINF:-1 tvg-id="836347" tvg-name="NBA TEAM| HOUSTON ROCKETS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-HOUSTON-ROCKETS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| HOUSTON ROCKETS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836347&extension=ts&play_token=OiMUlgB5hn
+#EXTINF:-1 tvg-id="836346" tvg-name="NBA TEAM| INDIANA PACERS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-INDIANA-PACERS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| INDIANA PACERS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836346&extension=ts&play_token=0FV86kE8IE
+#EXTINF:-1 tvg-id="836345" tvg-name="NBA TEAM| LOS ANGELES CLIPPERS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-LOS-ANGELES-CLIPPERS.jpeg" group-title="US| NBA PACKAGE",NBA TEAM| LOS ANGELES CLIPPERS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836345&extension=ts&play_token=8tSDR3yH3f
+#EXTINF:-1 tvg-id="836344" tvg-name="NBA TEAM| LOS ANGELES LAKERS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-LOS-ANGELES-LAKERS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| LOS ANGELES LAKERS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836344&extension=ts&play_token=4ukqJpNDUu
+#EXTINF:-1 tvg-id="836343" tvg-name="NBA TEAM| MEMPHIS GRIZZLIES" tvg-logo="http://logo.protv.cc/picons/logos/NBA-MEMPHIS-GRIZZLIES.png" group-title="US| NBA PACKAGE",NBA TEAM| MEMPHIS GRIZZLIES
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836343&extension=ts&play_token=0jWyvxrcLp
+#EXTINF:-1 tvg-id="836342" tvg-name="NBA TEAM| MIAMI HEAT" tvg-logo="http://logo.protv.cc/picons/logos/NBA-MIAMI-HEAT.jpg" group-title="US| NBA PACKAGE",NBA TEAM| MIAMI HEAT
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836342&extension=ts&play_token=tJIXFkWexY
+#EXTINF:-1 tvg-id="836341" tvg-name="NBA TEAM| MILWAUKEE BUCKS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-MILWAUKEE-BUCKS.jpeg" group-title="US| NBA PACKAGE",NBA TEAM| MILWAUKEE BUCKS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836341&extension=ts&play_token=e2dB7hO81Z
+#EXTINF:-1 tvg-id="836340" tvg-name="NBA TEAM| MINNESOTA TIMBERWOLVES" tvg-logo="http://logo.protv.cc/picons/logos/NBA-MINNESOTA-TIMBERWOLVES.png" group-title="US| NBA PACKAGE",NBA TEAM| MINNESOTA TIMBERWOLVES
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836340&extension=ts&play_token=APhb4XPFBd
+#EXTINF:-1 tvg-id="836339" tvg-name="NBA TEAM| NEW ORLEANS PELICANS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-NEW-ORLEANS-PELICAN.png" group-title="US| NBA PACKAGE",NBA TEAM| NEW ORLEANS PELICANS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836339&extension=ts&play_token=SLri0ebxrT
+#EXTINF:-1 tvg-id="836338" tvg-name="NBA TEAM| NEW YORK KNICKS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-NEW-YORK-KNICKS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| NEW YORK KNICKS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836338&extension=ts&play_token=Hk4psVJRgg
+#EXTINF:-1 tvg-id="836337" tvg-name="NBA TEAM| OKLAHOMA CITY THUNDER" tvg-logo="http://logo.protv.cc/picons/logos/NBA-OKLAHOMA-CITY-THUNDER.png" group-title="US| NBA PACKAGE",NBA TEAM| OKLAHOMA CITY THUNDER
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836337&extension=ts&play_token=tXSY87XS1W
+#EXTINF:-1 tvg-id="836336" tvg-name="NBA TEAM| ORLANDO MAGIC" tvg-logo="http://logo.protv.cc/picons/logos/NBA-ORLANDO-MAGIC.png" group-title="US| NBA PACKAGE",NBA TEAM| ORLANDO MAGIC
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836336&extension=ts&play_token=003LWfkt4A
+#EXTINF:-1 tvg-id="836335" tvg-name="NBA TEAM| PHILADELPHIA 76ERS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PHILADELPHIA-76ERS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| PHILADELPHIA 76ERS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836335&extension=ts&play_token=XJoP0OgTR1
+#EXTINF:-1 tvg-id="836334" tvg-name="NBA TEAM| PHOENIX SUNS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PHOENIX-SUNS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| PHOENIX SUNS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836334&extension=ts&play_token=LcVAOHbMiC
+#EXTINF:-1 tvg-id="836333" tvg-name="NBA TEAM| PORTLAND TRAIL BLAZERS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-PORTLAND-TRAIL-BLAZERS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| PORTLAND TRAIL BLAZERS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836333&extension=ts&play_token=5jXuEkk9ER
+#EXTINF:-1 tvg-id="836332" tvg-name="NBA TEAM| SACRAMENTO KINGS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-SACRAMENTO-KINGS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| SACRAMENTO KINGS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836332&extension=ts&play_token=4pOKybRD0z
+#EXTINF:-1 tvg-id="836331" tvg-name="NBA TEAM| SAN ANTONIO SPURS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-SAN-ANTONIO-SPURS.jpg" group-title="US| NBA PACKAGE",NBA TEAM| SAN ANTONIO SPURS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836331&extension=ts&play_token=rkzrhIhtGj
+#EXTINF:-1 tvg-id="836330" tvg-name="NBA TEAM| TORONTO RAPTORS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-TORONTO-RAPTORS.jpeg" group-title="US| NBA PACKAGE",NBA TEAM| TORONTO RAPTORS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836330&extension=ts&play_token=Y9EsslQEOc
+#EXTINF:-1 tvg-id="836329" tvg-name="NBA TEAM| UTAH JAZZ" tvg-logo="http://logo.protv.cc/picons/logos/NBA-UTAH-JAZZ.png" group-title="US| NBA PACKAGE",NBA TEAM| UTAH JAZZ
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836329&extension=ts&play_token=n4ag8Omtth
+#EXTINF:-1 tvg-id="836328" tvg-name="NBA TEAM| WASHINGTON WIZARDS" tvg-logo="http://logo.protv.cc/picons/logos/NBA-WASHINGTON-WIZARDS.jpeg" group-title="US| NBA PACKAGE",NBA TEAM| WASHINGTON WIZARDS
+http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=836328&extension=ts&play_token=JZbjvlYoJV
