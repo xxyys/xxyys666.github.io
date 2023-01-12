@@ -3092,14 +3092,7 @@ http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/1108.ts
 #EXTINF:-1 tvg-id="" tvg-name="Tring Sport 2 - " tvg-logo="" group-title="️⚽️ SPORTI SHQIP",Tring Sport 2 - 
 http://cmsott.com:8080/live/Zenel43/2KVcRvQtLs/1109.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA AMAZON1
-https://epafeeddeobreach0.s3.us-east-2.amazonaws.com/spurs.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA AMAZON2
-https://epafeeddeobreach0.s3.us-east-2.amazonaws.com/raptors.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA AMAZON3
-https://epafeeddeobreach0.s3.us-east-2.amazonaws.com/thunder.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA AMAZON4
-https://epafeeddeobreach0.s3.us-east-2.amazonaws.com/pacers.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NBA",#EXTINF-1US NBA TV
 http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/237165
