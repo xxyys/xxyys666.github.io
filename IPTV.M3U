@@ -232,7 +232,7 @@ http://159.75.85.63:5680/d/ad/h264/playad.m3u8
 #EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
 http://159.75.85.63:5680/d/ad/playad.m3u8
 
-#EXTINF:-1 group-title="未分类",CCTV4K-HLG-50P满血CCTV4K豆豆
+#EXTINF:-1 group-title="4K",CCTV4K-HLG-50P满血CCTV4K豆豆
 http://159.75.85.63:8654/telegram@feiyangdigital-gudou-cctv4k.m3u8
 #EXTINF:-1 group-title="4K",CCTV4K-HLG-25P帧率阉割版CCTV4K-YSP投屏版源
 http://159.75.85.63:8654/telegram@feiyangdigital-ysp-cctv4k.m3u8
