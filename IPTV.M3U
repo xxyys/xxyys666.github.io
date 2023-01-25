@@ -502,57 +502,6 @@ http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
 #EXTGRP:港台卫视"
 http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="90350" tvg-name="HK| FAIRCHILD EAST" tvg-logo="http://logo.protv.cc/picons/logos/FAIRCHILD-WEST.png" group-title="CHINA / HONGKONG",HK| FAIRCHILD EAST
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=90350&extension=ts&play_token=w4panUqY4F
-#EXTINF:-1 tvg-id="90351" tvg-name="HK| FAIRCHILD WEST" tvg-logo="http://logo.protv.cc/picons/logos/FAIRCHILD-WEST.png" group-title="CHINA / HONGKONG",HK| FAIRCHILD WEST
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=90351&extension=ts&play_token=PgSS8rcLNN
-#EXTINF:-1 tvg-id="90352" tvg-name="HK| FAIRCHILD 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/FAIRCHILD-2-HD.png" group-title="CHINA / HONGKONG",HK| FAIRCHILD 2 HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=90352&extension=ts&play_token=7QUQvrpycU
-#EXTINF:-1 tvg-id="153395" tvg-name="HK| TVB HD" tvg-logo="http://logo.protv.cc/picons/logos/TVB-.png" group-title="CHINA / HONGKONG",HK| TVB HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153395&extension=ts&play_token=tdSmXOsMqf
-#EXTINF:-1 tvg-id="153396" tvg-name="HK| TVB1" tvg-logo="http://logo.protv.cc/picons/logos/TVB-1.png" group-title="CHINA / HONGKONG",HK| TVB1
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153396&extension=ts&play_token=qd42npLkoB
-#EXTINF:-1 tvg-id="153397" tvg-name="HK| TVB2" tvg-logo="http://logo.protv.cc/picons/logos/TVB-2.png" group-title="CHINA / HONGKONG",HK| TVB2
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153397&extension=ts&play_token=mpwdCCQONG
-#EXTINF:-1 tvg-id="153400" tvg-name="HK| TVB DRAMA" tvg-logo="http://logo.protv.cc/picons/logos/TVB-DRAMA.jpeg" group-title="CHINA / HONGKONG",HK| TVB DRAMA
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153400&extension=ts&play_token=l1PpLPHRTQ
-#EXTINF:-1 tvg-id="153399" tvg-name="HK| TVB PEARL" tvg-logo="http://logo.protv.cc/picons/logos/TVB-PEARL.png" group-title="CHINA / HONGKONG",HK| TVB PEARL
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153399&extension=ts&play_token=mad8wXPonE
-#EXTINF:-1 tvg-id="153398" tvg-name="HK| TVBE" tvg-logo="http://logo.protv.cc/picons/logos/TVBE.png" group-title="CHINA / HONGKONG",HK| TVBE
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153398&extension=ts&play_token=0ib2fAt9jW
-#EXTINF:-1 tvg-id="153401" tvg-name="HK| TVB CHINESE" tvg-logo="http://logo.protv.cc/picons/logos/TVB-CHINESE.jpeg" group-title="CHINA / HONGKONG",HK| TVB CHINESE
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153401&extension=ts&play_token=wxx9BccHxp
-#EXTINF:-1 tvg-id="153503" tvg-name="HK| TVB CLASSIC" tvg-logo="http://logo.protv.cc/picons/logos/TVB-CLASSIC.jpeg" group-title="CHINA / HONGKONG",HK| TVB CLASSIC
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153503&extension=ts&play_token=XgkUlCEKCM
-#EXTINF:-1 tvg-id="153504" tvg-name="HK| TVB E NEWS" tvg-logo="http://logo.protv.cc/picons/logos/TVB-E-NEWS.jpeg" group-title="CHINA / HONGKONG",HK| TVB E NEWS
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153504&extension=ts&play_token=9urlq5p625
-#EXTINF:-1 tvg-id="153505" tvg-name="HK| TVB JADE" tvg-logo="http://logo.protv.cc/picons/logos/TVB-JADE.jpeg" group-title="CHINA / HONGKONG",HK| TVB JADE
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153505&extension=ts&play_token=u4yRheiuaw
-#EXTINF:-1 tvg-id="153507" tvg-name="HK| TVBS ASIA" tvg-logo="http://logo.protv.cc/picons/logos/TVBS-ASIA .png" group-title="CHINA / HONGKONG",HK| TVBS ASIA
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153507&extension=ts&play_token=Pun5nieBxs
-#EXTINF:-1 tvg-id="153506" tvg-name="HK| TVB XING HE" tvg-logo="http://logo.protv.cc/picons/logos/TVB-XING-HE.png" group-title="CHINA / HONGKONG",HK| TVB XING HE
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153506&extension=ts&play_token=oBUI7V2RM0
-#EXTINF:-1 tvg-id="153402" tvg-name="HK| PHOENIX HK CHANNEL" tvg-logo="http://logo.protv.cc/picons/logos/PHOENIX-HK-CHANNEL.png" group-title="CHINA / HONGKONG",HK| PHOENIX HK CHANNEL
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=153402&extension=ts&play_token=IAGXESvLLM
-#EXTINF:-1 tvg-id="114695" tvg-name="HK| PHOENIX CHINESE" tvg-logo="http://logo.protv.cc/picons/logos/PHOENIX-TV.jpeg" group-title="CHINA / HONGKONG",HK| PHOENIX CHINESE
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=114695&extension=ts&play_token=p2cS9YxmDH
-#EXTINF:-1 tvg-id="554949" tvg-name="HK| NOW SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="CHINA / HONGKONG",HK| NOW SPORTS 1 HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554949&extension=ts&play_token=XWRY8eYrZY
-#EXTINF:-1 tvg-id="554948" tvg-name="HK| NOW SPORTS 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="CHINA / HONGKONG",HK| NOW SPORTS 2 HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554948&extension=ts&play_token=rL3rerdHEH
-#EXTINF:-1 tvg-id="554947" tvg-name="HK| NOW SPORTS 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="CHINA / HONGKONG",HK| NOW SPORTS 3 HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554947&extension=ts&play_token=iE1GPQatpB
-#EXTINF:-1 tvg-id="554946" tvg-name="HK| NOW SPORTS 4 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="CHINA / HONGKONG",HK| NOW SPORTS 4 HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554946&extension=ts&play_token=YM7THcUXoh
-#EXTINF:-1 tvg-id="554945" tvg-name="HK| NOW SPORTS 5 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="CHINA / HONGKONG",HK| NOW SPORTS 5 HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554945&extension=ts&play_token=XjyQS2Hx7M
-#EXTINF:-1 tvg-id="554944" tvg-name="HK| NOW SPORTS 6 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="CHINA / HONGKONG",HK| NOW SPORTS 6 HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554944&extension=ts&play_token=nDSbaJ2YUs
-#EXTINF:-1 tvg-id="554943" tvg-name="HK| NOW SPORTS 7 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="CHINA / HONGKONG",HK| NOW SPORTS 7 HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554943&extension=ts&play_token=JyOiBTPc33
-#EXTINF:-1 tvg-id="554953" tvg-name="HK| NOW PREMIER SPORTS 1 HD" tvg-logo="http://logo.protv.cc/picons/logos/nowsports.png" group-title="CHINA / HONGKONG",HK| NOW PREMIER SPORTS 1 HD
-http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:39:D9:86&stream=554953&extension=ts&play_token=GOrtHpTYly
-
 
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="亚洲",新时代电视1台
