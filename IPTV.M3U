@@ -1044,6 +1044,26 @@ http://sharkiptv.vip:80/9948734764/3962106086/28108
 #EXTGRP:欧美4K"
 http://iptvmedia.live:8080/1eae94e3/e22181ebb2/279908
 
+#自整理
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event UHD" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_UHD.png" group-title="UHD | Sports",Sky Sports Main Event UHD
+http://lexitech.fun:80/PatrickF/1jvJAEOIjF/1042160
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports UHD 4K" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_UHD.png" group-title="UHD | Sports",Sky Sports UHD 4K
+http://lexitech.fun:80/PatrickF/1jvJAEOIjF/1042159
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports UHD 4K 2" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Sky_Sport_UHD.png" group-title="UHD | Sports",Sky Sports UHD 4K 2
+http://lexitech.fun:80/PatrickF/1jvJAEOIjF/1042158
+#EXTINF:-1 tvg-id="btsportultimate.uk" tvg-name="BT Sport Ultimate 4K" tvg-logo="https://cdn.mos.cms.futurecdn.net/BYJU4Pz5VAzECxQdekTQMQ.jpg" group-title="UHD | Sports",BT Sport Ultimate 4K
+http://lexitech.fun:80/PatrickF/1jvJAEOIjF/1042157
+#EXTINF:-1 tvg-id="Hub Premier 2/4K" tvg-name="Hub Premier 2 UHD" tvg-logo="" group-title="UHD | Sports",Hub Premier 2 UHD
+http://lexitech.fun:80/PatrickF/1jvJAEOIjF/1068092
+#EXTINF:-1 tvg-id="" tvg-name="NOW SPORTS 4K" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-now-sports-4k-1978.png" group-title="UHD | Sports",NOW SPORTS 4K
+http://lexitech.fun:80/PatrickF/1jvJAEOIjF/1042156
+#EXTINF:-1 tvg-id="" tvg-name="BBC SPORT 4K UHD (Events Only)" tvg-logo="" group-title="UHD | Sports",BBC SPORT 4K UHD (Events Only)
+http://lexitech.fun:80/PatrickF/1jvJAEOIjF/3157685
+
+
+
+
+
 #EXTINF:-1 group-title="日本"tvg-id="CNNj.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cnn-j-us-jp.png" ,CNN J
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS354&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
