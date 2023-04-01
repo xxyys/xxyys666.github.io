@@ -2775,3 +2775,11 @@ http://183.89.246.119:8881/play/a07t/index.m3u8
 http://183.89.246.119:8881/play/a082/index.m3u8
 #EXTINF:-1tvg-logo="https://w7.pngwing.com/pngs/855/470/png-transparent-m-net-movies-film-television-channel-others-miscellaneous-television-text.png"group-title="Myanmar Tv",MM Movie
 https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8
+
+
+#EXTINF:-1 group-title="临时体育",爱奇艺体育
+http://hlslive.video.iqiyi.com/tslive/c64_ssports_20230401_fkcdzkdq_1080p_chst1_t4/c64_ssports_20230401_fkcdzkdq_1080p_chst1_t4.m3u8?pv=0.2&qd_tvid=3800360974555223&qd_vipres=0&qd_scc=c507cc76cabde79b77be2ca3852052f2&qd_sc=ccc4c061b723f3f891f6ce30a9555dc6&qd_did=&qd_ip=da13dd80&qd_vip=0&qd_uid=&qd_p=da13dd80&qd_src=02027251010000000000&qd_tm=1680347990472&qd_k=1460e665e030851466fa9885eca055f9
+#EXTINF:-1 group-title="临时体育",爱尔达体育
+https://qbpull.81xu05.com/live/ballbar_10640.m3u8?txSecret=091953f5d0032a4197e9ed5de2e26d0d&txTime=642823EB
+#EXTINF:-1 group-title="临时体育",咪咕体育
+https://pulldg.hongdel.top/live/hd-zh-1-3747133.m3u8?auth_key=1680361749-0-0-d243f7c31fd819d3263cea85f18a81de
