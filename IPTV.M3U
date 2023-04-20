@@ -176,53 +176,7 @@ http://117.169.120.243:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226251
 
 
 
-#EXTINF:-1,Asia N，
-#EXTGRP:港台卫视"
-http://pull-l3-cny.douyincdn.com/live/2ce10c5078ec753f8f50f4c3897e8f76.m3u8
-#EXTINF:-1,THE MOVIE，
-#EXTGRP:港台卫视"
-http://pull-l3-cny.douyincdn.com/live/adb7cf254b46d42d58828f590a6137bf.m3u8
-#EXTINF:-1,Channel China，
-#EXTGRP:港台卫视"
-http://pull-l3-cny.douyincdn.com/live/05fadffbceabeb97bbf09061a165791b.m3u8
-#EXTINF:-1,Channel Seezn，
-#EXTGRP:港台卫视"
-http://pull-l3-cny.douyincdn.com/live/9dbd2556b180db11b62283739297981b.m3u8
 
-
-#EXTINF:-1,民视台湾台
-#EXTGRP:港台卫视"
-http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
-#EXTINF:-1,民视
-#EXTGRP:港台卫视"
-http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
-#EXTINF:-1,民视第一台
-#EXTGRP:港台卫视"
-http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
-#EXTINF:-1,民视综艺台
-#EXTGRP:港台卫视"
-http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
-#EXTINF:-1,智林体育台
-#EXTGRP:港台卫视"
-http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
-#EXTINF:-1,TVBS
-#EXTGRP:港台卫视"
-http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
-#EXTINF:-1,中视新闻
-#EXTGRP:港台卫视"
-http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
-#EXTINF:-1,CHY电影台
-#EXTGRP:港台卫视"
-http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
-#EXTINF:-1,HITS
-#EXTGRP:港台卫视"
-http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
-#EXTINF:-1,GinX
-#EXTGRP:港台卫视"
-http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
-#EXTINF:-1,华视新闻资讯
-#EXTGRP:港台卫视"
-http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港澳台",寰宇新闻
 http://137.175.36.206/bc.php?playurl=http://137.175.36.206:8188/huanyuxinwen_twn/playlist.m3u8
