@@ -1,213 +1,257 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml,http://epg.51zmt.top:8000/e.xml,https://live.fanmingming.com/e.xml,http://epg.hklive.tv"
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1 综合
-http://159.75.85.63:5681/sxg.php?id=CCTV-1H265_4000
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2 财经
-http://159.75.85.63:5681/sxg.php?id=CCTV-2H265_4000
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3 综艺
-http://159.75.85.63:5681/sxg.php?id=CCTV-3H265_4000
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4 中文国际
-http://159.75.85.63:5681/sxg.php?id=CCTV-4H265_4000
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5 体育
-http://159.75.85.63:5681/sxg.php?id=CCTV-5H265_4000
-#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
-http://159.75.85.63:5681/sxg.php?id=CCTV-5plusH265_4000
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6 电影
-http://159.75.85.63:5681/sxg.php?id=CCTV-6H265_4000
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7 国防军事
-http://159.75.85.63:5681/sxg.php?id=CCTV-7H265_4000
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV-8 电视剧
-http://159.75.85.63:5681/sxg.php?id=CCTV-8H265_4000
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV-9 纪录
-http://159.75.85.63:5681/sxg.php?id=CCTV-9H265_4000
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV-10 科教
-http://159.75.85.63:5681/sxg.php?id=CCTV-10H265_4000
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV-11 戏曲
-http://159.75.85.63:5681/sxg.php?id=CCTV-11-H265_4000
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV-12 社会与法
-http://159.75.85.63:5681/sxg.php?id=CCTV-12H265_4000
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13 新闻
-http://159.75.85.63:5681/sxg.php?id=CCTV-xw_4000
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV-14 少儿
-http://159.75.85.63:5681/sxg.php?id=CCTV-14H265_4000
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15 音乐
-http://159.75.85.63:5681/sxg.php?id=CCTV-15-yyH265_4000
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
-http://159.75.85.63:5681/sxg.php?id=CCTV-16_4000
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
-http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17 农业农村
-http://159.75.85.63:5681/sxg.php?id=CCTV-17_4000
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K 超高清
-http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
-#EXTINF:-1,tvg-id="" tvg-name="4K超高清电影" tvg-logo="https://epg.112114.xyz/logo/4K电影4K.png" group-title="其他",4K超高清电影 4K
-http://159.75.85.63:5681/sxg.php?id=emdy4k_8000
-#EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场4K
-http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
-http://159.75.85.63:5681/sxg.php?id=test1_4000
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
-http://159.75.85.63:5681/sxg.php?id=test2_4000
-#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视
-http://159.75.85.63:5681/sxg.php?id=ahwsH265_4000
-#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
-http://159.75.85.63:5681/sxg.php?id=bjwsH265_4000
-#EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
-http://159.75.85.63:5681/sxg.php?id=btws_4000
-#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视
-http://159.75.85.63:5681/sxg.php?id=cqwsH265_4000
-#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
-http://159.75.85.63:5681/sxg.php?id=dfwsH265_4000
-#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视
-http://159.75.85.63:5681/sxg.php?id=dnwsfjwsH265_4000
-#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
-http://159.75.85.63:5681/sxg.php?id=gsws_4000
-#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视
-http://159.75.85.63:5681/sxg.php?id=gdwsH265_4000
-#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视
-http://159.75.85.63:5681/sxg.php?id=gxws_4000
-#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视
-http://159.75.85.63:5681/sxg.php?id=gzwsH265_4000
-#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视
-http://159.75.85.63:5681/sxg.php?id=hnws_4000
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视
-http://159.75.85.63:5681/sxg.php?id=hnws35_4000
-#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-http://159.75.85.63:5681/sxg.php?id=hljwsH265_4000
-#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视
-http://159.75.85.63:5681/sxg.php?id=hbwsH265_4000
-#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://159.75.85.63:5681/sxg.php?id=hnwsH265_4000
-#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视
-http://159.75.85.63:5681/sxg.php?id=jlwsH265_4000
-#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视
-http://159.75.85.63:5681/sxg.php?id=jswsH265_4000
-#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视
-http://159.75.85.63:5681/sxg.php?id=jxwsH265_4000
-#EXTINF:-1,tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://epg.112114.xyz/logo/康巴卫视.png" group-title="卫视",康巴卫视
-http://159.75.85.63:5681/sxg.php?id=kbwsH264_2000
-#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://159.75.85.63:5681/sxg.php?id=lnwsHDH264_4000
-#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-http://159.75.85.63:5681/sxg.php?id=nmgws_4000
-#EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" group-title="卫视",山东教育卫视
-http://159.75.85.63:5681/sxg.php?id=sdjy_4000
-#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视
-http://159.75.85.63:5681/sxg.php?id=sdwsH265_4000
-#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视
-http://159.75.85.63:5681/sxg.php?id=sxws42_4000
-#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
-http://159.75.85.63:5681/sxg.php?id=sxws_4000
-#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视
-http://159.75.85.63:5681/sxg.php?id=szwsH265_4000
-#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视
-http://159.75.85.63:5681/sxg.php?id=scwsH265_4000
-#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视
-http://159.75.85.63:5681/sxg.php?id=tjwsH265_4000
-#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
-http://159.75.85.63:5681/sxg.php?id=xzwsH264_2000
-#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视
-http://159.75.85.63:5681/sxg.php?id=ynws_4000
-#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视
-http://159.75.85.63:5681/sxg.php?id=zjwsH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="CETV-1" tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="其他",CETV-1
-http://159.75.85.63:5681/sxg.php?id=CETV-1H264_4000
-#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他",CHC动作电影
-http://159.75.85.63:5681/sxg.php?id=wqCHCdzdyH265_4000
-#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC高清电影
-http://159.75.85.63:5681/sxg.php?id=lnwsCHC-HDH265_4000
-#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院
-http://159.75.85.63:5681/sxg.php?id=jbtygqCHCjtyyH265_4000
-#EXTINF:-1,tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="其他",动漫秀场
-http://159.75.85.63:5681/sxg.php?id=yybb-dmxc-H265_4000
-#EXTINF:-1,tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://epg.112114.xyz/logo/SITV都市剧场.png" group-title="其他",都市剧场
-http://159.75.85.63:5681/sxg.php?id=yxfydsjcHDH265_4000
-#EXTINF:-1,tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="https://epg.112114.xyz/logo/SITV法治天地.png" group-title="其他",法治天地
-http://159.75.85.63:5681/sxg.php?id=fztx_4000
-#EXTINF:-1,tvg-id="MAX极速汽车" tvg-name="MAX极速汽车" tvg-logo="https://epg.112114.xyz/logo/MAX极速汽车.png" group-title="其他",极速汽车
-http://159.75.85.63:5681/sxg.php?id=jsqcH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="纪实科教" tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="其他",纪实科教
-http://159.75.85.63:5681/sxg.php?id=bjjs_2000
-#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="其他",嘉佳卡通
-http://159.75.85.63:5681/sxg.php?id=jjkt_2000
-#EXTINF:-1,tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://epg.112114.xyz/logo/家庭理财.png" group-title="其他",家庭理财
-http://159.75.85.63:5681/sxg.php?id=jtlc_4000
-#EXTINF:-1,tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://epg.112114.xyz/logo/财富天下.png" group-title="江苏",江苏财富天下
-http://159.75.85.63:5681/sxg.php?id=cftx_4000
-#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",金鹰纪实
-http://159.75.85.63:5681/sxg.php?id=jyjsHDH265_4000
-#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="其他",金鹰卡通
-http://159.75.85.63:5681/sxg.php?id=jykt_2000
-#EXTINF:-1,tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="其他",劲爆体育
-http://159.75.85.63:5681/sxg.php?id=lqhxjcHDH265_4000
-#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="其他",卡酷少儿
-http://159.75.85.63:5681/sxg.php?id=kkkt_4000
-#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="其他",快乐垂钓
-http://159.75.85.63:5681/sxg.php?id=fyzqklcdHDH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="乐游" tvg-logo="https://epg.112114.xyz/logo/乐游.png" group-title="其他",乐游
-http://159.75.85.63:5681/sxg.php?id=qjs-HDH265_4000
-#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.112114.xyz/logo/梨园.png" group-title="其他",梨园频道
-http://159.75.85.63:5681/sxg.php?id=ly_4000
-#EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="其他",魅力足球
-http://159.75.85.63:5681/sxg.php?id=mlyy_4000
-#EXTINF:-1,tvg-id="摄影" tvg-name="摄影" tvg-logo="https://epg.112114.xyz/logo/摄影.png" group-title="其他",摄影频道
-http://159.75.85.63:5681/sxg.php?id=sy_4000
-#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="其他",生活时尚
-http://159.75.85.63:5681/sxg.php?id=shssH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="四海钓鱼" tvg-logo="https://epg.112114.xyz/logo/四海钓鱼.png" group-title="其他",四海钓鱼
-http://159.75.85.63:5681/sxg.php?id=shdy_4000
-#EXTINF:-1,tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://epg.112114.xyz/logo/天元围棋.png" group-title="其他",天元围棋
-http://159.75.85.63:5681/sxg.php?id=tywq_2000
-#EXTINF:-1,tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://epg.112114.xyz/logo/武术世界.png" group-title="其他",武术世界
-http://159.75.85.63:5681/sxg.php?id=wssj_4000
-#EXTINF:-1,tvg-id="" tvg-name="先锋乒羽" tvg-logo="https://epg.112114.xyz/logo/先锋乒羽.png" group-title="其他",先锋乒羽
-http://159.75.85.63:5681/sxg.php?id=xfpy_4000
-#EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="其他",新视觉
-http://159.75.85.63:5681/sxg.php?id=ycxsjH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="证劵服务" tvg-logo="https://epg.112114.xyz/logo/证劵服务.png" group-title="其他",证劵服务
-http://159.75.85.63:5681/sxg.php?id=jz_2000
-#EXTINF:-1,tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.112114.xyz/logo/中国天气.png" group-title="其他",中国天气
-http://159.75.85.63:5681/sxg.php?id=zgqx_4000
-#EXTINF:-1,tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://epg.112114.xyz/logo/发现之旅.png" group-title="央视",中央新影-发现之旅
-http://159.75.85.63:5681/sxg.php?id=fxzl_2000
-#EXTINF:-1,tvg-id="老故事" tvg-name="老故事" tvg-logo="https://epg.112114.xyz/logo/老故事.png" group-title="央视",中央新影-老故事
-http://159.75.85.63:5681/sxg.php?id=lgs_2000
-#EXTINF:-1,tvg-id="中学生" tvg-name="中学生" tvg-logo="https://epg.112114.xyz/logo/中学生.png" group-title="央视",中央新影-中学生
-http://159.75.85.63:5681/sxg.php?id=zxs_4000
-#EXTINF:-1,tvg-id="" tvg-name="川广融媒" tvg-logo="https://epg.112114.xyz/logo/川广融媒.png" group-title="其他",川广融媒
-http://159.75.85.63:5681/sxg.php?id=cgrh_2000
-#EXTINF:-1,tvg-id="" tvg-name="精品导视" tvg-logo="https://epg.112114.xyz/logo/精品导视.png" group-title="其他",精品导视
-http://159.75.85.63:5681/sxg.php?id=jpdsH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="沙湾融媒" tvg-logo="https://epg.112114.xyz/logo/沙湾融媒.png" group-title="其他",沙湾融媒
-http://159.75.85.63:5681/sxg.php?id=swxwzh_2000
-#EXTINF:-1,tvg-id="" tvg-name="四川文化旅游" tvg-logo="https://epg.112114.xyz/logo/四川文化旅游.png" group-title="四川",四川文化旅游
-http://159.75.85.63:5681/sxg.php?id=SCTV-2-H265_4000
-#EXTINF:-1,tvg-id="" tvg-name="四川经济" tvg-logo="https://epg.112114.xyz/logo/四川经济.png" group-title="四川",四川经济
-http://159.75.85.63:5681/sxg.php?id=SCTV-3-H265_4000
-#EXTINF:-1,tvg-id="" tvg-name="四川新闻" tvg-logo="https://epg.112114.xyz/logo/四川新闻.png" group-title="四川",四川新闻
-http://159.75.85.63:5681/sxg.php?id=SCTV-4H265_4000
-#EXTINF:-1,tvg-id="" tvg-name="四川影视文艺" tvg-logo="https://epg.112114.xyz/logo/四川影视文艺.png" group-title="四川",四川影视文艺
-http://159.75.85.63:5681/sxg.php?id=SCTV-5-scysH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="四川妇女儿童" tvg-logo="https://epg.112114.xyz/logo/四川妇女儿童.png" group-title="四川",四川妇女儿童
-http://159.75.85.63:5681/sxg.php?id=SCTV-7-_4000
-#EXTINF:-1,tvg-id="" tvg-name="四川科教" tvg-logo="https://epg.112114.xyz/logo/四川科教.png" group-title="四川",四川科教
-http://159.75.85.63:5681/sxg.php?id=SCTV-ggSCTV-8_4000
-#EXTINF:-1,tvg-id="" tvg-name="四川乡村" tvg-logo="https://epg.112114.xyz/logo/四川乡村.png" group-title="四川",四川乡村
-http://159.75.85.63:5681/sxg.php?id=SCTV-kjSCTV-9-_4000
-#EXTINF:-1,tvg-id="峨嵋电影" tvg-name="峨嵋电影" tvg-logo="https://epg.112114.xyz/logo/峨嵋电影.png" group-title="四川",四川峨嵋电影
-http://159.75.85.63:5681/sxg.php?id=emdygqH265_4000
-#EXTINF:-1,tvg-id="" tvg-name="成都新闻综合" tvg-logo="https://epg.112114.xyz/logo/成都新闻综合.png" group-title="其他",成都新闻综合
-http://159.75.85.63:5681/sxg.php?id=CDTV-1_4000
-#EXTINF:-1,tvg-id="" tvg-name="成都经济资讯" tvg-logo="https://epg.112114.xyz/logo/成都经济资讯.png" group-title="其他",成都经济资讯
-http://159.75.85.63:5681/sxg.php?id=CDTV-2_4000
-#EXTINF:-1,tvg-id="" tvg-name="成都都市生活" tvg-logo="https://epg.112114.xyz/logo/成都都市生活.png" group-title="其他",成都都市生活
-http://159.75.85.63:5681/sxg.php?id=CDTV-3_4000
-#EXTINF:-1,tvg-id="" tvg-name="成都影视文艺" tvg-logo="https://epg.112114.xyz/logo/成都影视文艺.png" group-title="其他",成都影视文艺
-http://159.75.85.63:5681/sxg.php?id=CDTV-4_4000
-#EXTINF:-1,tvg-id="" tvg-name="成都公共频道" tvg-logo="https://epg.112114.xyz/logo/成都公共.png" group-title="其他",成都公共频道
-http://159.75.85.63:5681/sxg.php?id=CDTV-5_4000
-#EXTINF:-1,tvg-id="" tvg-name="成都高新区" tvg-logo="https://epg.112114.xyz/logo/成都高新区.png" group-title="其他",成都高新区
-http://159.75.85.63:5681/sxg.php?id=cdgxdstgq_2000
-#EXTINF:-1,tvg-id="" tvg-name="成都每日购物" tvg-logo="https://epg.112114.xyz/logo/成都每日购物.png" group-title="其他",成都每日购物
+#EXTM3U
+#EXTINF:-1 group-title="央视",中学生
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=qicai
+#EXTINF:-1 group-title="央视",发现之旅
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=faxian
+#EXTINF:-1 group-title="央视",老故事
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=gushi
+#EXTINF:-1 group-title="央视",书画
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=shuhua
+#EXTINF:-1 group-title="央视",摄影
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=sheying
+#EXTINF:-1 group-title="央视",国学
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=guoxue
+#EXTINF:-1 group-title="央视",靓妆
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=liang
+#EXTINF:-1 group-title="央视",网络棋牌
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=qipai
+#EXTINF:-1 group-title="央视",新动漫
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=dongman
+#EXTINF:-1 group-title="央视",优优宝贝(原:游戏竞技)
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=youxi
+#EXTINF:-1 group-title="央视",中华特产
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=techan
+#EXTINF:-1 group-title="央视",环球奇观(原:极速汽车)
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=car
+#EXTINF:-1 group-title="央视",生态环境
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=shengtai
+#EXTINF:-1 group-title="央视",四海钓鱼
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=diaoyu
+#EXTINF:-1 group-title="央视",中国气象
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=tianqiSD
+#EXTINF:-1 group-title="央视",车迷频道
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=doxtv
+#EXTINF:-1 group-title="",SiTV欢笑剧场4K
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=hxjc_4K
+#EXTINF:-1 group-title="",CCTV4K
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=CCTV4K
+#EXTINF:-1 group-title="",CCTV16-4K
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=CCTV16_4k
+#EXTINF:-1 group-title="央视",CCTV-1高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cctv1HD
+#EXTINF:-1 group-title="央视",CCTV-2高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cctv2HD
+#EXTINF:-1 group-title="央视",CCTV-3高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cctv3HD
+#EXTINF:-1 group-title="央视",CCTV-4高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cctv4HD
+#EXTINF:-1 group-title="央视",CCTV-5高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cctv5HD
+#EXTINF:-1 group-title="央视",CCTV-5+高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cctv5SportHD
+#EXTINF:-1 group-title="央视",CCTV-6高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cctv6HD
+#EXTINF:-1 group-title="央视",CCTV-7高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cctv7HD
+#EXTINF:-1 group-title="央视",CCTV-8高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cctv8HD
+#EXTINF:-1 group-title="央视",CCTV-9高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cctv9HD
+#EXTINF:-1 group-title="央视",CCTV-10高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cctv10HD
+#EXTINF:-1 group-title="央视",CCTV-11高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cctv11HD
+#EXTINF:-1 group-title="央视",CCTV-12高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cctv12HD
+#EXTINF:-1 group-title="央视",CCTV-13高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=CCTVNewsHD
+#EXTINF:-1 group-title="央视",CCTV-14高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cctvseHD
+#EXTINF:-1 group-title="央视",CCTV-15高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cctv15HD
+#EXTINF:-1 group-title="央视",CCTV-16高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cctv16HD
+#EXTINF:-1 group-title="央视",CCTV-17高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cctv17HD
+#EXTINF:-1 group-title="卫视",东南卫视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=dongnanHD
+#EXTINF:-1 group-title="卫视",东方卫视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=shanghaiHD
+#EXTINF:-1 group-title="卫视",云南卫视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=yunnanSD
+#EXTINF:-1 group-title="卫视",内蒙古卫视
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=neimengkuSD
+#EXTINF:-1 group-title="卫视",北京卫视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=beijingHD
+#EXTINF:-1 group-title="卫视",吉林卫视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=jilinHD
+#EXTINF:-1 group-title="卫视",四川卫视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=sichuanHD
+#EXTINF:-1 group-title="卫视",天津卫视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=tianjinHD
+#EXTINF:-1 group-title="卫视",宁夏卫视
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=ningxia
+#EXTINF:-1 group-title="卫视",安徽卫视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=anhuiSD
+#EXTINF:-1 group-title="卫视",山西卫视
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=shanxiSD
+#EXTINF:-1 group-title="卫视",广东卫视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=guangdongHD
+#EXTINF:-1 group-title="卫视",广西卫视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=guangxiHD
+#EXTINF:-1 group-title="卫视",新疆卫视
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=xinjiangSD
+#EXTINF:-1 group-title="卫视",江苏卫视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=jiangsuHD
+#EXTINF:-1 group-title="卫视",江西卫视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=jiangxiHD
+#EXTINF:-1 group-title="卫视",河北卫视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=hebeiSD
+#EXTINF:-1 group-title="卫视",河南卫视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=henanHD
+#EXTINF:-1 group-title="卫视",浙江卫视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=zhejiangHD
+#EXTINF:-1 group-title="卫视",海南卫视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=hainanSD
+#EXTINF:-1 group-title="卫视",深圳卫视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=shenzhenHD
+#EXTINF:-1 group-title="卫视",湖北卫视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=hubeiSD
+#EXTINF:-1 group-title="卫视",湖南卫视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=hunanHD
+#EXTINF:-1 group-title="卫视",西藏卫视
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=xizangSD
+#EXTINF:-1 group-title="卫视",贵州卫视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=guizhouHD
+#EXTINF:-1 group-title="卫视",辽宁卫视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=liaoningHD
+#EXTINF:-1 group-title="卫视",重庆卫视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=chongqingHD
+#EXTINF:-1 group-title="卫视",青海卫视
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=qinghaiSD
+#EXTINF:-1 group-title="卫视",黑龙江卫视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=heilongjiangHD
+#EXTINF:-1 group-title="卫视",三沙卫视
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=sanshaSD
+#EXTINF:-1 group-title="卫视",教育卫视
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=sdjiaoyuSD
+#EXTINF:-1 group-title="卫视",兵团卫视
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=bingtuanSD
+#EXTINF:-1 group-title="地方",卡酷少儿
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=bjkakuSD
+#EXTINF:-1 group-title="地方",金鹰卡通高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=jinyingSD
+#EXTINF:-1 group-title="地方",重庆新闻高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cqtvnewsHD
+#EXTINF:-1 group-title="地方",重庆科教高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cqtvkejiaoHD
+#EXTINF:-1 group-title="地方",重庆影视高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cqyingshiHD
+#EXTINF:-1 group-title="地方",重庆文体娱乐高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cqwtylHD
+#EXTINF:-1 group-title="地方",重庆少儿高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cqseHD
+#EXTINF:-1 group-title="地方",重庆新农村高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cqggncHD
+#EXTINF:-1 group-title="地方",重庆时尚生活高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cqssgwHD
+#EXTINF:-1 group-title="地方",重庆汽摩高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cqcarSD
+#EXTINF:-1 group-title="地方",重庆社会与法HD
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cqtvtrendyHD
+#EXTINF:-1 group-title="地方",重庆移动高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=mryyHD
+#EXTINF:-1 group-title="地方",重广融媒
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cqrongmei
+
+#EXTINF:-1 group-title="央视",CETV-1
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cetv-1SD
+#EXTINF:-1 group-title="央视",CETV-4
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cetv-4SD
+#EXTINF:-1 group-title="央视",CGTN
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cgtnSD
+#EXTINF:-1 group-title="央视",求索纪录高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=qsjlHD
+#EXTINF:-1 group-title="央视",百姓健康
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=jiankangSD
+#EXTINF:-1 group-title="央视",快乐垂钓高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=klcdHD
+#EXTINF:-1 group-title="央视",早期教育
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=zaojiaoHD
+#EXTINF:-1 group-title="央视",东方财-经
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=dfcj
+#EXTINF:-1 group-title="央视",证券服务
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=jiazheng
+#EXTINF:-1 group-title="央视",收藏天下
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=soucang
+#EXTINF:-1 group-title="央视",财富天下
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=caifu
+#EXTINF:-1 group-title="央视",天元围棋
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=weiqi
+#EXTINF:-1 group-title="央视",先锋乒羽
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=xianfeng
+#EXTINF:-1 group-title="央视",环球旅游
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=huanqiulvyou
+#EXTINF:-1 group-title="央视",纪实科教高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=bjayjsSD
+#EXTINF:-1 group-title="央视",SiTV都市剧场高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=dsjcHD
+#EXTINF:-1 group-title="央视",SiTV魅力足球高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=mlzqHD
+#EXTINF:-1 group-title="央视",SiTV动漫秀场高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=dmxcHD
+#EXTINF:-1 group-title="央视",SiTV游戏风云高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=yxfyHD
+#EXTINF:-1 group-title="央视",SiTV生活时尚
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=shenghuo
+#EXTINF:-1 group-title="央视",SiTV法治天地
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=fazhi
+#EXTINF:-1 group-title="央视",SiTV金色学堂
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=jinse
+#EXTINF:-1 group-title="央视",CHC高清电影
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=chcgqdyHD
+#EXTINF:-1 group-title="央视",CHC动作电影
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=chcdzdyHD
+#EXTINF:-1 group-title="央视",CHC家庭影院
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=chcjtyyHD
+#EXTINF:-1 group-title="央视",CCTV风云剧场
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=shandongHD
+#EXTINF:-1 group-title="央视",CCTV风云剧场高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=fyjcHD
+#EXTINF:-1 group-title="央视",CCTV风云音乐高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=fyyyHD
+#EXTINF:-1 group-title="央视",CCTV风云足球高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=fyzqHD
+#EXTINF:-1 group-title="央视",CCTV怀旧剧场高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=hjjcHD
+#EXTINF:-1 group-title="央视",CCTV第一剧场高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=diyijuchangHD
+#EXTINF:-1 group-title="央视",CCTV兵器科技高清
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=bqkjHD
+#EXTINF:-1 group-title="央视",CCTV央视文化精品
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=yswhHD
+#EXTINF:-1 group-title="央视",CCTV高尔夫网球
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=golfHD
+#EXTINF:-1 group-title="央视",CCTV央视台球
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=ystqHD
+#EXTINF:-1 group-title="央视",CCTV女性时尚
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=nvxing
+#EXTINF:-1 group-title="央视",家有购物
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=jygw
+#EXTINF:-1 group-title="央视",央广购物
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=yggw
+#EXTINF:-1 group-title="央视",风尚购物
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=fsgw
+#EXTINF:-1 group-title="央视",家家购物
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=jjgw
+#EXTINF:-1 group-title="央视",优购物
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=yougouwu
+#EXTINF:-1 group-title="央视",聚鲨环球精选
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=jusha
+#EXTINF:-1 group-title="央视",中视购物
+http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=ysgw
+
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" ,凤凰中文
 #EXTGRP:港台卫视"
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
