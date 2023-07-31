@@ -39,7 +39,8 @@ http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=CCTV4K
 #EXTINF:-1 group-title="",CCTV16-4K
 http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=CCTV16_4k
 #EXTINF:-1 group-title="央视",CCTV-1高清
-http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cctv1HD
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/肥羊/224/3221225523/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb09]/ott.mobaibox.com/PLTV/肥羊/224/3221227292/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2高清
 http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=cctv2HD
 #EXTINF:-1 group-title="央视",CCTV-3高清
