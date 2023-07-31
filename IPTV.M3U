@@ -14,8 +14,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/肥羊/224/322
 #EXTINF:-1 group-title="央视",CCTV-1高清
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/肥羊/224/3221225530/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-1高清
-http://[2409:8087:2001:20:2800:0:df6e:eb09]/ott.mobaibox.com/PLTV/肥羊/224/3221227292/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV-1高清
 http://[2409:8087:2001:20:2800:0:df6e:eb07]/ott.mobaibox.com/PLTV/肥羊/224/3221227375/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV-2高清
 http://[2409:8087:2001:20:2800:0:df6e:eb0c]/ott.mobaibox.com/PLTV/肥羊/224/3221227207/index.m3u8
