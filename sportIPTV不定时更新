@@ -1,0 +1,257 @@
+#EXTM3U url-tvg="http://epg.tvfor.pro/epgtv.xml"
+#EXTINF:-1 tvg-id="1264" tvg-logo="http://tvfor.pro/img/images/Chanels/setanta_sp.png" tvg-name="Setanta Sports UA" catchup-days="0" group-title="Спортивные",Setanta Sports UA
+http://rebrov.tvfor.pro/XazEkCLbtM/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1319" tvg-logo="http://tvfor.pro/img/images/Chanels/setanta_sp_plus.png" tvg-name="Setanta Sports + UA" catchup-days="0" group-title="Спортивные",Setanta Sports + UA
+http://rebrov.tvfor.pro/ANchoNjESC/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1011" tvg-logo="http://tvfor.pro/img/images/Chanels/setanta_sp_1.png" tvg-name="Setanta Sports 1 EU" catchup-days="0" group-title="Спортивные",Setanta Sports 1 EU
+http://rebrov.tvfor.pro/SetantaSportHD/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="865" tvg-logo="http://tvfor.pro/img/images/Chanels/setanta_sp_2.png" tvg-name="Setanta Sports 2 EU" catchup-days="0" group-title="Спортивные",Setanta Sports 2 EU
+http://rebrov.tvfor.pro/SetantaEurasiaplus/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2467" tvg-logo="http://tvfor.pro/img/images/Chanels/setanta_sp_3.png" tvg-name="Setanta Sports 3 GE" catchup-days="0" group-title="Спортивные",Setanta Sports 3 GE
+http://rebrov.tvfor.pro/cx8xOr4dgSMV/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2541" tvg-logo="http://tvfor.pro/img/images/Chanels/setanta_sp_1.png" tvg-name="Setanta Sports 1 LV" catchup-days="0" group-title="Спортивные",Setanta Sports 1 LV
+http://rebrov.tvfor.pro/Nfw7iAOPbA0u/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2540" tvg-logo="http://tvfor.pro/img/images/Chanels/setanta_sp.png" tvg-name="Setanta Sports MD" catchup-days="0" group-title="Спортивные",Setanta Sports MD
+http://rebrov.tvfor.pro/vkgQ1Zw3ZF3W/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1474" tvg-logo="http://tvfor.pro/img/images/Chanels/setanta_sp_kz.png" tvg-name="Setanta Qazaqstan" catchup-days="0" group-title="Спортивные",Setanta Qazaqstan
+http://rebrov.tvfor.pro/icHYPTiCAG/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2574" tvg-logo="http://tvfor.pro/img/images/Chanels/okko_sport.png" tvg-name="Okko Sport HD" catchup-days="0" group-title="Спортивные",Okko Sport HD
+http://rebrov.tvfor.pro/8nGrEN8v52/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="259" tvg-logo="http://tvfor.pro/img/images/Chanels/match_ru_tv.png" tvg-name="Матч!" catchup-days="0" group-title="Спортивные",Матч!
+http://rebrov.tvfor.pro/Rossiya2/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="549" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/match_ru_tv.png" tvg-name="Матч! HD" timeshift="3" catchup-days="3" catchup-source="http://rebrov.tvfor.pro/MatchTVHD/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",Матч! HD
+http://rebrov.tvfor.pro/6kzDOOrtd1/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="135" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/match_ru_futbol_1.png" tvg-name="Матч! Футбол 1" timeshift="5" catchup-days="5" catchup-source="http://rebrov.tvfor.pro/MATCH_FUTBOLL_1/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",Матч! Футбол 1
+http://rebrov.tvfor.pro/MatchFootball1/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="139" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/match_ru_futbol_1.png" tvg-name="Матч! Футбол 1 HD" timeshift="5" catchup-days="5" catchup-source="http://rebrov.tvfor.pro/MATCH_FUTBOLL_1_HD/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",Матч! Футбол 1 HD
+http://rebrov.tvfor.pro/MatchFutbol1HD/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="254" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/match_ru_futbol_2.png" tvg-name="Матч! Футбол 2" timeshift="5" catchup-days="5" catchup-source="http://rebrov.tvfor.pro/MATCH_FUTBOLL_2/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",Матч! Футбол 2
+http://rebrov.tvfor.pro/MatchFootball2/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="140" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/match_ru_futbol_2.png" tvg-name="Матч! Футбол 2 HD" timeshift="5" catchup-days="5" catchup-source="http://rebrov.tvfor.pro/MATCH_FUTBOLL_2_HD/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",Матч! Футбол 2 HD
+http://rebrov.tvfor.pro/MatchFutbol2HD/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="223" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/match_ru_futbol_3(1).png" tvg-name="Матч! Футбол 3" timeshift="5" catchup-days="5" catchup-source="http://rebrov.tvfor.pro/MATCH_FUTBOLL_3/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",Матч! Футбол 3
+http://rebrov.tvfor.pro/MatchFootball3/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="370" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/match_ru_futbol_3.png" tvg-name="Матч! Футбол 3 HD" timeshift="5" catchup-days="5" catchup-source="http://rebrov.tvfor.pro/MATCH_FUTBOLL_3_HD/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",Матч! Футбол 3 HD
+http://rebrov.tvfor.pro/MatchFutbol3HD/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="255" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/MP.jpg" tvg-name="Матч Премьер" timeshift="5" catchup-days="5" catchup-source="http://rebrov.tvfor.pro/NTVPlusNashFutbol/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",Матч Премьер
+http://rebrov.tvfor.pro/NTVPlusNashFutbol/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="240" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/MP.jpg" tvg-name="Матч Премьер HD" timeshift="5" catchup-days="5" catchup-source="http://rebrov.tvfor.pro/MATCH_PREMIER_HD/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",Матч Премьер HD
+http://rebrov.tvfor.pro/NTVPlusNashFutbolHD/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1589" tvg-logo="http://tvfor.pro/img/images/Chanels/qsport_qazaqstan.png" tvg-name="QSPORT" catchup-days="0" group-title="Спортивные",QSPORT
+http://rebrov.tvfor.pro/monduCtOND/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1590" tvg-logo="http://tvfor.pro/img/images/Chanels/qsport_extra.png" tvg-name="QSPORT League" catchup-days="0" group-title="Спортивные",QSPORT League
+http://rebrov.tvfor.pro/OushYpLIon/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1338" tvg-logo="http://tvfor.pro/img/images/Chanels/start_tv_logo.png" tvg-name="Старт HD" catchup-days="0" group-title="Спортивные",Старт HD
+http://rebrov.tvfor.pro/nutaNStORt/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1268" tvg-logo="http://tvfor.pro/img/images/Chanels/go-sport_1.png" tvg-name="Go3 Sport 1 HD" catchup-days="0" group-title="Спортивные",Go3 Sport 1 HD
+http://rebrov.tvfor.pro/xVlZwIumys/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1269" tvg-logo="http://tvfor.pro/img/images/Chanels/go-sport_2.png" tvg-name="Go3 Sport 2 HD" catchup-days="0" group-title="Спортивные",Go3 Sport 2 HD
+http://rebrov.tvfor.pro/bjxBGRFBYR/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2448" tvg-logo="http://tvfor.pro/img/images/Chanels/go-sport_3.png" tvg-name="Go3 Sport 3 HD" catchup-days="0" group-title="Спортивные",Go3 Sport 3 HD
+http://rebrov.tvfor.pro/hwlYGiD7DJn8/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1832" tvg-logo="http://tvfor.pro/img/images/Chanels/go-sport_open.png" tvg-name="Go3 Sport Open HD" catchup-days="0" group-title="Спортивные",Go3 Sport Open HD
+http://rebrov.tvfor.pro/obTrIngoUr/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1839" tvg-logo="http://tvfor.pro/img/images/Chanels/best4sport.png" tvg-name="Best4Sport TV [LV]" catchup-days="0" group-title="Спортивные",Best4Sport TV [LV]
+http://rebrov.tvfor.pro/StrOnETrif/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="697" tvg-logo="http://tvfor.pro/img/images/Chanels/telekanal_futbol_ru.png" tvg-name="Футбол" catchup-days="0" group-title="Спортивные",Футбол
+http://rebrov.tvfor.pro/VHlpx6sG6p/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1121" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/telekanal_futbol_ru.png" tvg-name="Футбол HD" timeshift="5" catchup-days="5" catchup-source="http://rebrov.tvfor.pro/TelekanalFootbalHD/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",Футбол HD
+http://rebrov.tvfor.pro/FootballHD/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1527" tvg-logo="http://tvfor.pro/img/images/Chanels/footballniy.png" tvg-name="Футбольный HD" catchup-days="0" group-title="Спортивные",Футбольный HD
+http://rebrov.tvfor.pro/UrNIGHtEry/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1080" tvg-logo="http://tvfor.pro/img/images/Chanels/belarus5.png" tvg-name="Беларусь 5" catchup-days="0" group-title="Спортивные",Беларусь 5
+http://rebrov.tvfor.pro/belarus5/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="448" tvg-logo="http://tvfor.pro/img/images/Chanels/match_ru_igra.png" tvg-name="Матч! Игра" catchup-days="0" group-title="Спортивные",Матч! Игра
+http://rebrov.tvfor.pro/MATChIGRA/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="136" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/match_ru_igra.png" tvg-name="Матч! Игра HD" timeshift="5" catchup-days="5" catchup-source="http://rebrov.tvfor.pro/MatchIgraHD/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",Матч! Игра HD
+http://rebrov.tvfor.pro/VqRLJE02MZ/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="447" tvg-logo="http://tvfor.pro/img/images/Chanels/match_ru_arena.png" tvg-name="Матч! Арена" catchup-days="0" group-title="Спортивные",Матч! Арена
+http://rebrov.tvfor.pro/MATChARENA/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="148" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/match_ru_arena.png" tvg-name="Матч! Арена HD" timeshift="5" catchup-days="5" catchup-source="http://rebrov.tvfor.pro/MatchArenaHD/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",Матч! Арена HD
+http://rebrov.tvfor.pro/8ZvdpcDuy8/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="261" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/match_strana.png" tvg-name="Матч! Страна" timeshift="5" catchup-days="5" catchup-source="http://rebrov.tvfor.pro/MATCH_NASH_SPORT/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",Матч! Страна
+http://rebrov.tvfor.pro/SportPlus/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1048" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/match_strana.png" tvg-name="Матч! Страна HD" timeshift="5" catchup-days="5" catchup-source="http://rebrov.tvfor.pro/Match_Strana_HD/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",Матч! Страна HD
+http://rebrov.tvfor.pro/SETRussiaHD/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1315" tvg-logo="http://tvfor.pro/img/images/Chanels/mir-basketbola-ru.png" tvg-name="Мир Баскетбола" catchup-days="0" group-title="Спортивные",Мир Баскетбола
+http://rebrov.tvfor.pro/syUUCAhrbQ/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1370" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/nba_tv_us.png" tvg-name="NBA TV HD" timeshift="3" catchup-days="3" catchup-source="http://rebrov.tvfor.pro/xorKeNtEon/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",NBA TV HD
+http://rebrov.tvfor.pro/xorKeNtEon/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="137" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/eurosport_fr_1.png" tvg-name="Eurosport 1 HD" timeshift="5" catchup-days="5" catchup-source="http://rebrov.tvfor.pro/Eurosport_1_HD_CEE/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",Eurosport 1 HD
+http://rebrov.tvfor.pro/EurosportHD/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="453" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/eurosport_fr_2.png" tvg-name="Eurosport 2 HD" timeshift="5" catchup-days="5" catchup-source="http://rebrov.tvfor.pro/Eurosport_2_HD_CEE/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",Eurosport 2 HD
+http://rebrov.tvfor.pro/Eurosport2HDRussia/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2568" tvg-logo="http://tvfor.pro/img/images/Chanels/5sport4k.png" tvg-name="5 Sport 4K [IL]" catchup-days="0" group-title="Спортивные",5 Sport 4K [IL]
+http://rebrov.tvfor.pro/KubR9pLqNJ/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2516" tvg-logo="http://tvfor.pro/img/images/Chanels/CBC_Sport_HD.png" tvg-name="CBC Sport HD" catchup-days="0" group-title="Спортивные",CBC Sport HD
+http://rebrov.tvfor.pro/uhWq7W8LIJne/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1369" tvg-logo="http://tvfor.pro/img/images/Chanels/espn_us_corp.png" tvg-name="ESPN HD" catchup-days="0" group-title="Спортивные",ESPN HD
+http://rebrov.tvfor.pro/rEntionEOp/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1510" tvg-logo="http://tvfor.pro/img/images/Chanels/espn_2.png" tvg-name="ESPN 2" catchup-days="0" group-title="Спортивные",ESPN 2
+http://rebrov.tvfor.pro/cRaHUGOBsT/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1402" tvg-logo="http://tvfor.pro/img/images/Chanels/fox-sports-1-nederland-us-nl.png" tvg-name="Fox Sport 1 HD" catchup-days="0" group-title="Спортивные",Fox Sport 1 HD
+http://rebrov.tvfor.pro/lOgencONiS/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1403" tvg-logo="http://tvfor.pro/img/images/Chanels/fox_sports_2_lam.png" tvg-name="Fox Sport 2 HD" catchup-days="0" group-title="Спортивные",Fox Sport 2 HD
+http://rebrov.tvfor.pro/quiCkTaNDE/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2543" tvg-logo="http://tvfor.pro/img/images/Chanels/Max_Sport_1_HD.png" tvg-name="MAX Sport 1 HD" catchup-days="0" group-title="Спортивные",MAX Sport 1 HD
+http://rebrov.tvfor.pro/imVJ0eJefpbM/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2544" tvg-logo="http://tvfor.pro/img/images/Chanels/Max_Sport_2_HD.png" tvg-name="MAX Sport 2 HD" catchup-days="0" group-title="Спортивные",MAX Sport 2 HD
+http://rebrov.tvfor.pro/t8bqPjUmEXYP/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2545" tvg-logo="http://tvfor.pro/img/images/Chanels/MaxSport_3_HD.png" tvg-name="MAX Sport 3 HD" catchup-days="0" group-title="Спортивные",MAX Sport 3 HD
+http://rebrov.tvfor.pro/AUCDhnAEhYhL/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2546" tvg-logo="http://tvfor.pro/img/images/Chanels/MaxSport_4_HD.png" tvg-name="MAX Sport 4 HD" catchup-days="0" group-title="Спортивные",MAX Sport 4 HD
+http://rebrov.tvfor.pro/AabpjumHgsxF/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2575" tvg-logo="http://tvfor.pro/img/images/Chanels/diema_sport_1.png" tvg-name="Diema Sport HD [BG]" catchup-days="0" group-title="Спортивные",Diema Sport HD [BG]
+http://rebrov.tvfor.pro/59Xxas4T4N/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2576" tvg-logo="http://tvfor.pro/img/images/Chanels/diema_sport_2.png" tvg-name="Diema Sport 2 HD [BG]" catchup-days="0" group-title="Спортивные",Diema Sport 2 HD [BG]
+http://rebrov.tvfor.pro/yEa58Rr77G/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2577" tvg-logo="http://tvfor.pro/img/images/Chanels/diema_sport_3.png" tvg-name="Diema Sport 3 HD [BG]" catchup-days="0" group-title="Спортивные",Diema Sport 3 HD [BG]
+http://rebrov.tvfor.pro/394taY3pEN/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2278" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/nova_cz_sport_1.png" tvg-name="Nova Sport 1 HD" timeshift="3" catchup-days="3" catchup-source="http://rebrov.tvfor.pro/ASIlkyrOST/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",Nova Sport 1 HD
+http://rebrov.tvfor.pro/ASIlkyrOST/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2279" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/nova_cz_sport_2.png" tvg-name="Nova Sport 2 HD" timeshift="3" catchup-days="3" catchup-source="http://rebrov.tvfor.pro/yGMaNCTrio/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",Nova Sport 2 HD
+http://rebrov.tvfor.pro/yGMaNCTrio/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2282" tvg-logo="http://tvfor.pro/img/images/Chanels/digi_sport3_ro.png" tvg-name="DIGI Sport 3 HD" catchup-days="0" group-title="Спортивные",DIGI Sport 3 HD
+http://rebrov.tvfor.pro/lvErOUTOEC/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1515" tvg-logo="http://tvfor.pro/img/images/Chanels/digi_sport1_ro.png" tvg-name="DIGI Sport 1 HD" catchup-days="0" group-title="Спортивные",DIGI Sport 1 HD
+http://rebrov.tvfor.pro/UsEnSMArci/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1516" tvg-logo="http://tvfor.pro/img/images/Chanels/digi_sport2_ro.png" tvg-name="DIGI Sport 2 HD" catchup-days="0" group-title="Спортивные",DIGI Sport 2 HD
+http://rebrov.tvfor.pro/GOnDepEJaP/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2562" tvg-logo="http://tvfor.pro/img/images/Chanels/sport_2_cz.png" tvg-name="Sport 2 [CZ]" catchup-days="0" group-title="Спортивные",Sport 2 [CZ]
+http://rebrov.tvfor.pro/mn5P6S6d3F/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2283" tvg-logo="http://tvfor.pro/img/images/Chanels/digi_sport4_ro.png" tvg-name="DIGI Sport 4 HD" catchup-days="0" group-title="Спортивные",DIGI Sport 4 HD
+http://rebrov.tvfor.pro/RMOnaRysTL/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2560" tvg-logo="http://tvfor.pro/img/images/Chanels/sport_1_cz.png" tvg-name="Sport 1 [CZ]" catchup-days="0" group-title="Спортивные",Sport 1 [CZ]
+http://rebrov.tvfor.pro/a7yY2X33Vs/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2558" tvg-logo="http://tvfor.pro/img/images/Chanels/rai_sport_hd.png" tvg-name="Rai Sport HD [IT]" catchup-days="0" group-title="Спортивные",Rai Sport HD [IT]
+http://rebrov.tvfor.pro/8Mn98d4fEM/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2647" tvg-logo="http://tvfor.pro/img/images/Chanels/premier_sport_1.png" tvg-name="Premier Sports 1 HD" catchup-days="0" group-title="Спортивные",Premier Sports 1 HD
+http://rebrov.tvfor.pro/Jfwwem3Md/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2648" tvg-logo="http://tvfor.pro/img/images/Chanels/premier_sport_2.png" tvg-name="Premier Sports 2 HD" catchup-days="0" group-title="Спортивные",Premier Sports 2 HD
+http://rebrov.tvfor.pro/Ydn43gwjU3/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2623" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_sports_1.png" tvg-name="TNT Sports 1 HD [UK]" catchup-days="0" group-title="Спортивные",TNT Sports 1 HD [UK]
+http://rebrov.tvfor.pro/Z6V9d48eGz/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2624" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_sports_2.png" tvg-name="TNT Sports 2 HD [UK]" catchup-days="0" group-title="Спортивные",TNT Sports 2 HD [UK]
+http://rebrov.tvfor.pro/3Z76Abnp8N/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2625" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_sports_3.png" tvg-name="TNT Sports 3 HD [UK]" catchup-days="0" group-title="Спортивные",TNT Sports 3 HD [UK]
+http://rebrov.tvfor.pro/r25HTg8Sx7/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2626" tvg-logo="http://tvfor.pro/img/images/Chanels/tnt_sports_4.png" tvg-name="TNT Sports 4 HD [UK]" catchup-days="0" group-title="Спортивные",TNT Sports 4 HD [UK]
+http://rebrov.tvfor.pro/Ff54kV22Cg/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2652" tvg-logo="http://tvfor.pro/img/images/Chanels/skysport_arena_uk.png" tvg-name="Sky Sport Arena HD [UK]" catchup-days="0" group-title="Спортивные",Sky Sport Arena HD [UK]
+http://rebrov.tvfor.pro/uC3alP4H/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2663" tvg-logo="http://tvfor.pro/img/images/Chanels/skysport_action_uk.png" tvg-name="Sky Sports Action HD [UK]" catchup-days="0" group-title="Спортивные",Sky Sports Action HD [UK]
+http://rebrov.tvfor.pro/fedegwwSe/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2658" tvg-logo="http://tvfor.pro/img/images/Chanels/skysport_mix_uk.png" tvg-name="Sky Sport Mix HD [UK]" catchup-days="0" group-title="Спортивные",Sky Sport Mix HD [UK]
+http://rebrov.tvfor.pro/VehBD92Q/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2656" tvg-logo="http://tvfor.pro/img/images/Chanels/skysport_golf_uk.png" tvg-name="Sky Sport Golf HD [UK]" catchup-days="0" group-title="Спортивные",Sky Sport Golf HD [UK]
+http://rebrov.tvfor.pro/alwFYkJK/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2653" tvg-logo="http://tvfor.pro/img/images/Chanels/skysport_cricket_uk.png" tvg-name="Sky Sport Cricket HD [UK]" catchup-days="0" group-title="Спортивные",Sky Sport Cricket HD [UK]
+http://rebrov.tvfor.pro/cOwmjQnG/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2661" tvg-logo="http://tvfor.pro/img/images/Chanels/skysport_pl_uk.png" tvg-name="Sky Sport Premier Liga HD [UK]" catchup-days="0" group-title="Спортивные",Sky Sport Premier Liga HD [UK]
+http://rebrov.tvfor.pro/atLs7TPn/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2654" tvg-logo="http://tvfor.pro/img/images/Chanels/skysport_f1_uk.png" tvg-name="Sky Sport F1 HD [UK]" catchup-days="0" group-title="Спортивные",Sky Sport F1 HD [UK]
+http://rebrov.tvfor.pro/mMYFHBz8/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2655" tvg-logo="http://tvfor.pro/img/images/Chanels/skysport_football_uk.png" tvg-name="Sky Sport Football HD [UK]" catchup-days="0" group-title="Спортивные",Sky Sport Football HD [UK]
+http://rebrov.tvfor.pro/LKGg4xhJ/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2657" tvg-logo="http://tvfor.pro/img/images/Chanels/skysport_main_event_uk.png" tvg-name="Sky Sport Main Event HD [UK]" catchup-days="0" group-title="Спортивные",Sky Sport Main Event HD [UK]
+http://rebrov.tvfor.pro/zuatk8cz/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2659" tvg-logo="http://tvfor.pro/img/images/Chanels/skysport_news_uk.png" tvg-name="Sky Sport News HD [UK]" catchup-days="0" group-title="Спортивные",Sky Sport News HD [UK]
+http://rebrov.tvfor.pro/3IHoar5e/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2662" tvg-logo="http://tvfor.pro/img/images/Chanels/skysport_racing_uk.png" tvg-name="Sky Sport Racing HD [UK]" catchup-days="0" group-title="Спортивные",Sky Sport Racing HD [UK]
+http://rebrov.tvfor.pro/u9cU1TJZ/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2584" tvg-logo="http://tvfor.pro/img/images/Chanels/skysport_calcio.png" tvg-name="Sky Sport Calcio HD [IT]" catchup-days="0" group-title="Спортивные",Sky Sport Calcio HD [IT]
+http://rebrov.tvfor.pro/hAfNs796B9/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2594" tvg-logo="http://tvfor.pro/img/images/Chanels/skysport_24.png" tvg-name="Sky Sport24 HD [IT]" catchup-days="0" group-title="Спортивные",Sky Sport24 HD [IT]
+http://rebrov.tvfor.pro/A3J47cu3Ur/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2595" tvg-logo="http://tvfor.pro/img/images/Chanels/skysport_tennis.png" tvg-name="Sky Sport Tennis HD [IT]" catchup-days="0" group-title="Спортивные",Sky Sport Tennis HD [IT]
+http://rebrov.tvfor.pro/Z3x37sKaD3/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2592" tvg-logo="http://tvfor.pro/img/images/Chanels/skysport_golf.png" tvg-name="Sky Sport Golf HD [IT]" catchup-days="0" group-title="Спортивные",Sky Sport Golf HD [IT]
+http://rebrov.tvfor.pro/p396SFCd2b/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2593" tvg-logo="http://tvfor.pro/img/images/Chanels/skysport_f1.png" tvg-name="Sky Sport F1 HD [IT]" catchup-days="0" group-title="Спортивные",Sky Sport F1 HD [IT]
+http://rebrov.tvfor.pro/gC56Zs2Bm3/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2591" tvg-logo="http://tvfor.pro/img/images/Chanels/skysport_arena.png" tvg-name="Sky Sport Arena HD [IT]" catchup-days="0" group-title="Спортивные",Sky Sport Arena HD [IT]
+http://rebrov.tvfor.pro/7eTs4En7A2/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2588" tvg-logo="http://tvfor.pro/img/images/Chanels/skysport_moto_gp.png" tvg-name="Sky Sport MotoGP HD [IT]" catchup-days="0" group-title="Спортивные",Sky Sport MotoGP HD [IT]
+http://rebrov.tvfor.pro/zR82ZsM76p/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2587" tvg-logo="http://tvfor.pro/img/images/Chanels/skysport_summer.png" tvg-name="Sky Sport Summer HD [IT]" catchup-days="0" group-title="Спортивные",Sky Sport Summer HD [IT]
+http://rebrov.tvfor.pro/95NAB5py5d/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2585" tvg-logo="http://tvfor.pro/img/images/Chanels/skysport_nba.png" tvg-name="Sky Sport NBA HD [IT]" catchup-days="0" group-title="Спортивные",Sky Sport NBA HD [IT]
+http://rebrov.tvfor.pro/FP73hD2yf5/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2570" tvg-logo="http://tvfor.pro/img/images/Chanels/prima_sport_1.png" tvg-name="Prima Sport 1 HD [RO]" catchup-days="0" group-title="Спортивные",Prima Sport 1 HD [RO]
+http://rebrov.tvfor.pro/Rvrw421mEC/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2571" tvg-logo="http://tvfor.pro/img/images/Chanels/prima_sport_2.png" tvg-name="Prima Sport 2 HD [RO]" catchup-days="0" group-title="Спортивные",Prima Sport 2 HD [RO]
+http://rebrov.tvfor.pro/H42smfgsEC/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1511" tvg-logo="http://tvfor.pro/img/images/Chanels/super_tennis_it.png" tvg-name="Super Tennis HD" catchup-days="0" group-title="Спортивные",Super Tennis HD
+http://rebrov.tvfor.pro/IAticuCTIL/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="536" tvg-logo="http://tvfor.pro/img/images/movistar_es_golf.png" tvg-name="Movistar Golf HD" catchup-days="0" group-title="Спортивные",Movistar Golf HD
+http://rebrov.tvfor.pro/skysport4hduk/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1783" tvg-logo="http://tvfor.pro/img/images/Chanels/sport_3_logo.png" tvg-name="Спорт 3 HD" catchup-days="0" group-title="Спортивные",Спорт 3 HD
+http://rebrov.tvfor.pro/lItYroANsi/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="390" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/sport1_ua.png" tvg-name="Спорт 1" timeshift="5" catchup-days="5" catchup-source="http://rebrov.tvfor.pro/Sport1/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",Спорт 1
+http://rebrov.tvfor.pro/r4NqMeVOWY/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="545" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/sport2_ua.png" tvg-name="Спорт 2" timeshift="5" catchup-days="5" catchup-source="http://rebrov.tvfor.pro/sport2/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",Спорт 2
+http://rebrov.tvfor.pro/Sport2UA/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1597" tvg-logo="http://tvfor.pro/img/images/Chanels/x-sport-plus.png" tvg-name="XSPORT+ HD" catchup-days="0" group-title="Спортивные",XSPORT+ HD
+http://rebrov.tvfor.pro/ropyKEnANT/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1596" tvg-logo="http://tvfor.pro/img/images/Chanels/x-sport-ua.png" tvg-name="XSPORT HD" catchup-days="0" group-title="Спортивные",XSPORT HD
+http://rebrov.tvfor.pro/tEatineXpe/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2668" tvg-logo="http://tvfor.pro/img/images/Chanels/dktv.png" tvg-name="Dynamo Kyiv TV" catchup-days="0" group-title="Спортивные",Dynamo Kyiv TV
+http://rebrov.tvfor.pro/yio5reERkl3E/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2664" tvg-logo="http://tvfor.pro/img/images/Chanels/upl_tv_1.png" tvg-name="UPL.TV 1" catchup-days="0" group-title="Спортивные",UPL.TV 1
+http://rebrov.tvfor.pro/hfesfdhfjk/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2665" tvg-logo="http://tvfor.pro/img/images/Chanels/upl_tv_2.png" tvg-name="UPL.TV 2" catchup-days="0" group-title="Спортивные",UPL.TV 2
+http://rebrov.tvfor.pro/jlkdjasflsd/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2666" tvg-logo="http://tvfor.pro/img/images/Chanels/upl_tv_3.png" tvg-name="UPL.TV 3" catchup-days="0" group-title="Спортивные",UPL.TV 3
+http://rebrov.tvfor.pro/rrdsvjkhsde/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2667" tvg-logo="http://tvfor.pro/img/images/Chanels/upl_tv_4.png" tvg-name="UPL.TV 4" catchup-days="0" group-title="Спортивные",UPL.TV 4
+http://rebrov.tvfor.pro/uhxucurWe/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="196" tvg-logo="http://tvfor.pro/img/images/Chanels/pershiy_avtomobilniy.png" tvg-name="Первый автомобильный HD" catchup-days="0" group-title="Спортивные",Первый автомобильный HD
+http://rebrov.tvfor.pro/PershiyAvtomobilniy/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="278" tvg-logo="http://tvfor.pro/img/images/Chanels/545.jpg" tvg-name="Авто24 HD" catchup-days="0" group-title="Спортивные",Авто24 HD
+http://rebrov.tvfor.pro/Avto24/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1158" tvg-logo="http://tvfor.pro/img/images/Chanels/moto(1).jpg" tvg-name="Моторспорт ТВ" catchup-days="0" group-title="Спортивные",Моторспорт ТВ
+http://rebrov.tvfor.pro/MotosportTV/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1159" tvg-logo="http://tvfor.pro/img/images/Chanels/moto(1).jpg" tvg-name="Моторспорт ТВ HD" catchup-days="0" group-title="Спортивные",Моторспорт ТВ HD
+http://rebrov.tvfor.pro/MotosportTVHD/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="264" tvg-logo="http://tvfor.pro/img/images/Chanels/viju_plus_sport.png" tvg-name="viju+ Sport HD" catchup-days="0" group-title="Спортивные",viju+ Sport HD
+http://rebrov.tvfor.pro/ViasatSportHD/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1526" tvg-logo="http://tvfor.pro/img/images/Chanels/sportivnyi.png" tvg-name="Спортивный" catchup-days="0" group-title="Спортивные",Спортивный
+http://rebrov.tvfor.pro/ocHumpHePH/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="133" tvg-logo="http://tvfor.pro/img/images/Chanels/viju_plus_sport.png" tvg-name="viju+ Sport" catchup-days="0" group-title="Спортивные",viju+ Sport
+http://rebrov.tvfor.pro/ViasatSportEast/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="351" tvg-logo="http://tvfor.pro/img/images/Chanels/v_sport_ultrahd.png" tvg-name="V Sport ULTRAHD" catchup-days="0" group-title="Спортивные",V Sport ULTRAHD
+http://rebrov.tvfor.pro/ViasatGolf/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1051" tvg-logo="http://tvfor.pro/img/images/Chanels/v_sport_golf.png" tvg-name="V Sport Golf" catchup-days="0" group-title="Спортивные",V Sport Golf
+http://rebrov.tvfor.pro/AFNSports2/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="224" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/khltv.png" tvg-name="KHL" timeshift="3" catchup-days="3" catchup-source="http://rebrov.tvfor.pro/KHLTV/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",KHL
+http://rebrov.tvfor.pro/KHLTV/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="338" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/khl_prime_hd.png" tvg-name="KHL Prime" timeshift="5" catchup-days="5" catchup-source="http://rebrov.tvfor.pro/KHLHD/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",KHL Prime
+http://rebrov.tvfor.pro/yi9XoFjBwH/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="2277" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/nhl-network-us.png" tvg-name="NHL Network" timeshift="3" catchup-days="3" catchup-source="http://rebrov.tvfor.pro/bAsKeterec/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",NHL Network
+http://rebrov.tvfor.pro/bAsKeterec/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1509" tvg-logo="http://tvfor.pro/img/images/Chanels/hockey.jpg" tvg-name="Хоккейный" catchup-days="0" group-title="Спортивные",Хоккейный
+http://rebrov.tvfor.pro/OClAyughth/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="46" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/match_ru_boets.png" tvg-name="Матч! Боец" timeshift="5" catchup-days="5" catchup-source="http://rebrov.tvfor.pro/MATCH_BOEC/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",Матч! Боец
+http://rebrov.tvfor.pro/Boets/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1837" tvg-logo="http://tvfor.pro/img/images/Chanels/match_ru_boets.png" tvg-name="Матч! Боец HD" catchup-days="0" group-title="Спортивные",Матч! Боец HD
+http://rebrov.tvfor.pro/IOUseATeAd/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1204" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/tochka-otryva-ru.png" tvg-name="Точка отрыва" timeshift="3" catchup-days="3" catchup-source="http://rebrov.tvfor.pro/TochkaOtryva/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",Точка отрыва
+http://rebrov.tvfor.pro/TochkaOtryva/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="604" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/boks_tv_ru.png" tvg-name="Бокс ТВ" timeshift="3" catchup-days="3" catchup-source="http://rebrov.tvfor.pro/bokstv/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",Бокс ТВ
+http://rebrov.tvfor.pro/bokstv/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1306" tvg-logo="http://tvfor.pro/img/images/Chanels/udar.png" tvg-name="UDAR HD" catchup-days="0" group-title="Спортивные",UDAR HD
+http://rebrov.tvfor.pro/iLEymeNESM/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1117" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/m-1-global-tv-ru.png" tvg-name="M-1 Global TV" timeshift="5" catchup-days="5" catchup-source="http://rebrov.tvfor.pro/M1GlobalTV/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",M-1 Global TV
+http://rebrov.tvfor.pro/M1GlobalTV/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="129" tvg-logo="http://tvfor.pro/img/images/Chanels/extreme_.png" tvg-name="Extreme Sports" catchup-days="0" group-title="Спортивные",Extreme Sports
+http://rebrov.tvfor.pro/OBm16Z8Tcy/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1274" tvg-logo="http://tvfor.pro/img/images/Chanels/ultra_rex.png" tvg-name="ULTRA REX" catchup-days="0" group-title="Спортивные",ULTRA REX
+http://rebrov.tvfor.pro/KABqmrxIkg/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="257" tvg-logo="http://tvfor.pro/img/images/Chanels/sd_rex.png" tvg-name="SD REX" catchup-days="0" group-title="Спортивные",SD REX
+http://rebrov.tvfor.pro/RusskijExtreme/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="1028" catchup="default" tvg-logo="http://tvfor.pro/img/images/Chanels/hd_rex.png" tvg-name="HD REX" timeshift="5" catchup-days="5" catchup-source="http://rebrov.tvfor.pro/RussianEkstrimHD/ihwvhvl55bxyc5monync7vjz?utc=${start}" group-title="Спортивные",HD REX
+http://rebrov.tvfor.pro/RusskijExtremeHD/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="534" tvg-logo="http://tvfor.pro/img/images/Chanels/konnyj-mir.png" tvg-name="Конный мир" catchup-days="0" group-title="Спортивные",Конный мир
+http://rebrov.tvfor.pro/EquestrianWorld/ihwvhvl55bxyc5monync7vjz
+#EXTINF:-1 tvg-id="500" tvg-logo="http://tvfor.pro/img/images/Chanels/konnyj-mir.png" tvg-name="Конный мир HD" catchup-days="0" group-title="Спортивные",Конный мир HD
+http://rebrov.tvfor.pro/EquestrianWorldHD/ihwvhvl55bxyc5monync7vjz
