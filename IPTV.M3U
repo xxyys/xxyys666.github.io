@@ -1095,6 +1095,20 @@ http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000032106/index.m3u
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",咪咕直播-2-4K
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-01
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline01
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-02
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline02
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-03
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline03
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-04
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline04
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-05
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline05
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-06
+http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline06
+
 #EXTINF:-1,tvg-id="10001" tvg-name="NBA-1" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="NBA",NBA-01
 http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mgline01
 #EXTINF:-1,tvg-id="10002" tvg-name="NBA-2" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="NBA",NBA-02
