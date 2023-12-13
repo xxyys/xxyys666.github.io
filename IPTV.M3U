@@ -301,15 +301,15 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001219/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 #EXTINF:-1 group-title="央视频道",中国天气
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
-#EXTINF:-1 group-title="Bestv,#genre#",Bestv赛事1
+#EXTINF:-1 group-title="Bestv",Bestv赛事1
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001151/index.m3u8
-#EXTINF:-1 group-title="Bestv,#genre#",Bestv赛事2
+#EXTINF:-1 group-title="Bestv",Bestv赛事2
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001359/index.m3u8
-#EXTINF:-1 group-title="Bestv,#genre#",Bestv赛事3
+#EXTINF:-1 group-title="Bestv",Bestv赛事3
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001388/index.m3u8
-#EXTINF:-1 group-title="Bestv,#genre#",Bestv赛事4
+#EXTINF:-1 group-title="Bestv",Bestv赛事4
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001149/index.m3u8
-#EXTINF:-1 group-title="Bestv,#genre#",Bestv赛事5
+#EXTINF:-1 group-title="Bestv",Bestv赛事5
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u8
 
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="超清频道",欢笑剧场4K
