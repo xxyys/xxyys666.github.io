@@ -430,38 +430,25 @@ http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",咪咕直播-2-4K
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 
-#EXTINF:-1,tvg-id="1001" tvg-name="足球线路-01" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-01
-http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline01
-#EXTINF:-1,tvg-id="1002" tvg-name="足球线路-02" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-02
-http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline02
-#EXTINF:-1,tvg-id="1003" tvg-name="足球线路-03" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-03
-http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline03
-#EXTINF:-1,tvg-id="1004" tvg-name="足球线路-04" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-04
-http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline04
-#EXTINF:-1,tvg-id="1005" tvg-name="足球线路-05" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-05
-http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline05
-#EXTINF:-1,tvg-id="1006" tvg-name="足球线路-06" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-06
-http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mfline06
+#EXTINF:-1 group-title="港台体育",纬来育乐
+rtmp://9sv2.mine.nu/sat/tv701
+#EXTINF:-1 group-title="港台体育",纬来体育
+rtmp://9sv2.mine.nu/sat/tv721
+#EXTINF:-1 group-title="港台体育",MOMO综合
+rtmp://9sv2.mine.nu/sat/tv761
+#EXTINF:-1 group-title="港台体育",ELEVEN2
+rtmp://9sv2.mine.nu:1935/sat/md011
+#EXTINF:-1 group-title="港台体育",ELTA体育1
+rtmp://9sv2.mine.nu:1935/sat/md031
+#EXTINF:-1 group-title="港台体育",ELTA体育2
+rtmp://9sv2.mine.nu/sat/md041
+#EXTINF:-1 group-title="港台体育",ELTA体育3
+rtmp://9sv2.mine.nu:1935/sat/md051
+#EXTINF:-1 group-title="港台体育",ELTA体育4
+rtmp://9sv2.mine.nu:1935/sat/md041
+#EXTINF:-1 group-title="港台体育",ELTA体育4
+rtmp://9sv2.mine.nu:1935/sat/md051
 
-#EXTINF:-1,tvg-id="10001" tvg-name="NBA-1" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="NBA",NBA-01
-http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mgline01
-#EXTINF:-1,tvg-id="10002" tvg-name="NBA-2" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="NBA",NBA-02
-http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mgline02
-#EXTINF:-1,tvg-id="10003" tvg-name="NBA-3" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="NBA",NBA-03
-http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mgline03
-#EXTINF:-1,tvg-id="10004" tvg-name="NBA-4" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="NBA",NBA-04
-http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mgline04
-#EXTINF:-1,tvg-id="10005" tvg-name="NBA-6" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="NBA",NBA-05
-http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=mgline05
-#EXTINF:-1,tvg-id="10026" tvg-name="NBA-6" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="NBA",NBA-06
-http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=txline06
-#EXTINF:-1,tvg-id="10027" tvg-name="NBA-7" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="NBA",NBA-07
-http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=txline07
-#EXTINF:-1,tvg-id="10028" tvg-name="NBA-8" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="NBA",NBA-08
-http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=txline08
-#EXTINF:-1,tvg-id="10029" tvg-name="NBA-9" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="NBA",NBA-09
-http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=txline09
-#EXTINF:-1,tvg-id="10030" tvg-name="NBA-10" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="NBA",NBA-10
-http://129.226.149.79:5678/202311SPliveddksjffkeijd.php?id=txline10
+
 
 
