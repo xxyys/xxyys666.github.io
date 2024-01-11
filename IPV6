@@ -875,8 +875,6 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000012/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000012&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="家庭剧场" tvg-logo="https://live.fanmingming.com/tv/家庭剧场.png" group-title="影视频道",家庭剧场
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="金牌综艺http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000005/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000005&livemode=1&stbId=3" tvg-logo="https://live.fanmingming.com/tv/金牌综艺http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000005/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000005&livemode=1&stbId=3.png" group-title="影视频道",金牌综艺http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000005/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000005&livemode=1&stbId=3
-undefined
 #EXTINF:-1 tvg-name="金牌综艺" tvg-logo="https://live.fanmingming.com/tv/金牌综艺.png" group-title="影视频道",金牌综艺
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/惊悚悬疑.png" group-title="影视频道",惊悚悬疑
