@@ -547,7 +547,7 @@ http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226190/1.m3u8
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226401/1.m3u8
 #EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕",咪咕视频35[1920x1080]
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226188/1.m3u8
-#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕",咪咕视频[361920x1080]
+#EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕",咪咕视频36[1920x1080]
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226196/1.m3u8
 #EXTINF:-1,tvg-id="咪咕视频[1920x1080]" tvg-name="咪咕视频[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="咪咕",咪咕视频37[1920x1080]
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226367/1.m3u8
@@ -559,7 +559,7 @@ http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226130/1.m3u8
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226145/1.m3u8
 #EXTINF:-1,tvg-id="BesTV[1920x1080]" tvg-name="BesTV[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/BESTV.png" group-title="Best体育",BesTV4[1920x1080]
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226151/1.m3u8
-#EXTINF:-1,tvg-id="BesTV[1920x1080]" tvg-name="BesTV[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/BESTV.png" group-title="Best体育",BesTV[51920x1080]
+#EXTINF:-1,tvg-id="BesTV[1920x1080]" tvg-name="BesTV[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/BESTV.png" group-title="Best体育",BesTV5[1920x1080]
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226141/1.m3u8
 #EXTINF:-1,tvg-id="BesTV[1920x1080]" tvg-name="BesTV[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/BESTV.png" group-title="Best体育",BesTV6[1920x1080]
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226149/1.m3u8
