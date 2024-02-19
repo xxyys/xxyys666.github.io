@@ -331,10 +331,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3
 http://38.96.178.201/live/NBA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",纬来体育高清
 https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",ALL-STAR1
-https://5d0c54d63153332d6dd2f04c205bc564.v.smtcdns.net/txycdn.video.qq.com/1762261202.m3u8?time=1708303424&from=player&cdn=tcloud&sdtfrom=v4000402212&platform=40201&butype=2&HLSP2P=1&vkey=60D5B3FD59E10CF05FDF82D4538EE906EE88FE8C4CC38FFEE1092CE9DCB7D50C5510281A8022CE97A3191FD57319908B9DC14DED42AFE02F14F91E94EA4DFD50F928A8B4EF52D953A9A40F2AF3A6415E17E291CC5C3F58C1384C17B44F17FEB410167F60C109AE3B336DEB7348A0D1A425F7C528808B3591&drmtype=0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",ALL-STAR2
-https://plpl12.teujyt.space/playlist/19492/redi1111vs.cloudcdn7.net/caxi.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",咪咕直播-1
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",咪咕直播-2
