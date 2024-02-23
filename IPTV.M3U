@@ -329,6 +329,191 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTM3U
+#EXTINF:-1 group-title="百事通,#genre#",CCTV16-4K
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv16hd4k/15000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",CCTV-4K
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv4k/15000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",欢笑剧场4k
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hxjc4k/15000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",CCTV1 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv1hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",CCTV2 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv2hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",CCTV3 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv38m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",CCTV4 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv4hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",CCTV5 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv58m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",CCTV5+ 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv5phd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",CCTV6 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv6hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",CCTV7 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv7hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",CCTV8 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv8hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",CCTV9 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv9hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",CCTV10 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv10hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",CCTV11 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv11hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",CCTV12 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv12hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",CCTV13 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",CCTV14 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctvsehd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",CCTV15 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv15hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",CCTV16 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv16hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",CCTV17 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",江苏卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jswshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",广西卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gxwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",四川卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/scwshd/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",湖南卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hunanwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",浙江卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/zjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",东方卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dfwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",北京卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/bjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",天津卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/tjwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",辽宁卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/lnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",安徽卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/ahwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",黑龙江卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hljwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",广东卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gdwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",深圳卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/szwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",湖北卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hubeiws8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",吉林卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jlwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",山东卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/sdws8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",江西卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jxws8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",河南卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",河北卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hbwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",甘肃卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gswshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",重庆卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cqws8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",东南卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dnwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",云南卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/ynwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",贵州卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gzwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",海南卫视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",欢笑剧场 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hxjc8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",劲爆体育 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",快乐垂钓 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/klcd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",金鹰纪实 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jyjs8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",戏曲精选 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xqjx8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",上海第一财经 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dycjhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",上视新闻 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",上海都市 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",上海纪实 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jspdhd/4000000
+#EXTINF:-1 group-title="百事通,#genre#",东方影视 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dfyshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",五星体育 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",上视外语 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/icshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",七彩戏剧 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qcxjhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",上海教育 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/setvhd/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",全纪实 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qjshd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",生活时尚 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/shss8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",新视觉 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xsjhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",游戏风云 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/yxfy8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",热门综艺 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/rmzy8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",超级体育 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qcsj8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",健康养生 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jkys8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",百变课堂 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/bbkt8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",看天下精选 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/ktxjx8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",华语影院 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hyyy8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",电竞天堂 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/djtt8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",青春动漫 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qcdm8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",宝宝动画 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/bbdh8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",星光影院 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xgyy8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",谍战剧场 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dzjc8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",全球大片 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qqdp8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",热门剧场 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/rmjc8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",陶瓷高清 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/taocihd/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",中国教育-1 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/zgjy1t8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",中国教育-4 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",卡酷少儿 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/kkse8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",纪实科教 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dajs8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",茶频道 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",足球高清 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/zqpd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",炫动卡通 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hhxd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",东方财经 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dfcjhd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",都市剧场 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dsjc8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",动漫秀场 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dmxc8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",法治天地 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/fztd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",金色学堂 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jingsepd8m/8000000/mnf.m3u8
+#EXTINF:-1 group-title="百事通,#genre#",魅力足球 8M
+http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/mlyyhd8m/8000000/mnf.m3u8
+
+
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",NBATV
 http://38.96.178.201/live/NBA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",纬来体育高清
