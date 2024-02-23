@@ -542,3 +542,11 @@ http://iptv.hiper25.com:7522/upnp/channelstream/4135632220764545141%7C%E7%BF%A1%
 http://iptv.hiper25.com:7522/upnp/channelstream/4135458253114979389%7C%E6%98%8E%E7%8F%A0%E5%8F%B0.ts
 #EXTINF:-1 group-title="港台",澳视澳门
 http://iptv.hiper25.com:7522/upnp/channelstream/4135637344661319488%7C%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8.ts
+#EXTINF:-1 group-title="港台",Movies Now (4K)
+https://m3u-editor.com/serve/0dc3f5e0-d029-11ee-834a-97eb20bf6507/1092123194
+#EXTINF:-1 group-title="港台",STAR MOVIES (4K)
+https://m3u-editor.com/serve/0dc3f5e0-d029-11ee-834a-97eb20bf6507/1092123195
+#EXTINF:-1 group-title="港台",STAR WORLD (4K)
+https://m3u-editor.com/serve/0dc3f5e0-d029-11ee-834a-97eb20bf6507/1092123196
+#EXTINF:-1 group-title="港台",STAR WORLD PREM (4K)
+https://m3u-editor.com/serve/0dc3f5e0-d029-11ee-834a-97eb20bf6507/1092123197
