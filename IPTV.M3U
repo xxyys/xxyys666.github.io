@@ -333,6 +333,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3
 http://38.96.178.201/live/NBA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",纬来体育高清
 https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",咪咕直播-1
 http://zteres.sn.chinamobile.com:6060/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",咪咕直播-2
@@ -542,6 +543,8 @@ http://iptv.hiper25.com:7522/upnp/channelstream/4135632220764545141%7C%E7%BF%A1%
 http://iptv.hiper25.com:7522/upnp/channelstream/4135458253114979389%7C%E6%98%8E%E7%8F%A0%E5%8F%B0.ts
 #EXTINF:-1 group-title="港台",澳视澳门
 http://iptv.hiper25.com:7522/upnp/channelstream/4135637344661319488%7C%E6%BE%B3%E8%A7%86%E6%BE%B3%E9%97%A8.ts
+#EXTINF:-1 group-title="港台",中视新闻
+http://ali.hlspull.yximgs.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
 #EXTINF:-1 group-title="港台",Movies Now (4K)
 https://m3u-editor.com/serve/0dc3f5e0-d029-11ee-834a-97eb20bf6507/1092123194
 #EXTINF:-1 group-title="港台",STAR MOVIES (4K)
