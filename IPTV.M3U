@@ -329,441 +329,441 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTM3U
-#EXTINF:-1 group-title="百事通,#genre#",CCTV16-4K
+#EXTINF:-1 group-title="百事通",CCTV16-4K
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv16hd4k/15000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",CCTV-4K
+#EXTINF:-1 group-title="百事通",CCTV-4K
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv4k/15000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",欢笑剧场4k
+#EXTINF:-1 group-title="百事通",欢笑剧场4k
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hxjc4k/15000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",CCTV1 8M
+#EXTINF:-1 group-title="百事通",CCTV1 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",CCTV2 8M
+#EXTINF:-1 group-title="百事通",CCTV2 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",CCTV3 8M
+#EXTINF:-1 group-title="百事通",CCTV3 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv38m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",CCTV4 8M
+#EXTINF:-1 group-title="百事通",CCTV4 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",CCTV5 8M
+#EXTINF:-1 group-title="百事通",CCTV5 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv58m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",CCTV5+ 8M
+#EXTINF:-1 group-title="百事通",CCTV5+ 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",CCTV6 8M
+#EXTINF:-1 group-title="百事通",CCTV6 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv6hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",CCTV7 8M
+#EXTINF:-1 group-title="百事通",CCTV7 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",CCTV8 8M
+#EXTINF:-1 group-title="百事通",CCTV8 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",CCTV9 8M
+#EXTINF:-1 group-title="百事通",CCTV9 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",CCTV10 8M
+#EXTINF:-1 group-title="百事通",CCTV10 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",CCTV11 8M
+#EXTINF:-1 group-title="百事通",CCTV11 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",CCTV12 8M
+#EXTINF:-1 group-title="百事通",CCTV12 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",CCTV13 8M
+#EXTINF:-1 group-title="百事通",CCTV13 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",CCTV14 8M
+#EXTINF:-1 group-title="百事通",CCTV14 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctvsehd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",CCTV15 8M
+#EXTINF:-1 group-title="百事通",CCTV15 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",CCTV16 8M
+#EXTINF:-1 group-title="百事通",CCTV16 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",CCTV17 8M
+#EXTINF:-1 group-title="百事通",CCTV17 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cctv17hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",江苏卫视 8M
+#EXTINF:-1 group-title="百事通",江苏卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jswshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",广西卫视 8M
+#EXTINF:-1 group-title="百事通",广西卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gxwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",四川卫视 8M
+#EXTINF:-1 group-title="百事通",四川卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/scwshd/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",湖南卫视 8M
+#EXTINF:-1 group-title="百事通",湖南卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hunanwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",浙江卫视 8M
+#EXTINF:-1 group-title="百事通",浙江卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/zjwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",东方卫视 8M
+#EXTINF:-1 group-title="百事通",东方卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dfwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",北京卫视 8M
+#EXTINF:-1 group-title="百事通",北京卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/bjwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",天津卫视 8M
+#EXTINF:-1 group-title="百事通",天津卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/tjwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",辽宁卫视 8M
+#EXTINF:-1 group-title="百事通",辽宁卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/lnwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",安徽卫视 8M
+#EXTINF:-1 group-title="百事通",安徽卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/ahwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",黑龙江卫视 8M
+#EXTINF:-1 group-title="百事通",黑龙江卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hljwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",广东卫视 8M
+#EXTINF:-1 group-title="百事通",广东卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gdwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",深圳卫视 8M
+#EXTINF:-1 group-title="百事通",深圳卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/szwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",湖北卫视 8M
+#EXTINF:-1 group-title="百事通",湖北卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hubeiws8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",吉林卫视 8M
+#EXTINF:-1 group-title="百事通",吉林卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jlwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",山东卫视 8M
+#EXTINF:-1 group-title="百事通",山东卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/sdws8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",江西卫视 8M
+#EXTINF:-1 group-title="百事通",江西卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jxws8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",河南卫视 8M
+#EXTINF:-1 group-title="百事通",河南卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hnwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",河北卫视 8M
+#EXTINF:-1 group-title="百事通",河北卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hbwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",甘肃卫视 8M
+#EXTINF:-1 group-title="百事通",甘肃卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gswshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",重庆卫视 8M
+#EXTINF:-1 group-title="百事通",重庆卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cqws8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",东南卫视 8M
+#EXTINF:-1 group-title="百事通",东南卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dnwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",云南卫视 8M
+#EXTINF:-1 group-title="百事通",云南卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/ynwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",贵州卫视 8M
+#EXTINF:-1 group-title="百事通",贵州卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/gzwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",海南卫视 8M
+#EXTINF:-1 group-title="百事通",海南卫视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hainanwshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",欢笑剧场 8M
+#EXTINF:-1 group-title="百事通",欢笑剧场 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hxjc8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",劲爆体育 8M
+#EXTINF:-1 group-title="百事通",劲爆体育 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jbtyhd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",快乐垂钓 8M
+#EXTINF:-1 group-title="百事通",快乐垂钓 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/klcd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",金鹰纪实 8M
+#EXTINF:-1 group-title="百事通",金鹰纪实 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jyjs8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",戏曲精选 8M
+#EXTINF:-1 group-title="百事通",戏曲精选 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xqjx8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",上海第一财经 8M
+#EXTINF:-1 group-title="百事通",上海第一财经 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dycjhd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",上视新闻 8M
+#EXTINF:-1 group-title="百事通",上视新闻 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xwzhhd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",上海都市 8M
+#EXTINF:-1 group-title="百事通",上海都市 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",上海纪实 8M
+#EXTINF:-1 group-title="百事通",上海纪实 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jspdhd/4000000
-#EXTINF:-1 group-title="百事通,#genre#",东方影视 8M
+#EXTINF:-1 group-title="百事通",东方影视 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dfyshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",五星体育 8M
+#EXTINF:-1 group-title="百事通",五星体育 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",上视外语 8M
+#EXTINF:-1 group-title="百事通",上视外语 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/icshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",七彩戏剧 8M
+#EXTINF:-1 group-title="百事通",七彩戏剧 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qcxjhd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",上海教育 8M
+#EXTINF:-1 group-title="百事通",上海教育 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/setvhd/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",全纪实 8M
+#EXTINF:-1 group-title="百事通",全纪实 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qjshd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",生活时尚 8M
+#EXTINF:-1 group-title="百事通",生活时尚 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/shss8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",新视觉 8M
+#EXTINF:-1 group-title="百事通",新视觉 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xsjhd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",游戏风云 8M
+#EXTINF:-1 group-title="百事通",游戏风云 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/yxfy8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",热门综艺 8M
+#EXTINF:-1 group-title="百事通",热门综艺 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/rmzy8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",超级体育 8M
+#EXTINF:-1 group-title="百事通",超级体育 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qcsj8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",健康养生 8M
+#EXTINF:-1 group-title="百事通",健康养生 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jkys8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",百变课堂 8M
+#EXTINF:-1 group-title="百事通",百变课堂 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/bbkt8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",看天下精选 8M
+#EXTINF:-1 group-title="百事通",看天下精选 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/ktxjx8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",华语影院 8M
+#EXTINF:-1 group-title="百事通",华语影院 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hyyy8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",电竞天堂 8M
+#EXTINF:-1 group-title="百事通",电竞天堂 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/djtt8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",青春动漫 8M
+#EXTINF:-1 group-title="百事通",青春动漫 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qcdm8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",宝宝动画 8M
+#EXTINF:-1 group-title="百事通",宝宝动画 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/bbdh8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",星光影院 8M
+#EXTINF:-1 group-title="百事通",星光影院 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/xgyy8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",谍战剧场 8M
+#EXTINF:-1 group-title="百事通",谍战剧场 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dzjc8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",全球大片 8M
+#EXTINF:-1 group-title="百事通",全球大片 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/qqdp8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",热门剧场 8M
+#EXTINF:-1 group-title="百事通",热门剧场 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/rmjc8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",陶瓷高清 8M
+#EXTINF:-1 group-title="百事通",陶瓷高清 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/taocihd/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",中国教育-1 8M
+#EXTINF:-1 group-title="百事通",中国教育-1 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/zgjy1t8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",中国教育-4 8M
+#EXTINF:-1 group-title="百事通",中国教育-4 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",卡酷少儿 8M
+#EXTINF:-1 group-title="百事通",卡酷少儿 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/kkse8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",纪实科教 8M
+#EXTINF:-1 group-title="百事通",纪实科教 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dajs8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",茶频道 8M
+#EXTINF:-1 group-title="百事通",茶频道 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",足球高清 8M
+#EXTINF:-1 group-title="百事通",足球高清 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/zqpd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",炫动卡通 8M
+#EXTINF:-1 group-title="百事通",炫动卡通 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/hhxd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",东方财经 8M
+#EXTINF:-1 group-title="百事通",东方财经 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dfcjhd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",都市剧场 8M
+#EXTINF:-1 group-title="百事通",都市剧场 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dsjc8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",动漫秀场 8M
+#EXTINF:-1 group-title="百事通",动漫秀场 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/dmxc8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",法治天地 8M
+#EXTINF:-1 group-title="百事通",法治天地 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/fztd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",金色学堂 8M
+#EXTINF:-1 group-title="百事通",金色学堂 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/jingsepd8m/8000000/mnf.m3u8
-#EXTINF:-1 group-title="百事通,#genre#",魅力足球 8M
+#EXTINF:-1 group-title="百事通",魅力足球 8M
 http://111.2.185.168/fjnetv51.live.bestvcdn.com.cn/D_bestvfreekey-showto_D/live/program/live/mlyyhd8m/8000000/mnf.m3u8
 
 #EXTM3U
-#EXTINF:-1 group-title="IPV6-1,#genre#",CCTV-1 综合
+#EXTINF:-1 group-title="IPV6-1",CCTV-1 综合
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",CCTV-2 财经
+#EXTINF:-1 group-title="IPV6-1",CCTV-2 财经
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",CCTV-3 综艺
+#EXTINF:-1 group-title="IPV6-1",CCTV-3 综艺
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228392/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",CCTV-4 中文国际
+#EXTINF:-1 group-title="IPV6-1",CCTV-4 中文国际
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",CCTV-5 体育
+#EXTINF:-1 group-title="IPV6-1",CCTV-5 体育
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",CCTV-5+ 体育赛事
+#EXTINF:-1 group-title="IPV6-1",CCTV-5+ 体育赛事
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",CCTV-6 电影
+#EXTINF:-1 group-title="IPV6-1",CCTV-6 电影
 http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/ott.mobaibox.com/PLTV/4/224/3221228123/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",CCTV-7 国防军事
+#EXTINF:-1 group-title="IPV6-1",CCTV-7 国防军事
 http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/ott.mobaibox.com/PLTV/4/224/3221227690/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",CCTV-8 电视剧
+#EXTINF:-1 group-title="IPV6-1",CCTV-8 电视剧
 http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227473/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",CCTV-9 纪录
+#EXTINF:-1 group-title="IPV6-1",CCTV-9 纪录
 http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/4/224/3221227614/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",CCTV-10 科教
+#EXTINF:-1 group-title="IPV6-1",CCTV-10 科教
 http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/ott.mobaibox.com/PLTV/4/224/3221228286/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",CCTV-11 戏曲
+#EXTINF:-1 group-title="IPV6-1",CCTV-11 戏曲
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228289/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",CCTV-12 社会与法
+#EXTINF:-1 group-title="IPV6-1",CCTV-12 社会与法
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/4/224/3221228401/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",CCTV-13 新闻
+#EXTINF:-1 group-title="IPV6-1",CCTV-13 新闻
 http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227387/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",CCTV-14 少儿
+#EXTINF:-1 group-title="IPV6-1",CCTV-14 少儿
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228292/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",CCTV-15 音乐
+#EXTINF:-1 group-title="IPV6-1",CCTV-15 音乐
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/4/224/3221228404/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",CCTV-16 奥林匹克
+#EXTINF:-1 group-title="IPV6-1",CCTV-16 奥林匹克
 http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221228112/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",CCTV-17 农业农村
+#EXTINF:-1 group-title="IPV6-1",CCTV-17 农业农村
 http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227592/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",CCTV-4K 超高清
+#EXTINF:-1 group-title="IPV6-1",CCTV-4K 超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",CCTV-8K 超高清
+#EXTINF:-1 group-title="IPV6-1",CCTV-8K 超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",CETV-1 综合教育
+#EXTINF:-1 group-title="IPV6-1",CETV-1 综合教育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",CETV-4 职业教育
+#EXTINF:-1 group-title="IPV6-1",CETV-4 职业教育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",凤凰中文
+#EXTINF:-1 group-title="IPV6-1",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",凤凰资讯
+#EXTINF:-1 group-title="IPV6-1",凤凰资讯
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",凤凰香港
+#EXTINF:-1 group-title="IPV6-1",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",湖南卫视
+#EXTINF:-1 group-title="IPV6-1",湖南卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",浙江卫视
+#EXTINF:-1 group-title="IPV6-1",浙江卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",东方卫视
+#EXTINF:-1 group-title="IPV6-1",东方卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",北京卫视
+#EXTINF:-1 group-title="IPV6-1",北京卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",江苏卫视
+#EXTINF:-1 group-title="IPV6-1",江苏卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",安徽卫视
+#EXTINF:-1 group-title="IPV6-1",安徽卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",重庆卫视
+#EXTINF:-1 group-title="IPV6-1",重庆卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228133/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",东南卫视
+#EXTINF:-1 group-title="IPV6-1",东南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228428/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",甘肃卫视
+#EXTINF:-1 group-title="IPV6-1",甘肃卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001298/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",广东卫视
+#EXTINF:-1 group-title="IPV6-1",广东卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",广西卫视
+#EXTINF:-1 group-title="IPV6-1",广西卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/ott.mobaibox.com/PLTV/4/224/3221228183/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",贵州卫视
+#EXTINF:-1 group-title="IPV6-1",贵州卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228136/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",海南卫视
+#EXTINF:-1 group-title="IPV6-1",海南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228139/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",河北卫视
+#EXTINF:-1 group-title="IPV6-1",河北卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/ott.mobaibox.com/PLTV/4/224/3221228106/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",黑龙江卫视
+#EXTINF:-1 group-title="IPV6-1",黑龙江卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",河南卫视
+#EXTINF:-1 group-title="IPV6-1",河南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/4/224/3221228221/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",湖北卫视
+#EXTINF:-1 group-title="IPV6-1",湖北卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",江西卫视
+#EXTINF:-1 group-title="IPV6-1",江西卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221228109/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",吉林卫视
+#EXTINF:-1 group-title="IPV6-1",吉林卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/ott.mobaibox.com/PLTV/4/224/3221228130/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",辽宁卫视
+#EXTINF:-1 group-title="IPV6-1",辽宁卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",山东卫视
+#EXTINF:-1 group-title="IPV6-1",山东卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/ott.mobaibox.com/PLTV/4/224/3221227517/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",深圳卫视
+#EXTINF:-1 group-title="IPV6-1",深圳卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",四川卫视
+#EXTINF:-1 group-title="IPV6-1",四川卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/ott.mobaibox.com/PLTV/4/224/3221228171/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",天津卫视
+#EXTINF:-1 group-title="IPV6-1",天津卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",云南卫视
+#EXTINF:-1 group-title="IPV6-1",云南卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/ott.mobaibox.com/PLTV/4/224/3221225591/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",新疆卫视
+#EXTINF:-1 group-title="IPV6-1",新疆卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="IPV6-1,#genre#",三沙卫视
+#EXTINF:-1 group-title="IPV6-1",三沙卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",青海卫视
+#EXTINF:-1 group-title="IPV6-1",青海卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001082/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",陕西卫视
+#EXTINF:-1 group-title="IPV6-1",陕西卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001067/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",山西卫视
+#EXTINF:-1 group-title="IPV6-1",山西卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001038/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",西藏卫视
+#EXTINF:-1 group-title="IPV6-1",西藏卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",内蒙古卫视
+#EXTINF:-1 group-title="IPV6-1",内蒙古卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",宁夏卫视
+#EXTINF:-1 group-title="IPV6-1",宁夏卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001074/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",兵团卫视
+#EXTINF:-1 group-title="IPV6-1",兵团卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001066/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",安多卫视
+#EXTINF:-1 group-title="IPV6-1",安多卫视
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001311/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",康巴卫视
+#EXTINF:-1 group-title="IPV6-1",康巴卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001313/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",大湾区卫视
+#EXTINF:-1 group-title="IPV6-1",大湾区卫视
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",农林卫视
+#EXTINF:-1 group-title="IPV6-1",农林卫视
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001312/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",延边卫视
+#EXTINF:-1 group-title="IPV6-1",延边卫视
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001307/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",厦门卫视
+#EXTINF:-1 group-title="IPV6-1",厦门卫视
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",CHC高清电影
+#EXTINF:-1 group-title="IPV6-1",CHC高清电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",CHC家庭影院
+#EXTINF:-1 group-title="IPV6-1",CHC家庭影院
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",CHC动作电影
+#EXTINF:-1 group-title="IPV6-1",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",求索纪录
+#EXTINF:-1 group-title="IPV6-1",求索纪录
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
-#EXTINF:-1 group-title="IPV6-1,#genre#",求索科学
+#EXTINF:-1 group-title="IPV6-1",求索科学
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
-#EXTINF:-1 group-title="IPV6-1,#genre#",求索动物
+#EXTINF:-1 group-title="IPV6-1",求索动物
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
-#EXTINF:-1 group-title="IPV6-1,#genre#",求索生活
+#EXTINF:-1 group-title="IPV6-1",求索生活
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-#EXTINF:-1 group-title="IPV6-1,#genre#",黑莓电影
+#EXTINF:-1 group-title="IPV6-1",黑莓电影
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",黑莓动画
+#EXTINF:-1 group-title="IPV6-1",黑莓动画
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",哒啵电竞
+#EXTINF:-1 group-title="IPV6-1",哒啵电竞
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",哒啵赛事
+#EXTINF:-1 group-title="IPV6-1",哒啵赛事
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",乐游
+#EXTINF:-1 group-title="IPV6-1",乐游
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",纪实人文
+#EXTINF:-1 group-title="IPV6-1",纪实人文
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1669704189&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="IPV6-1,#genre#",纯享4K
+#EXTINF:-1 group-title="IPV6-1",纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",风云剧场
+#EXTINF:-1 group-title="IPV6-1",风云剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",风云音乐
+#EXTINF:-1 group-title="IPV6-1",风云音乐
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",第一剧场
+#EXTINF:-1 group-title="IPV6-1",第一剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",女性时尚
+#EXTINF:-1 group-title="IPV6-1",女性时尚
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",风云足球
+#EXTINF:-1 group-title="IPV6-1",风云足球
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",兵器科技
+#EXTINF:-1 group-title="IPV6-1",兵器科技
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",怀旧剧场
+#EXTINF:-1 group-title="IPV6-1",怀旧剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",世界地理
+#EXTINF:-1 group-title="IPV6-1",世界地理
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",文化精品
+#EXTINF:-1 group-title="IPV6-1",文化精品
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",央视台球
+#EXTINF:-1 group-title="IPV6-1",央视台球
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",高尔夫网球
+#EXTINF:-1 group-title="IPV6-1",高尔夫网球
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",电视指南
+#EXTINF:-1 group-title="IPV6-1",电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",都市剧场
+#EXTINF:-1 group-title="IPV6-1",都市剧场
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",生活时尚
+#EXTINF:-1 group-title="IPV6-1",生活时尚
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",金色学堂
+#EXTINF:-1 group-title="IPV6-1",金色学堂
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",法治天地
+#EXTINF:-1 group-title="IPV6-1",法治天地
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",哈哈炫动
+#EXTINF:-1 group-title="IPV6-1",哈哈炫动
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",动漫秀场
+#EXTINF:-1 group-title="IPV6-1",动漫秀场
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",游戏风云
+#EXTINF:-1 group-title="IPV6-1",游戏风云
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",七彩戏剧
+#EXTINF:-1 group-title="IPV6-1",七彩戏剧
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",欢笑剧场
+#EXTINF:-1 group-title="IPV6-1",欢笑剧场
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",第一财经
+#EXTINF:-1 group-title="IPV6-1",第一财经
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",东方财经
+#EXTINF:-1 group-title="IPV6-1",东方财经
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",梨园
+#EXTINF:-1 group-title="IPV6-1",梨园
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
-#EXTINF:-1 group-title="IPV6-1,#genre#",NHK World
+#EXTINF:-1 group-title="IPV6-1",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",CNA
+#EXTINF:-1 group-title="IPV6-1",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",AlJazeera
+#EXTINF:-1 group-title="IPV6-1",AlJazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",Arirang TV
+#EXTINF:-1 group-title="IPV6-1",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",RT News
+#EXTINF:-1 group-title="IPV6-1",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",RT Documentary
+#EXTINF:-1 group-title="IPV6-1",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",CGTN
+#EXTINF:-1 group-title="IPV6-1",CGTN
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",CGTN Documentary
+#EXTINF:-1 group-title="IPV6-1",CGTN Documentary
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",CGTN Français
+#EXTINF:-1 group-title="IPV6-1",CGTN Français
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",CGTN Русский
+#EXTINF:-1 group-title="IPV6-1",CGTN Русский
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002883/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",CGTN Español
+#EXTINF:-1 group-title="IPV6-1",CGTN Español
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",CGTN العربية
+#EXTINF:-1 group-title="IPV6-1",CGTN العربية
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-1,#genre#",茶频道
+#EXTINF:-1 group-title="IPV6-1",茶频道
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",快乐垂钓
+#EXTINF:-1 group-title="IPV6-1",快乐垂钓
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",金鹰纪实
+#EXTINF:-1 group-title="IPV6-1",金鹰纪实
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",金鹰卡通
+#EXTINF:-1 group-title="IPV6-1",金鹰卡通
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8
-#EXTINF:-1 group-title="IPV6-1,#genre#",湖南经视
+#EXTINF:-1 group-title="IPV6-1",湖南经视
 http://175.0.51.26:8899/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="IPV6-1,#genre#",湖南都市
+#EXTINF:-1 group-title="IPV6-1",湖南都市
 http://175.0.51.26:8899/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="IPV6-1,#genre#",湖南爱晚
+#EXTINF:-1 group-title="IPV6-1",湖南爱晚
 http://175.0.51.26:8899/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="IPV6-1,#genre#",湖南国际
+#EXTINF:-1 group-title="IPV6-1",湖南国际
 http://175.0.51.26:8899/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="IPV6-1,#genre#",湖南娱乐
+#EXTINF:-1 group-title="IPV6-1",湖南娱乐
 http://175.0.51.26:8899/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="IPV6-1,#genre#",湖南电影
+#EXTINF:-1 group-title="IPV6-1",湖南电影
 http://175.0.51.26:8899/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="IPV6-1,#genre#",湖南电视剧
+#EXTINF:-1 group-title="IPV6-1",湖南电视剧
 http://175.0.51.26:8899/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="IPV6-1",上海新闻综合
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
@@ -817,149 +817,149 @@ http://15536746789.x3322.net:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&
 http://15536746789.x3322.net:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTM3U
-#EXTINF:-1 group-title="IPV6-2,#genre#",CCTV1
+#EXTINF:-1 group-title="IPV6-2",CCTV1
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-2,#genre#",CCTV2
+#EXTINF:-1 group-title="IPV6-2",CCTV2
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-2,#genre#",CCTV3
+#EXTINF:-1 group-title="IPV6-2",CCTV3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-2,#genre#",CCTV4
+#EXTINF:-1 group-title="IPV6-2",CCTV4
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-2,#genre#",CCTV5
+#EXTINF:-1 group-title="IPV6-2",CCTV5
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-2,#genre#",CCTV5+
+#EXTINF:-1 group-title="IPV6-2",CCTV5+
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-2,#genre#",CCTV6
+#EXTINF:-1 group-title="IPV6-2",CCTV6
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-2,#genre#",CCTV7
+#EXTINF:-1 group-title="IPV6-2",CCTV7
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-2,#genre#",CCTV8
+#EXTINF:-1 group-title="IPV6-2",CCTV8
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-2,#genre#",CCTV9
+#EXTINF:-1 group-title="IPV6-2",CCTV9
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-2,#genre#",CCTV10
+#EXTINF:-1 group-title="IPV6-2",CCTV10
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-2,#genre#",CCTV11
+#EXTINF:-1 group-title="IPV6-2",CCTV11
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",CCTV12
+#EXTINF:-1 group-title="IPV6-2",CCTV12
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-2,#genre#",CCTV13
+#EXTINF:-1 group-title="IPV6-2",CCTV13
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225812/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",CCTV14
+#EXTINF:-1 group-title="IPV6-2",CCTV14
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-2,#genre#",CCTV15
+#EXTINF:-1 group-title="IPV6-2",CCTV15
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",CCTV16
+#EXTINF:-1 group-title="IPV6-2",CCTV16
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-2,#genre#",CCTV17
+#EXTINF:-1 group-title="IPV6-2",CCTV17
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001301/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-2,#genre#",CHC动作电影
+#EXTINF:-1 group-title="IPV6-2",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-2,#genre#",CHC家庭影院
+#EXTINF:-1 group-title="IPV6-2",CHC家庭影院
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-2,#genre#",CHC高清电影
+#EXTINF:-1 group-title="IPV6-2",CHC高清电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="IPV6-2,#genre#",兵器科技
+#EXTINF:-1 group-title="IPV6-2",兵器科技
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",怀旧剧场
+#EXTINF:-1 group-title="IPV6-2",怀旧剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",世界地理
+#EXTINF:-1 group-title="IPV6-2",世界地理
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",文化精品
+#EXTINF:-1 group-title="IPV6-2",文化精品
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",央视台球
+#EXTINF:-1 group-title="IPV6-2",央视台球
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",央视高网
+#EXTINF:-1 group-title="IPV6-2",央视高网
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",风云.剧场
+#EXTINF:-1 group-title="IPV6-2",风云.剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",风云.音乐
+#EXTINF:-1 group-title="IPV6-2",风云.音乐
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",第一.剧场
+#EXTINF:-1 group-title="IPV6-2",第一.剧场
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",女性.时尚
+#EXTINF:-1 group-title="IPV6-2",女性.时尚
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",风云.足球
+#EXTINF:-1 group-title="IPV6-2",风云.足球
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",电视.指南
+#EXTINF:-1 group-title="IPV6-2",电视.指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",安徽卫视
+#EXTINF:-1 group-title="IPV6-2",安徽卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",北京卫视
+#EXTINF:-1 group-title="IPV6-2",北京卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225931/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",东方卫视
+#EXTINF:-1 group-title="IPV6-2",东方卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",东南卫视
+#EXTINF:-1 group-title="IPV6-2",东南卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226038/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",广东卫视
+#EXTINF:-1 group-title="IPV6-2",广东卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225966/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",贵州卫视
+#EXTINF:-1 group-title="IPV6-2",贵州卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226030/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",海南卫视
+#EXTINF:-1 group-title="IPV6-2",海南卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225978/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",河南卫视
+#EXTINF:-1 group-title="IPV6-2",河南卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226023/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",黑龙江都市
+#EXTINF:-1 group-title="IPV6-2",黑龙江都市
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",黑龙江公共
+#EXTINF:-1 group-title="IPV6-2",黑龙江公共
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",黑龙江少儿
+#EXTINF:-1 group-title="IPV6-2",黑龙江少儿
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",黑龙江卫视
+#EXTINF:-1 group-title="IPV6-2",黑龙江卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225985/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",黑龙江文体
+#EXTINF:-1 group-title="IPV6-2",黑龙江文体
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225965/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",黑龙江新闻
+#EXTINF:-1 group-title="IPV6-2",黑龙江新闻
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225992/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",黑龙江影视
+#EXTINF:-1 group-title="IPV6-2",黑龙江影视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225973/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",湖北卫视
+#EXTINF:-1 group-title="IPV6-2",湖北卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225975/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",湖南卫视
+#EXTINF:-1 group-title="IPV6-2",湖南卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226000/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",吉林卫视
+#EXTINF:-1 group-title="IPV6-2",吉林卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226013/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",江苏卫视
+#EXTINF:-1 group-title="IPV6-2",江苏卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225938/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",江西卫视
+#EXTINF:-1 group-title="IPV6-2",江西卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225935/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",咪咕音乐
+#EXTINF:-1 group-title="IPV6-2",咪咕音乐
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225904/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",山东卫视
+#EXTINF:-1 group-title="IPV6-2",山东卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225952/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",山西卫视
+#EXTINF:-1 group-title="IPV6-2",山西卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221226009/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",陕西卫视
+#EXTINF:-1 group-title="IPV6-2",陕西卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225989/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",深圳卫视
+#EXTINF:-1 group-title="IPV6-2",深圳卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225997/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",四川卫视
+#EXTINF:-1 group-title="IPV6-2",四川卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225970/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",台球
+#EXTINF:-1 group-title="IPV6-2",台球
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",天津卫视
+#EXTINF:-1 group-title="IPV6-2",天津卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225972/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",西安新闻
+#EXTINF:-1 group-title="IPV6-2",西安新闻
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225993/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",浙江卫视
+#EXTINF:-1 group-title="IPV6-2",浙江卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",重庆卫视
+#EXTINF:-1 group-title="IPV6-2",重庆卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225963/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",黑莓电影
+#EXTINF:-1 group-title="IPV6-2",黑莓电影
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",纯享4K.备用
+#EXTINF:-1 group-title="IPV6-2",纯享4K.备用
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",CCTV16-4K.备用
+#EXTINF:-1 group-title="IPV6-2",CCTV16-4K.备用
 http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",CCTV8K超高清.2160P
+#EXTINF:-1 group-title="IPV6-2",CCTV8K超高清.2160P
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",百视通4K
+#EXTINF:-1 group-title="IPV6-2",百视通4K
 http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-#EXTINF:-1 group-title="IPV6-2,#genre#",4K修复 7M
+#EXTINF:-1 group-title="IPV6-2",4K修复 7M
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1 group-title="IPV6-2,#genre#",爱上4K.备用
+#EXTINF:-1 group-title="IPV6-2",爱上4K.备用
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 group-title="IPV6-2,#genre#",江苏移动8K测试
+#EXTINF:-1 group-title="IPV6-2",江苏移动8K测试
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 
 
