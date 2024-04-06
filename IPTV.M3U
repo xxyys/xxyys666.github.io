@@ -1020,6 +1020,8 @@ http://live.9528.eu.org/da9e59dda156406429c8ea42ff7d2e27.m3u8
 
 #EXTINF:-1 tvg-name="天映频道" group-title="直播分享",天映频道
 http://sgp.860311.xyz:8080/cmbb26Adb841d790.m3u8
+#EXTINF:-1 tvg-name="翡翠4K" group-title="直播分享",翡翠4K
+http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
 
 
 
