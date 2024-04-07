@@ -1,18 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml,http://epg.51zmt.top:8000/e.xml,https://live.fanmingming.com/e.xml,http://epg.hklive.tv"
-#EXTM3U
-
-#EXTINF:-1 group-title="央视",CCTV4K
-http://iptv.hiper25.com:7522/upnp/channelstream/4135709594600090926%7CCCTV%204K.ts
-#EXTINF:-1 group-title="央视",CCTV4K
-http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/肥羊/224/3221227896/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV8K
-http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/肥羊/224/3221228165/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV16-4K
-http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/肥羊/224/3221228168/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV16-4K
-http://[2409:8087:2001:20:2800:0:df6e:eb0f]/ott.mobaibox.com/PLTV/肥羊/224/3221228320/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV1-4K
-http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/肥羊/224/3221227896/index.m3u8
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
