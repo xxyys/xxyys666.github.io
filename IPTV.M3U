@@ -1213,25 +1213,6 @@ http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-name="咪咕1" group-title="直播分享",咪咕1
-https://livednow.com/tencent/100000:56377437/281148/1763082200?sign=gAAAAABmB0X1wczcmciEfz-DwCoqJ7noJzq2YkIwdPLO8pQK03IbwLWk499tvcfpRTeUFQU-4OZiYVUK1sRyoVNlDWqQpKa4kVtb5qTuIrhRoXbSdALwPnNxnaS7EacMPZzQURwdXVWG-umHN357d9gpnoRhdX4bVic87cQlNAewdWsvavQi_shtzb1MewLB5CJidEVatn2d9h1Imtii-YGa979GIcejuOdVs4c2c7TfiUM0huAwtesVguRxyWvbbfcPYqcMStj7Zyt3YSv39Nawck49YeaKUpDxp9XIlOxqlfhB8gWmiAhrZfzfyQVtU9ZwQfsEs78682eN7Wsa7kF-3v0HutAi2X1XA4PqVYl6mL6dq4zrvA5lqoenw0EFH-Q9Qm4sTjcXqJ8PIJ4xPI_AQyOP6WyHPmg5m9E7qdDa_B46GKHGbI8%3D
-#EXTINF:-1 tvg-name="咪咕2" group-title="直播分享",咪咕2
-https://livednow.com/migu/905702580?sign=gAAAAABmBrXMsdyz9s8_YA9anF0tlO32DzQbgxJiSNx4NXD6IdyYRGT6tKcHtGREkfe8YNaSSkTVI46NQgmffGiUKv35Y1vYF9IVwc5XGXWyBvNKr4vixhOyvXbdxZ4FYJaWD9dE-Nn8zyIzXh9r7b-YUpUiv3c1vSGMZyH9j-03Uy170u2rVxKPDgRZsyidf29217yUHBkE7VDxVwmTWeFJErwA_5XVQA%3D%3D
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-name="腾讯1" group-title="直播分享",腾讯1
-https://livednow.com/tencent/100000:56377431/281143/1378142200?sign=gAAAAABmBKN5cW7MNNMmUi9fnQ6BahtquqZHE4JpOFHvJRudGOP6OirwH4mvDkY8B1igoDJRdra4F8wjF2NdtZe_B9nnfFiPPXAijoWdNwNUnoZyutIeRJBlk45iSy0TckdZIyUWd_-llMtvucBneO-saQmlc1ToxshkgwUta9IRnX-kGj2QCgMsK9Yo6iN1bc1c6tmqKQvNdiraIGgDD9G5f-r3M48ME28rZoAiPbWMfjkFICIK2WztRxHQM5TDsuk9WZesCgPrnIsiuXuAh8XOnAXX_3fUxuHQfQOW6e_VcAYHPYAYTbuMfVAgQDDCu8G5nv5swKafTnUWR7dHBpe2FxyLI-7nu1reZkA9jyk8iqFj_KCbNAKtQuBgRH8oEWZTTDFQvaUUSY7-FYMlWoDkSBeG0P4aHIO3RB2s4s19BWolWMIoRWc%3D
-#EXTINF:-1 tvg-name="腾讯2" group-title="直播分享",腾讯2
-https://livednow.com/tencent/100000:56377429/281141/1763081200?sign=gAAAAABmBKN5bXdKUNYgjwjlngpcjZC5J38bSmrn-Z-2XLpG0K7w41ZQrvzpR5_X2fanbIyx1UAG--4-o9VUvwt7BvppjD-t4Hx15hzxibDfE673uhaEYsDTkfSzIHM3rwDWxDzUdx-jRxcZO95ZUkJbrfmzzd_Ncjjqp8TX4hNkxx6pLWN0YPOQFpjewgDjLesxMU16LlWvpchFVasefAUsxt5rex8sOgg-QQk4e9wLgPplB_IowpQ7gM0v_9GJC-fh5y5KXAhd_GhWxo7RfoYMdG4lBDIq1RMzLK3s97QPvGoChPnBtkLVFutXcpbnI1rPNPS5XZM-3_sEqh013cxBh3CG_fUy3EYbZLfh4aw_1E5XdqNMAYNhA7UnC2dHGsPjHup6WDhzGBuMji3V8YWquFHOXqMiFFJw720eqKydRxjJxc2yu_U%3D
-
-
-
 #EXTINF:-1 tvg-name="sky main event 4k" group-title="直播分享",sky main event 4k
 http://live.9528.eu.org/da9e59dda156406429c8ea42ff7d2e27.m3u8
 
@@ -1241,7 +1222,8 @@ http://live.9528.eu.org/da9e59dda156406429c8ea42ff7d2e27.m3u8
 http://sgp.860311.xyz:8080/cmbb26Adb841d790.m3u8
 #EXTINF:-1 tvg-name="翡翠4K" group-title="直播分享",翡翠4K
 http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
-
+#EXTINF:-1 tvg-name="翡翠台" group-title="直播分享",翡翠台
+https://cdn-iptv.hiper25.com/TVB/video.m3u8
 
 #EXTINF:-1 tvg-id="TY01" tvg-name="TY01" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/Slive1.png" group-title="体育直播",体育直播-1
 http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive01
